@@ -4,7 +4,7 @@ A curated question–answering dataset for control systems courses, designed for
 
 ## Overview
 
-**controlQA300** contains 300 manually reviewed problems with standardized solutions, metadata, and auxiliary materials. Each problem is organized as a self-contained directory, covering core topics in linear control systems: system modeling, differential equations, Laplace transforms, transfer functions, stability, time-domain response, frequency-domain analysis, and controller design.
+**controlQA300** contains 236 manually reviewed problems with standardized solutions, metadata, and auxiliary materials. Each problem is organized as a self-contained directory, covering core topics in linear control systems: system modeling, differential equations, Laplace transforms, transfer functions, stability, time-domain response, frequency-domain analysis, and controller design.
 
 The dataset is intended to support research on:
 
@@ -33,7 +33,7 @@ problems/
 ├── problem_002/
 │   └── ...
 ...
-└── problem_300/
+└── problem_236/
 ```
 
 Each `problem_XXX` directory is self-contained and follows the same layout.
