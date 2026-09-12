@@ -1,0 +1,51 @@
+{
+  "id": "problem_015",
+  "title": "Coupled Rotational Inertias with Viscous Friction",
+  "difficulty": "medium",
+  "difficulty_score": 0.62,
+  "expert_rating": 4.5,
+  "expert_review": "Well-structured problem illustrating the impact of viscous friction and belt constraints in rotational systems.",
+  "keywords": [
+    "rotational-dynamics",
+    "belt-driven-system",
+    "viscous-friction",
+    "mechanical-systems",
+    "inertia-coupling"
+  ],
+  "subjects": [
+    "control-systems",
+    "mechanical-systems",
+    "dynamics"
+  ],
+  "prerequisites": [
+    "newtonian-mechanics",
+    "rotational-dynamics",
+    "basic-control-theory"
+  ],
+  "tags": [
+    "undergraduate",
+    "graduate",
+    "modeling",
+    "derivation"
+  ],
+  "created_date": "2026-01-10",
+  "last_modified": "2026-01-10",
+  "estimated_time": 18,
+  "source": "Control Systems Textbook - Chapter 2",
+  "problem_type": "analytical_derivation",
+  "skill_levels": {
+    "conceptual": 3,
+    "procedural": 4,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": [
+    "apply",
+    "analyze"
+  ],
+  "learning_objectives": [
+    "Model rotational systems with viscous friction",
+    "Apply belt constraints to coupled mechanical systems",
+    "Eliminate internal forces in dynamic modeling",
+    "Derive reduced-order differential equations for control analysis"
+  ]
+}

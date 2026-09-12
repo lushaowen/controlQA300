@@ -1,0 +1,40 @@
+{
+  "id": "problem_160",
+  "title": "Uncontrollability of a Linearized Steering Car Model",
+  "difficulty": "medium",
+  "difficulty_score": 0.6,
+  "expert_rating": 4.3,
+  "expert_review": "A clear example showing how linearization can lead to loss of controllability and how this reflects physical motion constraints.",
+  "keywords": [
+    "controllability",
+    "linearization",
+    "steering-car",
+    "state-space",
+    "eigenvalues"
+  ],
+  "subjects": ["control-systems", "vehicle-dynamics"],
+  "prerequisites": [
+    "state-space-models",
+    "linearization",
+    "controllability",
+    "linear-algebra"
+  ],
+  "tags": ["undergraduate", "graduate", "theoretical"],
+  "created_date": "2026-01-18",
+  "last_modified": "2026-01-18",
+  "estimated_time": 15,
+  "source": "Control Systems Textbook - Chapter 5, Section 5.7",
+  "problem_type": "controllability_analysis",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 3,
+    "problem_solving": 3
+  },
+  "bloom_taxonomy": ["understand", "analyze"],
+  "learning_objectives": [
+    "Verify controllability of linearized state-space models",
+    "Understand limitations introduced by linearization",
+    "Relate mathematical controllability to physical behavior",
+    "Interpret uncontrollable modes in vehicle dynamics"
+  ]
+}

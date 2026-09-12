@@ -1,0 +1,51 @@
+{
+  "id": "problem_115",
+  "title": "Transfer Function and Stability of an RC Circuit",
+  "difficulty": "easy",
+  "difficulty_score": 0.35,
+  "expert_rating": 4.1,
+  "expert_review": "A clear introductory problem linking circuit equations with transfer-function concepts.",
+  "keywords": [
+    "RC-circuit",
+    "transfer-function",
+    "laplace-transform",
+    "first-order-system",
+    "stability"
+  ],
+  "subjects": [
+    "control-systems",
+    "circuits",
+    "signals-and-systems"
+  ],
+  "prerequisites": [
+    "basic-circuit-theory",
+    "differential-equations",
+    "laplace-transform"
+  ],
+  "tags": [
+    "undergraduate",
+    "introductory",
+    "modeling",
+    "linear-systems"
+  ],
+  "created_date": "2026-01-18",
+  "last_modified": "2026-01-18",
+  "estimated_time": 8,
+  "source": "Control Systems Textbook - Chapter 2",
+  "problem_type": "transfer_function_derivation",
+  "skill_levels": {
+    "conceptual": 3,
+    "procedural": 2,
+    "problem_solving": 2
+  },
+  "bloom_taxonomy": [
+    "understand",
+    "apply"
+  ],
+  "learning_objectives": [
+    "Derive transfer functions from circuit differential equations",
+    "Identify system poles from transfer functions",
+    "Determine asymptotic stability of first-order systems",
+    "Relate electrical circuit behavior to control system models"
+  ]
+}

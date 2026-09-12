@@ -1,0 +1,53 @@
+{
+  "id": "problem_216",
+  "title": "Integral Control and Root-Locus Design for a Water Heater Temperature System",
+  "difficulty": "medium",
+  "difficulty_score": 0.58,
+  "expert_rating": 4.5,
+  "expert_review": "Classic thermal control example illustrating integral action and root-locus stability analysis.",
+  "keywords": [
+    "thermal-system",
+    "water-heater",
+    "root-locus",
+    "integral-control",
+    "temperature-control"
+  ],
+  "subjects": [
+    "control-systems",
+    "thermal-systems"
+  ],
+  "prerequisites": [
+    "energy-balance-modeling",
+    "transfer-functions",
+    "root-locus-method",
+    "steady-state-error"
+  ],
+  "tags": [
+    "undergraduate",
+    "classical-control",
+    "process-control",
+    "thermal-dynamics"
+  ],
+  "created_date": "2026-01-19",
+  "last_modified": "2026-01-19",
+  "estimated_time": 30,
+  "source": "Control Systems Textbook - Chapter 2",
+  "problem_type": "controller_design",
+  "skill_levels": {
+    "conceptual": 3,
+    "procedural": 4,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": [
+    "understand",
+    "apply",
+    "analyze"
+  ],
+  "learning_objectives": [
+    "Model thermal systems using differential equations",
+    "Derive transfer functions for heat-based processes",
+    "Explain the need for integral control in temperature regulation",
+    "Apply root-locus techniques to thermal control systems",
+    "Assess closed-loop stability via pole locations"
+  ]
+}

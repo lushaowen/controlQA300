@@ -1,0 +1,39 @@
+{
+  "id": "problem_161",
+  "title": "State-Space and Block-Diagram Representation of a Falling Object",
+  "difficulty": "easy",
+  "difficulty_score": 0.35,
+  "expert_rating": 4.1,
+  "expert_review": "A clear introductory example connecting physical modeling, differential equations, and state-space representations.",
+  "keywords": [
+    "state-space",
+    "block-diagram",
+    "mechanical-system",
+    "first-order-system",
+    "air-resistance"
+  ],
+  "subjects": ["control-systems", "dynamics"],
+  "prerequisites": [
+    "ordinary-differential-equations",
+    "basic-mechanics",
+    "state-space-models"
+  ],
+  "tags": ["undergraduate", "introductory", "modeling"],
+  "created_date": "2026-01-18",
+  "last_modified": "2026-01-18",
+  "estimated_time": 10,
+  "source": "Control Systems Textbook - Chapter 2 (Problem P2.4 Extension)",
+  "problem_type": "model_representation",
+  "skill_levels": {
+    "conceptual": 3,
+    "procedural": 2,
+    "problem_solving": 2
+  },
+  "bloom_taxonomy": ["understand", "apply"],
+  "learning_objectives": [
+    "Translate physical laws into differential equations",
+    "Formulate state-space models from ODEs",
+    "Construct integrator-based block diagrams",
+    "Relate system states to physical quantities"
+  ]
+}

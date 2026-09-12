@@ -1,0 +1,35 @@
+{
+  "id": "problem_080",
+  "title": "Inequality Proof for Exponential Trig Integral",
+  "difficulty": "medium",
+  "difficulty_score": 0.62,
+  "expert_rating": 4.4,
+  "expert_review": "A classic integral inequality problem that tests symmetry properties and functional bounding techniques. Very relevant for students of mathematical analysis.",
+  "keywords": [
+    "integral-inequality",
+    "cosine-approximation",
+    "even-function",
+    "exponential-integral",
+    "Jordan-inequality"
+  ],
+  "subjects": ["calculus", "mathematical-analysis"],
+  "prerequisites": ["definite-integrals", "trigonometric-properties", "inequality-manipulation"],
+  "tags": ["proof", "undergraduate", "integral-calculus"],
+  "created_date": "2026-01-11",
+  "last_modified": "2026-01-11",
+  "estimated_time": 20,
+  "source": "Mathematical Analysis Exercise Set",
+  "problem_type": "theoretical_proof",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 4,
+    "problem_solving": 5
+  },
+  "bloom_taxonomy": ["apply", "analyze", "evaluate"],
+  "learning_objectives": [
+    "Utilize even function properties to simplify definite integrals",
+    "Apply functional inequalities to derive integral bounds",
+    "Execute integration by substitution or direct anti-differentiation",
+    "Logically prove a strict inequality based on algebraic results"
+  ]
+}

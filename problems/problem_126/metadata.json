@@ -1,0 +1,39 @@
+{
+  "id": "problem_126",
+  "title": "Peak Control Effort for a First-Order System with Proportional Control",
+  "difficulty": "medium",
+  "difficulty_score": 0.6,
+  "expert_rating": 4.5,
+  "expert_review": "Well-structured problem illustrating transient response and peak input analysis.",
+  "keywords": [
+    "laplace-transform",
+    "step-response",
+    "transfer-function",
+    "partial-fractions",
+    "control-effort"
+  ],
+  "subjects": ["control-systems", "linear-systems"],
+  "prerequisites": [
+    "laplace-transforms",
+    "linear-time-invariant-systems",
+    "basic-control-theory"
+  ],
+  "tags": ["undergraduate", "analysis", "time-domain"],
+  "created_date": "2026-01-14",
+  "last_modified": "2026-01-14",
+  "estimated_time": 15,
+  "source": "Control Systems Textbook - Chapter 4",
+  "problem_type": "system_response_analysis",
+  "skill_levels": {
+    "conceptual": 3,
+    "procedural": 4,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": ["apply", "analyze"],
+  "learning_objectives": [
+    "Compute system responses to constant reference inputs",
+    "Apply partial fraction expansion in control analysis",
+    "Identify peak values in transient responses",
+    "Relate controller gains to control signal magnitude"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "problem_063",
+  "title": "Frequency-Shift Property of the Laplace Transform",
+  "difficulty": "easy",
+  "difficulty_score": 0.4,
+  "expert_rating": 4.5,
+  "expert_review": "A straightforward but essential property linking time-domain exponentials to shifts in the s-domain.",
+  "keywords": [
+    "laplace-transform",
+    "frequency-shift",
+    "s-domain-shift",
+    "exponential-weighting"
+  ],
+  "subjects": [
+    "control-systems",
+    "signals-and-systems",
+    "applied-mathematics"
+  ],
+  "prerequisites": [
+    "laplace-transform-basics",
+    "exponential-functions",
+    "complex-frequency"
+  ],
+  "tags": [
+    "undergraduate",
+    "core-theory",
+    "table-property"
+  ],
+  "created_date": "2026-01-11",
+  "last_modified": "2026-01-11",
+  "estimated_time": 8,
+  "source": "Control Systems Textbook - Chapter 3",
+  "problem_type": "analytical_proof",
+  "skill_levels": {
+    "conceptual": 3,
+    "procedural": 1,
+    "problem_solving": 2
+  },
+  "bloom_taxonomy": [
+    "understand",
+    "apply"
+  ],
+  "learning_objectives": [
+    "Prove the frequency-shift property of the Laplace transform",
+    "Understand how exponential weighting affects the s-domain",
+    "Relate time-domain multiplication to frequency-domain translation",
+    "Apply the frequency-shift property in system analysis"
+  ]
+}

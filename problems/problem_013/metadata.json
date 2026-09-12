@@ -1,0 +1,54 @@
+{
+  "id": "problem_013",
+  "title": "Nonlinear Free-Fall and Parachute Dynamics",
+  "difficulty": "medium_to_hard",
+  "difficulty_score": 0.78,
+  "expert_rating": 4.6,
+  "expert_review": "Excellent example illustrating nonlinear dynamics, terminal velocity, and safety-critical system modeling.",
+  "keywords": [
+    "nonlinear-dynamics",
+    "free-fall",
+    "parachute",
+    "terminal-velocity",
+    "drag-force",
+    "time-constant"
+  ],
+  "subjects": [
+    "control-systems",
+    "dynamics",
+    "mechanical-systems"
+  ],
+  "prerequisites": [
+    "ordinary-differential-equations",
+    "linear-systems",
+    "basic-dynamics"
+  ],
+  "tags": [
+    "graduate",
+    "nonlinear-systems",
+    "applied-modeling",
+    "safety-analysis"
+  ],
+  "created_date": "2026-01-10",
+  "last_modified": "2026-01-10",
+  "estimated_time": 35,
+  "source": "Control Systems Textbook - Chapter 2",
+  "problem_type": "analytical_computation",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 4,
+    "problem_solving": 5
+  },
+  "bloom_taxonomy": [
+    "apply",
+    "analyze",
+    "evaluate"
+  ],
+  "learning_objectives": [
+    "Model nonlinear drag forces in dynamic systems",
+    "Compute terminal velocities from physical parameters",
+    "Define time constants for nonlinear systems",
+    "Analyze safety constraints in physical systems",
+    "Integrate velocity profiles to obtain displacement"
+  ]
+}

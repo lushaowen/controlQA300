@@ -1,0 +1,53 @@
+{
+  "id": "problem_114",
+  "title": "Steady-State Response of a Two-Mass Spring-Damper System to Constant Force",
+  "difficulty": "medium",
+  "difficulty_score": 0.68,
+  "expert_rating": 4.5,
+  "expert_review": "A solid problem linking frequency-domain analysis with physical intuition in mechanical systems.",
+  "keywords": [
+    "mass-spring-damper",
+    "steady-state-response",
+    "frequency-response",
+    "DC-gain",
+    "asymptotic-stability"
+  ],
+  "subjects": [
+    "control-systems",
+    "mechanical-systems",
+    "linear-systems"
+  ],
+  "prerequisites": [
+    "laplace-transform",
+    "transfer-functions",
+    "frequency-domain-analysis",
+    "classical-mechanics"
+  ],
+  "tags": [
+    "undergraduate",
+    "graduate",
+    "modeling",
+    "physical-interpretation"
+  ],
+  "created_date": "2026-01-18",
+  "last_modified": "2026-01-18",
+  "estimated_time": 15,
+  "source": "Control Systems Textbook - Chapter 3",
+  "problem_type": "analytical_derivation",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 3,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": [
+    "apply",
+    "analyze",
+    "evaluate"
+  ],
+  "learning_objectives": [
+    "Compute steady-state responses using frequency-domain methods",
+    "Understand the role of DC gain in linear systems",
+    "Relate mathematical results to physical equilibrium conditions",
+    "Interpret mechanical system behavior using control theory tools"
+  ]
+}

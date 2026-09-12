@@ -1,0 +1,39 @@
+{
+  "id": "problem_041",
+  "title": "Parameter Estimation of a DC Motor from Stall Test Data",
+  "difficulty": "medium_to_hard",
+  "difficulty_score": 0.72,
+  "expert_rating": 4.6,
+  "expert_review": "Excellent example of practical parameter estimation using simple experimental measurements.",
+  "keywords": [
+    "dc-motor",
+    "parameter-estimation",
+    "stall-test",
+    "electromechanical-systems",
+    "system-identification"
+  ],
+  "subjects": ["control-systems", "electromechanics"],
+  "prerequisites": [
+    "dc-motor-modeling",
+    "basic-circuit-theory",
+    "mechanical-dynamics"
+  ],
+  "tags": ["undergraduate", "experimental-modeling", "parameter-identification"],
+  "created_date": "2026-01-10",
+  "last_modified": "2026-01-10",
+  "estimated_time": 20,
+  "source": "Control and Dynamic Systems Textbook - Chapter 2",
+  "problem_type": "parameter_estimation",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 4,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": ["apply", "analyze", "evaluate"],
+  "learning_objectives": [
+    "Estimate DC motor parameters from experimental data",
+    "Understand stall testing principles",
+    "Relate electrical measurements to mechanical properties",
+    "Apply identification formulas in practice"
+  ]
+}

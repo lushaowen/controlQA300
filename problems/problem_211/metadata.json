@@ -1,0 +1,39 @@
+{
+  "id": "problem_211",
+  "title": "Coordinate Transformation in the One-Quarter-Car Suspension Model",
+  "difficulty": "medium",
+  "difficulty_score": 0.66,
+  "expert_rating": 4.4,
+  "expert_review": "A fundamental derivation problem that clarifies coordinate transformations and coupling in vehicle suspension models.",
+  "keywords": [
+    "one-quarter-car-model",
+    "vehicle-suspension",
+    "coordinate-transformation",
+    "multi-degree-of-freedom",
+    "road-excitation"
+  ],
+  "subjects": ["control-systems", "vehicle-dynamics", "mechanical-systems"],
+  "prerequisites": [
+    "ordinary-differential-equations",
+    "mechanical-vibrations",
+    "lumped-parameter-modeling"
+  ],
+  "tags": ["undergraduate", "model-derivation", "vehicle-modeling"],
+  "created_date": "2026-01-19",
+  "last_modified": "2026-01-19",
+  "estimated_time": 25,
+  "source": "Control Systems Textbook - Chapter 6",
+  "problem_type": "model_derivation",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 3,
+    "problem_solving": 3
+  },
+  "bloom_taxonomy": ["understand", "analyze"],
+  "learning_objectives": [
+    "Understand the one-quarter-car suspension model",
+    "Apply coordinate transformations to mechanical systems",
+    "Derive coupled differential equations",
+    "Interpret road inputs in suspension dynamics"
+  ]
+}

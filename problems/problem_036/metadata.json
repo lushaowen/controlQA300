@@ -1,0 +1,50 @@
+{
+  "id": "problem_036",
+  "title": "Modeling of a Series RLC Circuit",
+  "difficulty": "medium",
+  "difficulty_score": 0.65,
+  "expert_rating": 4.8,
+  "expert_review": "Canonical derivation of a second-order electrical system using Kirchhoff’s laws",
+  "keywords": [
+    "RLC-circuit",
+    "second-order-system",
+    "kirchhoff-laws",
+    "circuit-modeling",
+    "differential-equations"
+  ],
+  "subjects": [
+    "electric-circuits",
+    "control-systems",
+    "signals-and-systems"
+  ],
+  "prerequisites": [
+    "RC-circuit-modeling",
+    "kirchhoff-laws",
+    "second-order-ODEs"
+  ],
+  "tags": [
+    "undergraduate",
+    "modeling",
+    "dynamics"
+  ],
+  "created_date": "2026-01-10",
+  "last_modified": "2026-01-10",
+  "estimated_time": 15,
+  "source": "Control Systems Textbook - Electrical Circuit Examples",
+  "problem_type": "physical_system_modeling",
+  "skill_levels": {
+    "conceptual": 3,
+    "procedural": 4,
+    "problem_solving": 3
+  },
+  "bloom_taxonomy": [
+    "apply",
+    "analyze"
+  ],
+  "learning_objectives": [
+    "Derive second-order circuit models using Kirchhoff’s laws",
+    "Understand the role of inductance in system dynamics",
+    "Compare first-order and second-order electrical systems",
+    "Recognize RLC circuits as canonical control examples"
+  ]
+}

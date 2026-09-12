@@ -1,0 +1,52 @@
+{
+  "id": "problem_061",
+  "title": "Frequency Differentiation Property of the Laplace Transform",
+  "difficulty": "medium",
+  "difficulty_score": 0.6,
+  "expert_rating": 4.7,
+  "expert_review": "An important complementary property linking s-domain differentiation to time-domain weighting.",
+  "keywords": [
+    "laplace-transform",
+    "frequency-differentiation",
+    "time-weighting",
+    "s-domain-derivative",
+    "moment-property"
+  ],
+  "subjects": [
+    "control-systems",
+    "signals-and-systems",
+    "applied-mathematics"
+  ],
+  "prerequisites": [
+    "laplace-transform-basics",
+    "calculus",
+    "exponential-order",
+    "differentiation-under-integral"
+  ],
+  "tags": [
+    "undergraduate",
+    "core-theory",
+    "proof-based"
+  ],
+  "created_date": "2026-01-11",
+  "last_modified": "2026-01-11",
+  "estimated_time": 12,
+  "source": "Control Systems Textbook - Chapter 3",
+  "problem_type": "analytical_proof",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 2,
+    "problem_solving": 3
+  },
+  "bloom_taxonomy": [
+    "understand",
+    "apply",
+    "analyze"
+  ],
+  "learning_objectives": [
+    "Derive the frequency differentiation property of the Laplace transform",
+    "Understand the relationship between s-domain differentiation and time-domain weighting",
+    "Generalize the result to higher-order derivatives",
+    "Apply the property in Laplace-domain analysis"
+  ]
+}

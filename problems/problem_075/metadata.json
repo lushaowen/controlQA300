@@ -1,0 +1,36 @@
+{
+  "id": "problem_075",
+  "title": "Interchange of Limit and Integration for Pulse Functions",
+  "difficulty": "hard",
+  "difficulty_score": 0.85,
+  "expert_rating": 4.9,
+  "expert_review": "A high-level conceptual problem that addresses the mathematical rigor behind the Dirac Delta function and why standard calculus tools require extension to distribution theory.",
+  "keywords": [
+    "limit-integration-interchange",
+    "Riemann-integral",
+    "Lebesgue-integration",
+    "distributions",
+    "pointwise-convergence",
+    "uniform-convergence"
+  ],
+  "subjects": ["mathematical-analysis", "signals-and-systems", "advanced-calculus"],
+  "prerequisites": ["definite-integrals", "limit-theory", "pulse-functions"],
+  "tags": ["graduate-level", "conceptual-proof", "theoretical-physics"],
+  "created_date": "2026-01-11",
+  "last_modified": "2026-01-11",
+  "estimated_time": 20,
+  "source": "Theory of Distributions and Linear Systems",
+  "problem_type": "conceptual_analysis",
+  "skill_levels": {
+    "conceptual": 5,
+    "procedural": 2,
+    "problem_solving": 5
+  },
+  "bloom_taxonomy": ["evaluate", "analyze"],
+  "learning_objectives": [
+    "Identify why limits and integrals cannot always be interchanged",
+    "Compare pointwise limits with integral limits for singularity-prone functions",
+    "Explain the necessity of distribution theory in signal analysis",
+    "Analyze the boundedness of pulse functions during the limiting process"
+  ]
+}

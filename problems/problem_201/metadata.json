@@ -1,0 +1,40 @@
+{
+  "id": "problem_201",
+  "title": "Root-Locus-Based Feedback Controller Design for SISO Systems",
+  "difficulty": "hard",
+  "difficulty_score": 0.8,
+  "expert_rating": 4.6,
+  "expert_review": "A challenging controller design problem that tests deep understanding of root-locus rules, stability, and practical controller constraints.",
+  "keywords": [
+    "root-locus",
+    "feedback-controller",
+    "stabilization",
+    "SISO-system",
+    "dynamic-compensation"
+  ],
+  "subjects": ["control-systems"],
+  "prerequisites": [
+    "root-locus-design",
+    "feedback-control",
+    "stability-theory",
+    "pole-zero-analysis"
+  ],
+  "tags": ["undergraduate", "design-problem", "advanced"],
+  "created_date": "2026-01-16",
+  "last_modified": "2026-01-16",
+  "estimated_time": 25,
+  "source": "Control Systems Textbook - Root-Locus Design Section",
+  "problem_type": "controller_design",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 4,
+    "problem_solving": 5
+  },
+  "bloom_taxonomy": ["analyze", "design", "evaluate"],
+  "learning_objectives": [
+    "Design stabilizing feedback controllers using root-locus methods",
+    "Assess controller and closed-loop stability",
+    "Avoid improper pole-zero cancellation",
+    "Handle nontrivial stabilization problems in SISO systems"
+  ]
+}

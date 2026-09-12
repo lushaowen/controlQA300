@@ -1,0 +1,51 @@
+{
+  "id": "problem_116",
+  "title": "Step Response of an RC Circuit and Decomposition into Transient and Steady-State Components",
+  "difficulty": "easy_to_medium",
+  "difficulty_score": 0.42,
+  "expert_rating": 4.3,
+  "expert_review": "A classic problem illustrating the time-domain response of first-order circuits using Laplace methods.",
+  "keywords": [
+    "RC-circuit",
+    "step-response",
+    "transient-response",
+    "steady-state",
+    "laplace-transform"
+  ],
+  "subjects": [
+    "control-systems",
+    "circuits",
+    "signals-and-systems"
+  ],
+  "prerequisites": [
+    "transfer-functions",
+    "partial-fractions",
+    "inverse-laplace-transform"
+  ],
+  "tags": [
+    "undergraduate",
+    "modeling",
+    "time-domain-analysis",
+    "first-order-systems"
+  ],
+  "created_date": "2026-01-18",
+  "last_modified": "2026-01-18",
+  "estimated_time": 10,
+  "source": "Control Systems Textbook - Chapter 3",
+  "problem_type": "time_response_analysis",
+  "skill_levels": {
+    "conceptual": 3,
+    "procedural": 3,
+    "problem_solving": 3
+  },
+  "bloom_taxonomy": [
+    "apply",
+    "analyze"
+  ],
+  "learning_objectives": [
+    "Compute the step response of a first-order system",
+    "Use Laplace transforms to solve circuit response problems",
+    "Separate transient and steady-state components of a response",
+    "Interpret RC circuit dynamics in the time domain"
+  ]
+}

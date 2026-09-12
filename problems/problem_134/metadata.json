@@ -1,0 +1,42 @@
+{
+  "id": "problem_134",
+  "title": "Internal Stability Requirement for Smith Predictors",
+  "difficulty": "medium",
+  "difficulty_score": 0.65,
+  "expert_rating": 4.5,
+  "expert_review": "Highlights the internal stability limitations of Smith predictors through pole-zero cancellation arguments.",
+  "keywords": [
+    "smith-predictor",
+    "internal-stability",
+    "pole-zero-cancellation",
+    "time-delay-systems"
+  ],
+  "subjects": ["control-systems"],
+  "prerequisites": [
+    "feedback-control",
+    "internal-stability",
+    "transfer-functions"
+  ],
+  "tags": [
+    "stability-analysis",
+    "model-based-control",
+    "delay-compensation"
+  ],
+  "created_date": "2026-01-14",
+  "last_modified": "2026-01-14",
+  "estimated_time": 10,
+  "source": "Control Systems Textbook - Chapter 4",
+  "problem_type": "internal_stability_analysis",
+  "skill_levels": {
+    "conceptual": 5,
+    "procedural": 3,
+    "problem_solving": 3
+  },
+  "bloom_taxonomy": ["understand", "analyze"],
+  "learning_objectives": [
+    "Explain internal stability requirements in feedback systems",
+    "Understand limitations of pole-zero cancellation",
+    "Relate plant stability to controller feasibility",
+    "Identify hidden unstable dynamics in closed-loop systems"
+  ]
+}

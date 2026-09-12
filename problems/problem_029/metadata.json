@@ -1,0 +1,53 @@
+{
+  "id": "problem_029",
+  "title": "Equilibrium Shift and Coordinate Transformation in a Forced Mechanical System",
+  "difficulty": "medium_to_advanced",
+  "difficulty_score": 0.68,
+  "expert_rating": 4.6,
+  "expert_review": "Excellent problem demonstrating equilibrium shifts and the invariance of system dynamics under constant forcing",
+  "keywords": [
+    "mass-spring-damper",
+    "equilibrium-shift",
+    "coordinate-transformation",
+    "gravity",
+    "forced-system",
+    "homogeneous-equation"
+  ],
+  "subjects": [
+    "control-systems",
+    "mechanical-systems",
+    "system-dynamics"
+  ],
+  "prerequisites": [
+    "ordinary-differential-equations",
+    "linear-systems",
+    "mechanical-modeling"
+  ],
+  "tags": [
+    "undergraduate",
+    "equilibrium-analysis",
+    "modeling-technique"
+  ],
+  "created_date": "2026-01-10",
+  "last_modified": "2026-01-10",
+  "estimated_time": 18,
+  "source": "Control Systems Textbook - Mechanical Modeling Chapter",
+  "problem_type": "coordinate_transformation_and_interpretation",
+  "skill_levels": {
+    "conceptual": 5,
+    "procedural": 3,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": [
+    "understand",
+    "apply",
+    "analyze",
+    "evaluate"
+  ],
+  "learning_objectives": [
+    "Perform coordinate transformations to simplify system equations",
+    "Understand equilibrium shifts due to constant forces",
+    "Distinguish between static and dynamic effects of inputs",
+    "Analyze homogeneous versus forced system representations"
+  ]
+}

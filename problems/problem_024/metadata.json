@@ -1,0 +1,54 @@
+{
+  "id": "problem_024",
+  "title": "Effect of Mass Mismatch on Open-Loop Elevator Velocity Control",
+  "difficulty": "hard",
+  "difficulty_score": 0.78,
+  "expert_rating": 4.9,
+  "expert_review": "An excellent demonstration of open-loop fragility and the need for feedback in practical control systems.",
+  "keywords": [
+    "open-loop-control",
+    "parameter-mismatch",
+    "elevator-dynamics",
+    "gravitational-disturbance",
+    "braking-torque",
+    "robustness"
+  ],
+  "subjects": [
+    "control-systems",
+    "dynamic-systems",
+    "mechanical-modeling"
+  ],
+  "prerequisites": [
+    "first-order-systems",
+    "steady-state-analysis",
+    "mechanical-dynamics"
+  ],
+  "tags": [
+    "undergraduate",
+    "graduate",
+    "robustness",
+    "disturbance-analysis"
+  ],
+  "created_date": "2026-01-10",
+  "last_modified": "2026-01-10",
+  "estimated_time": 30,
+  "source": "Control Systems Textbook - Chapter 2",
+  "problem_type": "open_loop_robustness_analysis",
+  "skill_levels": {
+    "conceptual": 5,
+    "procedural": 4,
+    "problem_solving": 5
+  },
+  "bloom_taxonomy": [
+    "analyze",
+    "evaluate",
+    "apply"
+  ],
+  "learning_objectives": [
+    "Understand limitations of open-loop control",
+    "Analyze system behavior under parameter mismatch",
+    "Compute required braking torque under disturbances",
+    "Compare balanced and unbalanced system designs",
+    "Recognize the necessity of feedback for robustness"
+  ]
+}

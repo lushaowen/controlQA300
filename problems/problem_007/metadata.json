@@ -1,0 +1,44 @@
+{
+  "id": "problem_007",
+  "title": "Linear Approximation of an Arctangent Function Using Taylor Series",
+  "difficulty": "easy_to_medium",
+  "difficulty_score": 0.4,
+  "expert_rating": 4.3,
+  "expert_review": "Good example of small-signal approximation and parameter interpretation",
+  "keywords": [
+    "taylor-expansion",
+    "linear-approximation",
+    "nonlinear-systems",
+    "small-signal",
+    "arctangent"
+  ],
+  "subjects": ["control-systems", "applied-mathematics"],
+  "prerequisites": [
+    "taylor-series",
+    "calculus",
+    "nonlinear-systems"
+  ],
+  "tags": ["undergraduate", "foundational", "approximation"],
+  "created_date": "2026-01-05",
+  "last_modified": "2026-01-05",
+  "estimated_time": 6,
+  "source": "Control Systems Textbook - Chapter 2",
+  "problem_type": "analytical_justification",
+  "skill_levels": {
+    "conceptual": 3,
+    "procedural": 2,
+    "problem_solving": 2
+  },
+  "bloom_taxonomy": ["understand", "apply"],
+  "common_misconceptions": [
+    "using approximation outside the small-signal region",
+    "incorrect Taylor expansion",
+    "confusing approximation with equality"
+  ],
+  "learning_objectives": [
+    "Apply Taylor series to justify linear approximations",
+    "Understand the conditions for small-signal modeling",
+    "Relate nonlinear expressions to effective linear gains",
+    "Assess the validity of approximations in control models"
+  ]
+}

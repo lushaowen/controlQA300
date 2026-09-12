@@ -1,0 +1,39 @@
+{
+  "id": "problem_158",
+  "title": "Observability Verification Using the PBH Test",
+  "difficulty": "medium",
+  "difficulty_score": 0.60,
+  "expert_rating": 4.2,
+  "expert_review": "A clear illustration of observability analysis using the PBH criterion and parameter dependence.",
+  "keywords": [
+    "observability",
+    "PBH-test",
+    "state-space",
+    "eigenvalues",
+    "system-parameters"
+  ],
+  "subjects": ["control-systems", "linear-systems"],
+  "prerequisites": [
+    "linear-algebra",
+    "state-space-representation",
+    "system-observability"
+  ],
+  "tags": ["undergraduate", "theoretical", "conceptual"],
+  "created_date": "2026-01-15",
+  "last_modified": "2026-01-15",
+  "estimated_time": 10,
+  "source": "Control Systems Textbook - Chapter 5",
+  "problem_type": "property_verification",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 3,
+    "problem_solving": 3
+  },
+  "bloom_taxonomy": ["understand", "analyze"],
+  "learning_objectives": [
+    "Apply the PBH test to verify observability",
+    "Analyze eigenstructure for unobservable modes",
+    "Understand parameter-dependent observability",
+    "Relate algebraic conditions to system behavior"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "problem_205",
+  "title": "PI Controller Design Using Root-Locus for Enhanced Performance in Rotational System",
+  "difficulty": "medium_to_hard",
+  "difficulty_score": 0.72,
+  "expert_rating": 4.6,
+  "expert_review": "Strong extension of P6.11, challenging students to leverage zero placement for improved dynamic performance. Integrates modeling, root-locus analysis, and robustness considerations effectively.",
+  "keywords": [
+    "PI-controller",
+    "root-locus",
+    "zero-placement",
+    "closed-loop-pole-design",
+    "asymptotic-tracking",
+    "disturbance-rejection",
+    "rotational-dynamics",
+    "loop-shaping",
+    "robust-control"
+  ],
+  "subjects": ["control-systems", "feedback-control", "mechatronics"],
+  "prerequisites": ["transfer-functions", "root-locus-method", "PI-control", "dynamic-modeling-of-mechanical-systems"],
+  "tags": ["undergraduate", "design-oriented", "advanced-conceptual", "control-theory"],
+  "created_date": "2026-01-05",
+  "last_modified": "2026-01-05",
+  "estimated_time": 30,
+  "source": "Control Systems Textbook - Chapter 6",
+  "problem_type": "controller_design_analysis",
+  "skill_levels": {
+    "conceptual": 5,
+    "procedural": 5,
+    "problem_solving": 5
+  },
+  "bloom_taxonomy": ["analyze", "evaluate", "create"],
+  "learning_objectives": [
+    "Design a PI controller using root-locus techniques",
+    "Place controller zero to improve transient response",
+    "Achieve desired pole locations without pole-zero cancellation",
+    "Ensure robust and stable closed-loop performance",
+    "Verify asymptotic tracking and disturbance rejection capabilities"
+  ]
+}

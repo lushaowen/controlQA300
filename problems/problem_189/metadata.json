@@ -1,0 +1,54 @@
+{
+  "id": "problem_189",
+  "title": "State-Space and Block-Diagram Representation of Euler’s Rigid-Body Equations",
+  "difficulty": "medium",
+  "difficulty_score": 0.65,
+  "expert_rating": 4.5,
+  "expert_review": "A fundamental nonlinear dynamics problem illustrating Euler’s equations and multivariable state-space modeling.",
+  "keywords": [
+    "euler-equations",
+    "rigid-body-dynamics",
+    "angular-velocity",
+    "nonlinear-system",
+    "state-space",
+    "block-diagram"
+  ],
+  "subjects": [
+    "control-systems",
+    "dynamics",
+    "robotics",
+    "aerospace-engineering"
+  ],
+  "prerequisites": [
+    "ordinary-differential-equations",
+    "rigid-body-mechanics",
+    "state-space-modeling"
+  ],
+  "tags": [
+    "undergraduate",
+    "graduate",
+    "nonlinear",
+    "mechanical-systems"
+  ],
+  "created_date": "2026-01-15",
+  "last_modified": "2026-01-15",
+  "estimated_time": 15,
+  "source": "Systems and Control Textbook - Rigid Body Dynamics Chapter",
+  "problem_type": "nonlinear_modeling",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 3,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": [
+    "understand",
+    "apply",
+    "analyze"
+  ],
+  "learning_objectives": [
+    "Rewrite Euler’s equations in state-space form",
+    "Model nonlinear coupling in rigid-body dynamics",
+    "Construct block-diagram representations using integrators",
+    "Interpret physical meaning of gyroscopic effects"
+  ]
+}

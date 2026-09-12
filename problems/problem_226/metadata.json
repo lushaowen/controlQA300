@@ -1,0 +1,42 @@
+{
+  "id": "problem_226",
+  "title": "Disturbance Rejection Control of a Mass-Spring-Damper System",
+  "difficulty": "medium_to_hard",
+  "difficulty_score": 0.72,
+  "expert_rating": 4.5,
+  "expert_review": "A solid frequency-domain controller design problem emphasizing disturbance rejection and classical stability margins.",
+  "keywords": [
+    "mass-spring-damper",
+    "disturbance-rejection",
+    "bode-plot",
+    "nyquist-criterion",
+    "integral-control",
+    "stability-margins"
+  ],
+  "subjects": ["control-systems", "dynamics"],
+  "prerequisites": [
+    "laplace-transform",
+    "transfer-functions",
+    "frequency-domain-analysis",
+    "classical-control"
+  ],
+  "tags": ["undergraduate", "frequency-domain", "feedback-control"],
+  "created_date": "2026-01-20",
+  "last_modified": "2026-01-20",
+  "estimated_time": 25,
+  "source": "Control Systems Textbook - Chapter 7",
+  "problem_type": "controller_design",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 4,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": ["analyze", "apply", "evaluate"],
+  "learning_objectives": [
+    "Model mechanical systems with external disturbances",
+    "Design integral controllers for disturbance rejection",
+    "Use Bode plots to assess stability margins",
+    "Apply the Nyquist criterion for closed-loop stability analysis",
+    "Interpret gain and phase margins in controller design"
+  ]
+}

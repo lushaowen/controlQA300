@@ -1,0 +1,51 @@
+{
+  "id": "problem_037",
+  "title": "Analog Simulation of a Mass-Spring-Damper System Using an RLC Circuit",
+  "difficulty": "medium_to_hard",
+  "difficulty_score": 0.75,
+  "expert_rating": 4.9,
+  "expert_review": "Excellent illustration of cross-domain system equivalence and analog computation",
+  "keywords": [
+    "analog-computer",
+    "RLC-circuit",
+    "mass-spring-damper",
+    "system-equivalence",
+    "physical-modeling"
+  ],
+  "subjects": [
+    "control-systems",
+    "systems-theory",
+    "electrical-engineering",
+    "mechanical-systems"
+  ],
+  "prerequisites": [
+    "second-order-ODEs",
+    "RLC-circuit-modeling",
+    "mass-spring-damper-systems"
+  ],
+  "tags": [
+    "intermediate",
+    "modeling",
+    "cross-domain"
+  ],
+  "created_date": "2026-01-10",
+  "last_modified": "2026-01-10",
+  "estimated_time": 18,
+  "source": "Control Systems Textbook - Analog Computing Example",
+  "problem_type": "system_equivalence_analysis",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 3,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": [
+    "analyze",
+    "synthesize"
+  ],
+  "learning_objectives": [
+    "Recognize equivalence between mechanical and electrical systems",
+    "Normalize and compare second-order dynamic equations",
+    "Understand the principles of analog computation",
+    "Design electrical analogs of mechanical systems"
+  ]
+}

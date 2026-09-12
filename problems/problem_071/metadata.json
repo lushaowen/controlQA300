@@ -1,0 +1,35 @@
+{
+  "id": "problem_071",
+  "title": "Sampling Property of the Unit Pulse Function at the Origin",
+  "difficulty": "medium",
+  "difficulty_score": 0.50,
+  "expert_rating": 4.6,
+  "expert_review": "Fundamental derivation for signal processing and control theory, clearly illustrating the transition from finite pulses to ideal impulses.",
+  "keywords": [
+    "unit-pulse",
+    "sampling-property",
+    "mean-value-theorem",
+    "limit-analysis",
+    "dirac-delta"
+  ],
+  "subjects": ["mathematics", "signals-and-systems", "calculus"],
+  "prerequisites": ["definite-integrals", "mean-value-theorem", "limit-laws"],
+  "tags": ["undergraduate", "theoretical", "proof"],
+  "created_date": "2026-01-11",
+  "last_modified": "2026-01-11",
+  "estimated_time": 12,
+  "source": "Foundations of Control Systems - Chapter 3",
+  "problem_type": "analytical_proof",
+  "skill_levels": {
+    "conceptual": 5,
+    "procedural": 3,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": ["understand", "apply", "analyze"],
+  "learning_objectives": [
+    "Apply the Mean-Value Theorem to functional integration",
+    "Prove the sampling property of a rectangular pulse at the origin",
+    "Understand the limiting process leading to impulse function properties",
+    "Differentiate between the constant and variable components of an integrand during pulse limits"
+  ]
+}

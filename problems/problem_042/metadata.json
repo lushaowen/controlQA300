@@ -1,0 +1,52 @@
+{
+  "id": "problem_042",
+  "title": "Parameter Estimation of a DC Motor Using Stall Torque",
+  "difficulty": "medium",
+  "difficulty_score": 0.65,
+  "expert_rating": 4.6,
+  "expert_review": "A solid parameter-identification problem linking electrical and mechanical dynamics using stall conditions.",
+  "keywords": [
+    "dc-motor",
+    "stall-torque",
+    "parameter-estimation",
+    "electromechanical-systems",
+    "motor-modeling"
+  ],
+  "subjects": [
+    "control-systems",
+    "electromechanical-systems",
+    "mechatronics"
+  ],
+  "prerequisites": [
+    "dc-motor-modeling",
+    "basic-circuit-theory",
+    "linear-dynamical-systems"
+  ],
+  "tags": [
+    "undergraduate",
+    "graduate",
+    "numerical-estimation",
+    "model-identification"
+  ],
+  "created_date": "2026-01-11",
+  "last_modified": "2026-01-11",
+  "estimated_time": 18,
+  "source": "Control Systems Textbook - DC Motor Modeling",
+  "problem_type": "parameter_estimation",
+  "skill_levels": {
+    "conceptual": 3,
+    "procedural": 4,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": [
+    "apply",
+    "analyze",
+    "evaluate"
+  ],
+  "learning_objectives": [
+    "Understand DC motor behavior under stall conditions",
+    "Estimate electromechanical parameters from experimental data",
+    "Relate physical measurements to mathematical motor models",
+    "Interpret the impact of parameters on system dynamics"
+  ]
+}

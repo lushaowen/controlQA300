@@ -1,0 +1,53 @@
+{
+  "id": "problem_018",
+  "title": "Closed-Loop Speed Control of a Rotating Machine Using Proportional Feedback",
+  "difficulty": "medium_to_hard",
+  "difficulty_score": 0.72,
+  "expert_rating": 4.8,
+  "expert_review": "A comprehensive example demonstrating closed-loop modeling, controller tuning, and steady-state error analysis.",
+  "keywords": [
+    "feedback-control",
+    "proportional-controller",
+    "closed-loop-systems",
+    "time-constant",
+    "steady-state-error"
+  ],
+  "subjects": [
+    "control-systems",
+    "system-dynamics",
+    "mechatronics"
+  ],
+  "prerequisites": [
+    "first-order-systems",
+    "feedback-control",
+    "rotational-dynamics"
+  ],
+  "tags": [
+    "graduate",
+    "control-design",
+    "closed-loop"
+  ],
+  "created_date": "2026-01-10",
+  "last_modified": "2026-01-10",
+  "estimated_time": 25,
+  "source": "Control Systems Textbook - Chapter 2",
+  "problem_type": "closed_loop_control_design",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 5,
+    "problem_solving": 5
+  },
+  "bloom_taxonomy": [
+    "apply",
+    "analyze",
+    "evaluate",
+    "design"
+  ],
+  "learning_objectives": [
+    "Derive closed-loop models of mechanical systems",
+    "Design proportional feedback controllers",
+    "Relate feedback gain to system time constant",
+    "Analyze steady-state tracking error",
+    "Understand the limitations of proportional control"
+  ]
+}

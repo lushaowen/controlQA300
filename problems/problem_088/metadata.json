@@ -1,0 +1,40 @@
+{
+  "id": "problem_088",
+  "title": "Solving Linear Ordinary Differential Equations Using Laplace Transforms",
+  "difficulty": "medium_to_hard",
+  "difficulty_score": 0.72,
+  "expert_rating": 4.7,
+  "expert_review": "A comprehensive exercise set covering first- and second-order ODEs with various forcing functions using the Laplace transform method.",
+  "keywords": [
+    "laplace-transform",
+    "ordinary-differential-equations",
+    "initial-conditions",
+    "forced-response",
+    "homogeneous-systems",
+    "linear-systems"
+  ],
+  "subjects": ["signals-and-systems", "control-systems", "differential-equations"],
+  "prerequisites": [
+    "laplace-transform",
+    "linear-ode",
+    "trigonometric-functions"
+  ],
+  "tags": ["undergraduate", "graduate", "analytical", "systems-analysis"],
+  "created_date": "2026-01-11",
+  "last_modified": "2026-01-11",
+  "estimated_time": 45,
+  "source": "Signals and Systems Textbook - Chapter 3",
+  "problem_type": "analytical_solution",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 5,
+    "problem_solving": 5
+  },
+  "bloom_taxonomy": ["apply", "analyze", "evaluate"],
+  "learning_objectives": [
+    "Solve linear ODEs using the Laplace transform",
+    "Incorporate initial conditions in the Laplace domain",
+    "Analyze forced and unforced system responses",
+    "Understand transient and steady-state behavior"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "problem_099",
+  "title": "Laplace Analysis of Falling Object Motion and Stability",
+  "difficulty": "medium",
+  "difficulty_score": 0.55,
+  "expert_rating": 4.5,
+  "expert_review": "A classic engineering problem that effectively links differential equations, Laplace transforms, and the physical interpretation of stability.",
+  "keywords": [
+    "Laplace-transform",
+    "ODE",
+    "transfer-function",
+    "asymptotic-stability",
+    "terminal-velocity",
+    "integration-property"
+  ],
+  "subjects": [
+    "dynamics",
+    "control-systems",
+    "differential-equations"
+  ],
+  "prerequisites": [
+    "first-order-linear-ODE",
+    "Laplace-transform-table",
+    "partial-fraction-expansion"
+  ],
+  "tags": [
+    "undergraduate",
+    "physics-modeling",
+    "stability-analysis"
+  ],
+  "created_date": "2026-01-12",
+  "last_modified": "2026-01-12",
+  "estimated_time": 25,
+  "source": "Classical Mechanics and Control Theory Exercises",
+  "problem_type": "analytical_derivation",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 5,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": [
+    "apply",
+    "analyze",
+    "calculate"
+  ],
+  "learning_objectives": [
+    "Solve a first-order ODE using Laplace transform techniques",
+    "Perform partial fraction expansion to return to the time domain",
+    "Construct transfer functions for different output variables (velocity vs position)",
+    "Distinguish between asymptotically stable and marginally stable systems based on pole locations"
+  ]
+}

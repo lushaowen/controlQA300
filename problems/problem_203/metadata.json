@@ -1,0 +1,40 @@
+{
+  "id": "problem_203",
+  "title": "Stabilization of a Simple Pendulum at Multiple Equilibria using PD Control",
+  "difficulty": "medium_to_hard",
+  "difficulty_score": 0.75,
+  "expert_rating": 4.5,
+  "expert_review": "An excellent problem that integrates nonlinear dynamics, control design, linearization, and stability analysis. It moves beyond simple set-point stabilization to consider multiple equilibria, which is a key concept in nonlinear control. The solution requires careful algebraic manipulation and a deep understanding of how linear control affects nonlinear system behavior.",
+  "keywords": [
+    "nonlinear-system",
+    "pendulum",
+    "PD-control",
+    "linearization",
+    "equilibrium-points",
+    "stability-analysis",
+    "jacobian",
+    "state-space"
+  ],
+  "subjects": ["nonlinear-control", "control-systems", "dynamic-systems"],
+  "prerequisites": ["linear-state-space", "basic-linearization", "laplace-transform", "stability-routh-hurwitz"],
+  "tags": ["undergraduate", "graduate", "nonlinear", "derivation"],
+  "created_date": "2026-01-19",
+  "last_modified": "2026-01-19",
+  "estimated_time": 25,
+  "source": "Based on standard nonlinear control textbook problem (e.g., similar to Section 5.5 of a typical text)",
+  "problem_type": "derivation_and_analysis",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 5,
+    "problem_solving": 5
+  },
+  "bloom_taxonomy": ["apply", "analyze", "evaluate"],
+  "learning_objectives": [
+    "Derive the closed-loop dynamics of a nonlinear system under linear state feedback.",
+    "Verify equilibrium conditions for a nonlinear closed-loop system.",
+    "Linearize a nonlinear state-space model about a given equilibrium point.",
+    "Derive transfer functions from linearized state-space models.",
+    "Determine stability conditions for second-order linear systems.",
+    "Synthesize controller gain constraints to achieve stability at multiple operating points of a nonlinear plant."
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "problem_002",
+  "title": "Transfer Function Computation from Block Diagrams",
+  "difficulty": "medium",
+  "difficulty_score": 0.6,
+  "expert_rating": 4.6,
+  "expert_review": "Classic control systems problem reinforcing block-diagram reduction techniques",
+  "keywords": [
+    "block-diagram",
+    "transfer-function",
+    "feedback",
+    "series-connection",
+    "control-systems"
+  ],
+  "subjects": ["control-systems", "signals-and-systems"],
+  "prerequisites": ["laplace-transform", "linear-systems", "block-diagram-algebra"],
+  "tags": ["undergraduate", "core-topic", "derivation"],
+  "created_date": "2026-01-05",
+  "last_modified": "2026-01-05",
+  "estimated_time": 15,
+  "source": "Control Systems Textbook - Chapter 1",
+  "problem_type": "analytical_derivation",
+  "skill_levels": {
+    "conceptual": 3,
+    "procedural": 4,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": ["apply", "analyze"],
+  "learning_objectives": [
+    "Apply block-diagram reduction rules",
+    "Compute transfer functions of interconnected systems",
+    "Analyze feedback system behavior",
+    "Translate graphical system representations into algebraic models"
+  ]
+}

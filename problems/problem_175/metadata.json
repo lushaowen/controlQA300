@@ -1,0 +1,52 @@
+{
+  "id": "problem_175",
+  "title": "Nonlinear State-Space Model of a Water Tank System",
+  "difficulty": "medium",
+  "difficulty_score": 0.65,
+  "expert_rating": 4.6,
+  "expert_review": "Classic nonlinear example illustrating fluid dynamics modeling using state-space representations.",
+  "keywords": [
+    "water-tank",
+    "nonlinear-system",
+    "state-space",
+    "block-diagram",
+    "fluid-dynamics"
+  ],
+  "subjects": [
+    "control-systems",
+    "system-dynamics",
+    "process-control"
+  ],
+  "prerequisites": [
+    "ordinary-differential-equations",
+    "basic-fluid-mechanics",
+    "state-space-modeling"
+  ],
+  "tags": [
+    "undergraduate",
+    "nonlinear",
+    "modeling",
+    "process-systems"
+  ],
+  "created_date": "2026-01-19",
+  "last_modified": "2026-01-19",
+  "estimated_time": 20,
+  "source": "Control Systems Textbook - Section 2.8",
+  "problem_type": "nonlinear_modeling",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 3,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": [
+    "understand",
+    "apply",
+    "analyze"
+  ],
+  "learning_objectives": [
+    "Derive nonlinear differential equations from physical principles",
+    "Formulate nonlinear state-space models",
+    "Construct integrator-based block diagrams for fluid systems",
+    "Understand the role of nonlinearities in process dynamics"
+  ]
+}

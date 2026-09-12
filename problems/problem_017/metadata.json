@@ -1,0 +1,53 @@
+{
+  "id": "problem_017",
+  "title": "Open-Loop Torque Selection for Desired Steady-State Speed",
+  "difficulty": "medium",
+  "difficulty_score": 0.65,
+  "expert_rating": 4.4,
+  "expert_review": "Clear demonstration of steady-state torque design and its limitations in open-loop control.",
+  "keywords": [
+    "open-loop-control",
+    "steady-state-analysis",
+    "rotational-systems",
+    "belt-driven-system",
+    "torque-design"
+  ],
+  "subjects": [
+    "control-systems",
+    "mechanical-dynamics",
+    "mechatronics"
+  ],
+  "prerequisites": [
+    "first-order-systems",
+    "steady-state-analysis",
+    "rotational-dynamics"
+  ],
+  "tags": [
+    "undergraduate",
+    "graduate",
+    "open-loop",
+    "design"
+  ],
+  "created_date": "2026-01-10",
+  "last_modified": "2026-01-10",
+  "estimated_time": 18,
+  "source": "Control Systems Textbook - Chapter 2",
+  "problem_type": "steady_state_design",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 4,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": [
+    "apply",
+    "analyze",
+    "evaluate"
+  ],
+  "learning_objectives": [
+    "Compute steady-state torque requirements",
+    "Relate open-loop inputs to steady-state outputs",
+    "Analyze transient versus steady-state behavior",
+    "Understand limitations of open-loop control",
+    "Prepare for feedback control design"
+  ]
+}

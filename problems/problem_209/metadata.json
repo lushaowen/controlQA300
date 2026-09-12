@@ -1,0 +1,40 @@
+{
+  "id": "problem_209",
+  "title": "Root-Locus Control of a Two-Mass Spring-Damper System with Disturbance Rejection",
+  "difficulty": "medium_to_hard",
+  "difficulty_score": 0.75,
+  "expert_rating": 4.6,
+  "expert_review": "A challenging multibody control problem illustrating disturbance rejection and root-locus design for higher-order systems.",
+  "keywords": [
+    "two-mass-system",
+    "spring-damper",
+    "root-locus",
+    "integral-control",
+    "disturbance-rejection"
+  ],
+  "subjects": ["control-systems", "mechanical-systems"],
+  "prerequisites": [
+    "state-space-modeling",
+    "laplace-transform",
+    "root-locus",
+    "feedback-control"
+  ],
+  "tags": ["undergraduate", "advanced-control", "dynamic-feedback"],
+  "created_date": "2026-01-19",
+  "last_modified": "2026-01-19",
+  "estimated_time": 35,
+  "source": "Control Systems Textbook - Chapter 2",
+  "problem_type": "controller_design",
+  "skill_levels": {
+    "conceptual": 3,
+    "procedural": 4,
+    "problem_solving": 5
+  },
+  "bloom_taxonomy": ["analyze", "design", "evaluate"],
+  "learning_objectives": [
+    "Model coupled mechanical systems with disturbances",
+    "Design integral controllers for constant disturbance rejection",
+    "Apply root-locus methods to high-order systems",
+    "Understand stability and oscillation trade-offs in control design"
+  ]
+}

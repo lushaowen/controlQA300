@@ -1,0 +1,42 @@
+{
+  "id": "problem_144",
+  "title": "Proportional Feedback Control of DC Motor Speed",
+  "difficulty": "medium",
+  "difficulty_score": 0.62,
+  "expert_rating": 4.5,
+  "expert_review": "Well-structured control design problem illustrating stability and steady-state tracking limitations of proportional control.",
+  "keywords": [
+    "DC-motor",
+    "speed-control",
+    "proportional-control",
+    "feedback",
+    "internal-stability",
+    "steady-state-error"
+  ],
+  "subjects": ["control-systems", "electromechanical-systems"],
+  "prerequisites": [
+    "laplace-transform",
+    "transfer-functions",
+    "feedback-control",
+    "linear-systems"
+  ],
+  "tags": ["undergraduate", "control-design", "model-based-analysis"],
+  "created_date": "2026-01-18",
+  "last_modified": "2026-01-18",
+  "estimated_time": 25,
+  "source": "Control Systems Textbook - DC Motor Modeling Chapter",
+  "problem_type": "analysis_and_design",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 3,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": ["understand", "analyze", "apply"],
+  "learning_objectives": [
+    "Model DC motor dynamics using differential equations",
+    "Design proportional feedback controllers",
+    "Analyze internal stability of closed-loop systems",
+    "Evaluate steady-state tracking performance",
+    "Relate control structure to steady-state error behavior"
+  ]
+}

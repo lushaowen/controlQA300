@@ -1,0 +1,57 @@
+{
+  "id": "problem_233",
+  "title": "Frequency-Domain Control of a Linearized Satellite Orbit",
+  "difficulty": "hard",
+  "difficulty_score": 0.82,
+  "expert_rating": 4.7,
+  "expert_review": "Challenging and realistic control problem combining orbital mechanics with frequency-domain controller design",
+  "keywords": [
+    "satellite-control",
+    "orbital-dynamics",
+    "state-space",
+    "transfer-function",
+    "bode-plot",
+    "nyquist-criterion",
+    "gain-margin",
+    "phase-margin"
+  ],
+  "subjects": [
+    "control-systems",
+    "aerospace-control",
+    "systems-theory"
+  ],
+  "prerequisites": [
+    "state-space-modeling",
+    "linear-systems",
+    "frequency-domain-analysis",
+    "classical-control"
+  ],
+  "tags": [
+    "graduate",
+    "advanced",
+    "engineering",
+    "aerospace"
+  ],
+  "created_date": "2026-01-20",
+  "last_modified": "2026-01-20",
+  "estimated_time": 45,
+  "source": "Control Systems Textbook – Orbital Dynamics Chapter",
+  "problem_type": "frequency_domain_controller_design",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 4,
+    "problem_solving": 5
+  },
+  "bloom_taxonomy": [
+    "analyze",
+    "apply",
+    "evaluate"
+  ],
+  "learning_objectives": [
+    "Model linearized satellite orbital dynamics",
+    "Derive transfer functions from state-space models",
+    "Apply Nyquist stability criterion",
+    "Design proper dynamic controllers in the frequency domain",
+    "Interpret gain and phase margins for robustness"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "problem_147",
+  "title": "Derivation of the Transfer Function from Armature Voltage to Rotor Torque",
+  "difficulty": "medium",
+  "difficulty_score": 0.6,
+  "expert_rating": 4.6,
+  "expert_review": "Clear analytical problem that strengthens understanding of electromechanical coupling in DC motor models.",
+  "keywords": [
+    "DC-motor",
+    "torque-control",
+    "transfer-function",
+    "electromechanical-systems",
+    "back-emf"
+  ],
+  "subjects": ["control-systems", "electromechanical-systems"],
+  "prerequisites": [
+    "laplace-transform",
+    "dc-motor-modeling",
+    "transfer-functions",
+    "linear-systems"
+  ],
+  "tags": ["undergraduate", "model-derivation", "analytical"],
+  "created_date": "2026-01-18",
+  "last_modified": "2026-01-18",
+  "estimated_time": 20,
+  "source": "Control Systems Textbook - DC Motor Modeling",
+  "problem_type": "derivation",
+  "skill_levels": {
+    "conceptual": 3,
+    "procedural": 4,
+    "problem_solving": 3
+  },
+  "bloom_taxonomy": ["understand", "analyze"],
+  "learning_objectives": [
+    "Derive torque expressions from electrical motor equations",
+    "Relate armature voltage to mechanical torque output",
+    "Use Laplace transforms to eliminate internal variables",
+    "Interpret the physical significance of motor transfer functions",
+    "Connect electrical parameters with mechanical behavior"
+  ]
+}

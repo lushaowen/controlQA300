@@ -1,0 +1,41 @@
+{
+  "id": "problem_138",
+  "title": "Ill-Posed Feedback Diagrams and Algebraic Loops",
+  "difficulty": "easy_to_medium",
+  "difficulty_score": 0.5,
+  "expert_rating": 4.3,
+  "expert_review": "A clear example illustrating why algebraic feedback loops can lead to ill-posed systems.",
+  "keywords": [
+    "well-posedness",
+    "algebraic-loop",
+    "feedback-diagram",
+    "structural-analysis"
+  ],
+  "subjects": ["control-systems"],
+  "prerequisites": [
+    "block-diagrams",
+    "feedback-systems"
+  ],
+  "tags": [
+    "conceptual",
+    "system-structure",
+    "foundations"
+  ],
+  "created_date": "2026-01-14",
+  "last_modified": "2026-01-14",
+  "estimated_time": 8,
+  "source": "Control Systems Textbook - Chapter 4",
+  "problem_type": "conceptual_analysis",
+  "skill_levels": {
+    "conceptual": 5,
+    "procedural": 2,
+    "problem_solving": 2
+  },
+  "bloom_taxonomy": ["understand", "analyze"],
+  "learning_objectives": [
+    "Understand the concept of well-posedness",
+    "Identify algebraic loops in feedback diagrams",
+    "Analyze signal determinacy in control systems",
+    "Distinguish structural issues from stability issues"
+  ]
+}

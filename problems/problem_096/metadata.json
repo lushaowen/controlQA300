@@ -1,0 +1,51 @@
+{
+  "id": "problem_096",
+  "title": "Transfer Function and Stability Analysis of a Feedback System with Delay",
+  "difficulty": "medium",
+  "difficulty_score": 0.65,
+  "expert_rating": 4.5,
+  "expert_review": "Excellent problem for bridging the gap between continuous-time transfer functions and discrete-time-like behavior caused by delays.",
+  "keywords": [
+    "transfer-function",
+    "time-delay",
+    "feedback-loop",
+    "asymptotic-stability",
+    "impulse-response",
+    "Laplace-transform"
+  ],
+  "subjects": [
+    "control-systems",
+    "signals-and-systems"
+  ],
+  "prerequisites": [
+    "Laplace-transform-properties",
+    "geometric-series",
+    "BIBO-stability-definition"
+  ],
+  "tags": [
+    "undergraduate",
+    "stability-analysis",
+    "delay-systems"
+  ],
+  "created_date": "2026-01-12",
+  "last_modified": "2026-01-12",
+  "estimated_time": 25,
+  "source": "Control Systems Engineering Collection",
+  "problem_type": "analytical_derivation",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 4,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": [
+    "apply",
+    "analyze",
+    "evaluate"
+  ],
+  "learning_objectives": [
+    "Derive transfer functions for systems with delay elements",
+    "Utilize geometric series to transform s-domain expressions to time-domain series",
+    "Apply the impulse response integral criterion to determine asymptotic stability",
+    "Understand the impact of feedback gain on the stability of delayed systems"
+  ]
+}

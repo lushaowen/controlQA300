@@ -1,0 +1,42 @@
+{
+  "id": "problem_235",
+  "title": "PD Control Interpretation of a One-Eighth-Car Suspension Design",
+  "difficulty": "medium",
+  "difficulty_score": 0.66,
+  "expert_rating": 4.5,
+  "expert_review": "An insightful reinterpretation of mechanical suspension design as a PD control problem with strong robustness margins.",
+  "keywords": [
+    "pd-control",
+    "one-eighth-car-model",
+    "bode-plot",
+    "nyquist-criterion",
+    "stability-margins",
+    "vehicle-suspension"
+  ],
+  "subjects": ["control-systems", "vehicle-dynamics"],
+  "prerequisites": [
+    "pd-controllers",
+    "frequency-domain-analysis",
+    "mechanical-systems",
+    "classical-control"
+  ],
+  "tags": ["undergraduate", "frequency-domain", "robustness"],
+  "created_date": "2026-01-20",
+  "last_modified": "2026-01-20",
+  "estimated_time": 18,
+  "source": "Control Systems Textbook - Chapter 6",
+  "problem_type": "controller_interpretation_and_analysis",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 3,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": ["analyze", "evaluate"],
+  "learning_objectives": [
+    "Reinterpret mechanical designs as control systems",
+    "Identify PD controller structures in physical models",
+    "Apply Bode plots for robustness evaluation",
+    "Use the Nyquist criterion for stability analysis",
+    "Interpret gain and phase margins in physical systems"
+  ]
+}

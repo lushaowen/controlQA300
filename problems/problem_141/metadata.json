@@ -1,0 +1,39 @@
+{
+  "id": "problem_141",
+  "title": "Velocity Control of an Elevator System",
+  "difficulty": "medium",
+  "difficulty_score": 0.66,
+  "expert_rating": 4.4,
+  "expert_review": "Clear illustration of velocity control limitations in first-order mechanical systems.",
+  "keywords": [
+    "elevator-system",
+    "velocity-control",
+    "feedback-control",
+    "steady-state-error",
+    "mechanical-modeling"
+  ],
+  "subjects": ["control-systems", "mechanical-systems"],
+  "prerequisites": [
+    "transfer-functions",
+    "laplace-transform",
+    "feedback-systems"
+  ],
+  "tags": ["undergraduate", "classical-control", "tracking"],
+  "created_date": "2026-01-18",
+  "last_modified": "2026-01-18",
+  "estimated_time": 20,
+  "source": "Control Systems Textbook - Chapter 2",
+  "problem_type": "velocity_tracking",
+  "skill_levels": {
+    "conceptual": 3,
+    "procedural": 3,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": ["apply", "analyze"],
+  "learning_objectives": [
+    "Model elevator dynamics using differential equations",
+    "Analyze stability of velocity feedback systems",
+    "Understand steady-state tracking limitations",
+    "Relate physical parameters to controller gain selection"
+  ]
+}

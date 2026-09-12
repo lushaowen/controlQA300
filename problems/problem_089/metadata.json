@@ -1,0 +1,53 @@
+{
+  "id": "problem_089",
+  "title": "Analyticity and Removable Singularities of Laplace Transforms",
+  "difficulty": "hard",
+  "difficulty_score": 0.82,
+  "expert_rating": 4.8,
+  "expert_review": "A deep theoretical problem linking Laplace transforms, finite-duration signals, and complex analyticity.",
+  "keywords": [
+    "laplace-transform",
+    "analytic-function",
+    "removable-singularity",
+    "finite-support",
+    "complex-analysis",
+    "signal-theory"
+  ],
+  "subjects": [
+    "signals-and-systems",
+    "complex-analysis",
+    "applied-mathematics"
+  ],
+  "prerequisites": [
+    "laplace-transform",
+    "complex-functions",
+    "taylor-series"
+  ],
+  "tags": [
+    "graduate",
+    "theoretical",
+    "proof-based",
+    "signal-analysis"
+  ],
+  "created_date": "2026-01-11",
+  "last_modified": "2026-01-11",
+  "estimated_time": 60,
+  "source": "Signals and Systems Textbook - Chapter 3",
+  "problem_type": "theoretical_analysis",
+  "skill_levels": {
+    "conceptual": 5,
+    "procedural": 3,
+    "problem_solving": 5
+  },
+  "bloom_taxonomy": [
+    "analyze",
+    "evaluate",
+    "create"
+  ],
+  "learning_objectives": [
+    "Understand analyticity of Laplace transforms",
+    "Identify removable singularities using series expansions",
+    "Relate finite signal support to complex-domain behavior",
+    "Compute inverse Laplace transforms with time shifts"
+  ]
+}

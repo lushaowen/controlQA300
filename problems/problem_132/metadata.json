@@ -1,0 +1,43 @@
+{
+  "id": "problem_132",
+  "title": "Smith Predictor for Time-Delay Systems",
+  "difficulty": "hard",
+  "difficulty_score": 0.78,
+  "expert_rating": 4.8,
+  "expert_review": "Classic derivation of the Smith predictor highlighting delay compensation through model-based feedback.",
+  "keywords": [
+    "smith-predictor",
+    "time-delay",
+    "block-diagram-manipulation",
+    "delay-compensation",
+    "feedback-control"
+  ],
+  "subjects": ["control-systems"],
+  "prerequisites": [
+    "feedback-control",
+    "time-delay-systems",
+    "transfer-functions"
+  ],
+  "tags": [
+    "model-based-control",
+    "delay-systems",
+    "advanced-feedback"
+  ],
+  "created_date": "2026-01-14",
+  "last_modified": "2026-01-14",
+  "estimated_time": 20,
+  "source": "Control Systems Textbook - Chapter 4",
+  "problem_type": "time_delay_control",
+  "skill_levels": {
+    "conceptual": 5,
+    "procedural": 4,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": ["analyze", "synthesize"],
+  "learning_objectives": [
+    "Derive the Smith predictor structure algebraically",
+    "Understand delay compensation in feedback systems",
+    "Interpret controller restructuring via block diagrams",
+    "Relate internal models to closed-loop behavior"
+  ]
+}

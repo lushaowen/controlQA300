@@ -1,0 +1,55 @@
+{
+  "id": "problem_217",
+  "title": "Root-Locus Design for Thermal Systems with Sinusoidal Flow Perturbations",
+  "difficulty": "medium_to_hard",
+  "difficulty_score": 0.72,
+  "expert_rating": 4.7,
+  "expert_review": "Excellent illustration of the internal model principle applied to thermal systems with periodic disturbances.",
+  "keywords": [
+    "thermal-system",
+    "sinusoidal-disturbance",
+    "root-locus",
+    "internal-model-principle",
+    "temperature-control"
+  ],
+  "subjects": [
+    "control-systems",
+    "process-control",
+    "thermal-systems"
+  ],
+  "prerequisites": [
+    "root-locus-method",
+    "steady-state-tracking",
+    "internal-model-principle",
+    "thermal-modeling"
+  ],
+  "tags": [
+    "graduate",
+    "classical-control",
+    "disturbance-rejection",
+    "periodic-inputs"
+  ],
+  "created_date": "2026-01-19",
+  "last_modified": "2026-01-19",
+  "estimated_time": 35,
+  "source": "Control Systems Textbook - Chapter 6",
+  "problem_type": "advanced_controller_design",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 4,
+    "problem_solving": 5
+  },
+  "bloom_taxonomy": [
+    "understand",
+    "apply",
+    "analyze",
+    "evaluate"
+  ],
+  "learning_objectives": [
+    "Model thermal systems with time-varying flow rates",
+    "Apply the internal model principle to periodic signals",
+    "Design higher-order controllers using root-locus methods",
+    "Select controller zeros for stability and performance",
+    "Analyze disturbance rejection in feedback systems"
+  ]
+}

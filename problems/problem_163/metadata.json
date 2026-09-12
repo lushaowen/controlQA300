@@ -1,0 +1,54 @@
+{
+  "id": "problem_159",
+  "title": "Linearization and Stability Analysis of a Cart–Pendulum System",
+  "difficulty": "medium_to_hard",
+  "difficulty_score": 0.72,
+  "expert_rating": 4.6,
+  "expert_review": "A classical control problem that integrates modeling, linearization, and stability analysis of nonlinear mechanical systems.",
+  "keywords": [
+    "inverted-pendulum",
+    "linearization",
+    "state-space",
+    "transfer-function",
+    "stability-analysis",
+    "control-input"
+  ],
+  "subjects": [
+    "control-systems",
+    "dynamics",
+    "mechanical-systems"
+  ],
+  "prerequisites": [
+    "state-space-modeling",
+    "linear-systems",
+    "laplace-transform",
+    "classical-control-theory"
+  ],
+  "tags": [
+    "graduate-level",
+    "nonlinear-systems",
+    "modeling",
+    "stability"
+  ],
+  "created_date": "2026-01-15",
+  "last_modified": "2026-01-15",
+  "estimated_time": 25,
+  "source": "Control Systems Textbook - Section 5.6",
+  "problem_type": "modeling_and_analysis",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 4,
+    "problem_solving": 5
+  },
+  "bloom_taxonomy": [
+    "analyze",
+    "apply",
+    "evaluate"
+  ],
+  "learning_objectives": [
+    "Derive linearized models of nonlinear mechanical systems",
+    "Compute transfer functions from state-space representations",
+    "Assess stability using pole analysis",
+    "Understand the physical significance of equilibrium points in control systems"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "problem_219",
+  "title": "PID Feedback Structure for Glucose–Insulin Homeostasis",
+  "difficulty": "medium-hard",
+  "difficulty_score": 0.67,
+  "expert_rating": 4.6,
+  "expert_review": "A conceptually rich problem linking linear control theory with physiological regulation and PID interpretation.",
+  "keywords": [
+    "glucose-insulin",
+    "pid-control",
+    "biological-systems",
+    "homeostasis",
+    "linearization"
+  ],
+  "subjects": [
+    "control-systems",
+    "biomedical-engineering",
+    "systems-biology"
+  ],
+  "prerequisites": [
+    "linearization",
+    "transfer-functions",
+    "pid-control",
+    "feedback-systems"
+  ],
+  "tags": [
+    "graduate",
+    "conceptual",
+    "biological-control",
+    "feedback-interpretation"
+  ],
+  "created_date": "2026-01-19",
+  "last_modified": "2026-01-19",
+  "estimated_time": 30,
+  "source": "Control Systems Textbook - Chapter 6",
+  "problem_type": "controller_structure_analysis",
+  "skill_levels": {
+    "conceptual": 5,
+    "procedural": 2,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": [
+    "understand",
+    "analyze",
+    "evaluate"
+  ],
+  "learning_objectives": [
+    "Interpret PID controllers in non-engineering systems",
+    "Understand sign conventions in feedback loops",
+    "Explain equilibrium offset handling in linearized models",
+    "Relate integral action to biological homeostasis",
+    "Analyze controller structure without numerical tuning"
+  ]
+}

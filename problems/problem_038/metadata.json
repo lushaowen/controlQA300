@@ -1,0 +1,39 @@
+{
+  "id": "problem_038",
+  "title": "Step Response of an Op-Amp RC Circuit",
+  "difficulty": "easy_to_medium",
+  "difficulty_score": 0.6,
+  "expert_rating": 4.3,
+  "expert_review": "Clear illustration of integrator behavior in an op-amp RC circuit under step input.",
+  "keywords": [
+    "op-amp",
+    "step-response",
+    "integrator",
+    "rc-circuit",
+    "time-domain-analysis"
+  ],
+  "subjects": ["control-systems", "analog-circuits"],
+  "prerequisites": [
+    "ordinary-differential-equations",
+    "basic-circuit-theory",
+    "op-amp-ideal-model"
+  ],
+  "tags": ["undergraduate", "time-response", "continuous-time"],
+  "created_date": "2026-01-10",
+  "last_modified": "2026-01-10",
+  "estimated_time": 10,
+  "source": "Control and Dynamic Systems Textbook - Chapter 2",
+  "problem_type": "time_response_analysis",
+  "skill_levels": {
+    "conceptual": 3,
+    "procedural": 3,
+    "problem_solving": 3
+  },
+  "bloom_taxonomy": ["apply", "analyze"],
+  "learning_objectives": [
+    "Analyze step responses of op-amp circuits",
+    "Understand integrator behavior in RC networks",
+    "Relate mathematical expressions to time-domain sketches",
+    "Interpret physical meaning of unbounded responses"
+  ]
+}

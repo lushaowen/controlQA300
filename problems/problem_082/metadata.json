@@ -1,0 +1,43 @@
+{
+  "id": "problem_082",
+  "title": "Vanishing of Complex Integrals for Negative Time",
+  "difficulty": "hard",
+  "difficulty_score": 0.85,
+  "expert_rating": 4.8,
+  "expert_review": "A rigorous derivation that synthesizes functional decay, trigonometric inequalities, and contour integration. Essential for understanding Inverse Laplace Transform convergence.",
+  "keywords": [
+    "contour-integration",
+    "Jordan-lemma",
+    "inequality-proof",
+    "asymptotic-analysis",
+    "convergence"
+  ],
+  "subjects": ["complex-analysis", "control-theory", "signals-and-systems"],
+  "prerequisites": [
+    "complex-integration",
+    "limit-theorems",
+    "trigonometric-inequalities"
+  ],
+  "tags": [
+    "advanced-calculus",
+    "proof-based",
+    "laplace-transform"
+  ],
+  "created_date": "2026-01-11",
+  "last_modified": "2026-01-11",
+  "estimated_time": 40,
+  "source": "Advanced Mathematical Methods for Engineering",
+  "problem_type": "theoretical_proof",
+  "skill_levels": {
+    "conceptual": 5,
+    "procedural": 4,
+    "problem_solving": 5
+  },
+  "bloom_taxonomy": ["analyze", "evaluate", "create"],
+  "learning_objectives": [
+    "Combine multiple mathematical results to solve complex proofs",
+    "Analyze the behavior of complex integrals on semi-circular arcs at infinity",
+    "Explain the role of time $t$ in the convergence of the Bromwich integral",
+    "Apply the Squeeze Theorem to complex magnitude bounds"
+  ]
+}

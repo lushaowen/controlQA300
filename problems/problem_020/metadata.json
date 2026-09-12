@@ -1,0 +1,54 @@
+{
+  "id": "problem_020",
+  "title": "Dynamic Modeling of an Elevator System with Counterweight",
+  "difficulty": "medium",
+  "difficulty_score": 0.65,
+  "expert_rating": 4.6,
+  "expert_review": "A classic multi-domain modeling problem integrating rotational and translational dynamics with strong physical insight.",
+  "keywords": [
+    "elevator-system",
+    "counterweight",
+    "mechanical-dynamics",
+    "belt-driven-system",
+    "modeling",
+    "gravity-disturbance"
+  ],
+  "subjects": [
+    "control-systems",
+    "mechanical-systems",
+    "system-modeling"
+  ],
+  "prerequisites": [
+    "newtonian-mechanics",
+    "rotational-dynamics",
+    "control-system-modeling"
+  ],
+  "tags": [
+    "undergraduate",
+    "graduate",
+    "derivation",
+    "physical-modeling"
+  ],
+  "created_date": "2026-01-10",
+  "last_modified": "2026-01-10",
+  "estimated_time": 22,
+  "source": "Control Systems Textbook - Chapter 2",
+  "problem_type": "dynamic_model_derivation",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 4,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": [
+    "apply",
+    "analyze",
+    "understand"
+  ],
+  "learning_objectives": [
+    "Derive coupled mechanical system models",
+    "Apply belt and pulley constraints correctly",
+    "Reduce multi-body systems to equivalent dynamics",
+    "Interpret gravity as an external disturbance",
+    "Understand the role of counterweights in mechanical design"
+  ]
+}

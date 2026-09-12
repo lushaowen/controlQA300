@@ -1,0 +1,51 @@
+{
+  "id": "problem_137",
+  "title": "Internal Stability Equivalence via Controller Transformations",
+  "difficulty": "hard",
+  "difficulty_score": 0.82,
+  "expert_rating": 4.9,
+  "expert_review": "A fundamental theoretical result establishing equivalence of internal stability across different feedback interconnections using controller transformations.",
+  "keywords": [
+    "internal-stability",
+    "feedback-equivalence",
+    "controller-transformation",
+    "robust-control",
+    "loop-structure"
+  ],
+  "subjects": [
+    "control-systems",
+    "feedback-theory",
+    "robust-control"
+  ],
+  "prerequisites": [
+    "internal-stability",
+    "feedback-diagrams",
+    "transfer-function-algebra"
+  ],
+  "tags": [
+    "graduate-level",
+    "theoretical-proof",
+    "diagrammatic-reasoning",
+    "robust-feedback"
+  ],
+  "created_date": "2026-01-18",
+  "last_modified": "2026-01-18",
+  "estimated_time": 18,
+  "source": "Control Systems Textbook - Chapter 4",
+  "problem_type": "equivalence_proof",
+  "skill_levels": {
+    "conceptual": 5,
+    "procedural": 3,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": [
+    "analyze",
+    "evaluate"
+  ],
+  "learning_objectives": [
+    "Understand internal stability beyond input-output behavior",
+    "Recognize equivalence of feedback structures",
+    "Apply controller transformations correctly",
+    "Prove stability preservation across diagram changes"
+  ]
+}

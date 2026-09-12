@@ -1,0 +1,40 @@
+{
+  "id": "problem_222",
+  "title": "Nyquist Stability Analysis and Root-Locus Comparison",
+  "difficulty": "medium_to_hard",
+  "difficulty_score": 0.72,
+  "expert_rating": 4.6,
+  "expert_review": "Comprehensive problem integrating Nyquist criterion with root-locus interpretation across multiple system types",
+  "keywords": [
+    "nyquist-criterion",
+    "root-locus",
+    "stability-analysis",
+    "feedback-control",
+    "gain-selection"
+  ],
+  "subjects": ["control-systems", "frequency-domain-analysis"],
+  "prerequisites": [
+    "laplace-transform",
+    "transfer-functions",
+    "nyquist-stability",
+    "root-locus-method"
+  ],
+  "tags": ["undergraduate", "graduate", "analysis", "frequency-domain"],
+  "created_date": "2026-01-20",
+  "last_modified": "2026-01-20",
+  "estimated_time": 25,
+  "source": "Control Systems Textbook - Chapter 7",
+  "problem_type": "stability_analysis",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 4,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": ["analyze", "evaluate"],
+  "learning_objectives": [
+    "Apply the Nyquist criterion to assess closed-loop stability",
+    "Determine stabilizing gain ranges for feedback systems",
+    "Interpret Nyquist encirclements in terms of pole locations",
+    "Relate Nyquist stability results to root-locus behavior"
+  ]
+}

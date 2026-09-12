@@ -1,0 +1,52 @@
+{
+  "id": "problem_049",
+  "title": "Estimation of Thermal Resistance of a Water Heater",
+  "difficulty": "medium",
+  "difficulty_score": 0.65,
+  "expert_rating": 4.6,
+  "expert_review": "A practical and realistic example of thermal parameter identification using a first-order dynamic model.",
+  "keywords": [
+    "thermal-resistance",
+    "system-identification",
+    "water-heater",
+    "heat-transfer",
+    "first-order-system"
+  ],
+  "subjects": [
+    "control-systems",
+    "thermal-systems",
+    "energy-systems"
+  ],
+  "prerequisites": [
+    "ordinary-differential-equations",
+    "thermal-modeling",
+    "parameter-estimation"
+  ],
+  "tags": [
+    "engineering",
+    "modeling",
+    "thermal",
+    "real-world-system"
+  ],
+  "created_date": "2026-01-11",
+  "last_modified": "2026-01-11",
+  "estimated_time": 20,
+  "source": "Control Systems Textbook - Thermal System Identification",
+  "problem_type": "parameter_estimation",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 4,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": [
+    "apply",
+    "analyze",
+    "evaluate"
+  ],
+  "learning_objectives": [
+    "Estimate thermal resistance from transient temperature data",
+    "Apply first-order thermal models to real systems",
+    "Interpret time constants in physical systems",
+    "Connect experimental observations with model parameters"
+  ]
+}

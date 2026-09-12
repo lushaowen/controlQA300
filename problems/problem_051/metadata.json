@@ -1,0 +1,52 @@
+{
+  "id": "problem_051",
+  "title": "Heating Dynamics of a Water Heater with Constant Power Input",
+  "difficulty": "medium",
+  "difficulty_score": 0.66,
+  "expert_rating": 4.6,
+  "expert_review": "A clear application of first-order thermal dynamics illustrating heating response and equilibrium temperature.",
+  "keywords": [
+    "thermal-systems",
+    "water-heater",
+    "first-order-ode",
+    "heating-dynamics",
+    "equilibrium-temperature"
+  ],
+  "subjects": [
+    "control-systems",
+    "thermal-modeling",
+    "energy-systems"
+  ],
+  "prerequisites": [
+    "ordinary-differential-equations",
+    "thermal-resistance",
+    "lumped-parameter-models"
+  ],
+  "tags": [
+    "engineering",
+    "thermal",
+    "energy",
+    "dynamic-response"
+  ],
+  "created_date": "2026-01-11",
+  "last_modified": "2026-01-11",
+  "estimated_time": 15,
+  "source": "Control Systems Textbook - Thermal Dynamics Examples",
+  "problem_type": "dynamic_response_analysis",
+  "skill_levels": {
+    "conceptual": 3,
+    "procedural": 4,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": [
+    "apply",
+    "analyze",
+    "evaluate"
+  ],
+  "learning_objectives": [
+    "Model heating processes using first-order ODEs",
+    "Compute heating time from system parameters",
+    "Interpret equilibrium temperature in idealized models",
+    "Relate heating power to transient response speed"
+  ]
+}

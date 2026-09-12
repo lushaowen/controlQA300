@@ -1,0 +1,55 @@
+{
+  "id": "problem_053",
+  "title": "On/Off Control of a Residential Water Heater",
+  "difficulty": "medium_to_hard",
+  "difficulty_score": 0.78,
+  "expert_rating": 4.9,
+  "expert_review": "An excellent hybrid-system example combining thermal dynamics, switching logic, and average power analysis.",
+  "keywords": [
+    "on-off-control",
+    "hybrid-systems",
+    "thermal-dynamics",
+    "water-heater",
+    "energy-consumption"
+  ],
+  "subjects": [
+    "control-systems",
+    "thermal-modeling",
+    "energy-systems"
+  ],
+  "prerequisites": [
+    "ordinary-differential-equations",
+    "first-order-systems",
+    "thermal-resistance",
+    "hybrid-dynamics"
+  ],
+  "tags": [
+    "engineering",
+    "thermal",
+    "control",
+    "hybrid-system",
+    "energy-efficiency"
+  ],
+  "created_date": "2026-01-11",
+  "last_modified": "2026-01-11",
+  "estimated_time": 30,
+  "source": "Control Systems Textbook - On/Off Thermal Control",
+  "problem_type": "hybrid_dynamic_analysis",
+  "skill_levels": {
+    "conceptual": 5,
+    "procedural": 4,
+    "problem_solving": 5
+  },
+  "bloom_taxonomy": [
+    "apply",
+    "analyze",
+    "evaluate",
+    "synthesize"
+  ],
+  "learning_objectives": [
+    "Model hybrid systems with switching dynamics",
+    "Analyze on/off temperature control behavior",
+    "Compute cycle-averaged temperature and power",
+    "Understand hysteresis effects in practical controllers"
+  ]
+}

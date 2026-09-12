@@ -1,0 +1,55 @@
+{
+  "id": "problem_182",
+  "title": "Orbital Radius and Stability of a GPS Satellite in MEO",
+  "difficulty": "medium",
+  "difficulty_score": 0.63,
+  "expert_rating": 4.4,
+  "expert_review": "Applied orbital mechanics problem combining numerical calculation with stability analysis using linearized models.",
+  "keywords": [
+    "satellite-orbit",
+    "GPS",
+    "medium-earth-orbit",
+    "orbital-period",
+    "gravitational-dynamics",
+    "stability-analysis"
+  ],
+  "subjects": [
+    "control-systems",
+    "orbital-mechanics",
+    "astrodynamics"
+  ],
+  "prerequisites": [
+    "classical-mechanics",
+    "linear-systems",
+    "state-space-modeling",
+    "eigenvalue-analysis"
+  ],
+  "tags": [
+    "undergraduate",
+    "applied",
+    "numerical",
+    "stability"
+  ],
+  "created_date": "2026-01-19",
+  "last_modified": "2026-01-19",
+  "estimated_time": 30,
+  "source": "Control Systems Textbook - Chapter 5",
+  "problem_type": "numerical_analysis_and_stability",
+  "skill_levels": {
+    "conceptual": 3,
+    "procedural": 3,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": [
+    "apply",
+    "analyze",
+    "evaluate"
+  ],
+  "learning_objectives": [
+    "Compute orbital radius from period using gravitational laws",
+    "Relate orbital parameters to physical constants",
+    "Analyze stability of satellite equilibria",
+    "Distinguish marginal stability from instability",
+    "Understand mass dependence in orbital dynamics"
+  ]
+}

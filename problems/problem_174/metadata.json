@@ -1,0 +1,52 @@
+{
+  "id": "problem_174",
+  "title": "Torque Transfer Function of a DC Motor",
+  "difficulty": "medium",
+  "difficulty_score": 0.74,
+  "expert_rating": 4.7,
+  "expert_review": "Strong example demonstrating the equivalence of state-space and transfer-function representations for DC motor torque control.",
+  "keywords": [
+    "dc-motor",
+    "torque-control",
+    "state-space",
+    "transfer-function",
+    "block-diagram"
+  ],
+  "subjects": [
+    "control-systems",
+    "electromechanical-systems",
+    "system-dynamics"
+  ],
+  "prerequisites": [
+    "state-space-modeling",
+    "laplace-transform",
+    "dc-motor-models"
+  ],
+  "tags": [
+    "undergraduate",
+    "graduate",
+    "modeling",
+    "analysis"
+  ],
+  "created_date": "2026-01-19",
+  "last_modified": "2026-01-19",
+  "estimated_time": 25,
+  "source": "Control Systems Textbook - Chapters 4 and 5",
+  "problem_type": "modeling_and_comparison",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 4,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": [
+    "apply",
+    "analyze",
+    "evaluate"
+  ],
+  "learning_objectives": [
+    "Derive torque expressions from electrical motor equations",
+    "Construct state-space models with feedthrough terms",
+    "Compute transfer functions from state-space representations",
+    "Compare equivalent models across different analytical approaches"
+  ]
+}

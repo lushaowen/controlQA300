@@ -1,0 +1,57 @@
+{
+  "id": "problem_231",
+  "title": "Temperature Control of a Water Heater Using Integral Feedback and Frequency-Domain Analysis",
+  "difficulty": "medium_to_hard",
+  "difficulty_score": 0.7,
+  "expert_rating": 4.6,
+  "expert_review": "A realistic thermal control problem illustrating integral control design and robustness analysis using Bode and Nyquist plots.",
+  "keywords": [
+    "thermal-system",
+    "water-heater",
+    "temperature-control",
+    "integral-control",
+    "bode-plot",
+    "nyquist-criterion",
+    "gain-margin",
+    "phase-margin"
+  ],
+  "subjects": [
+    "control-systems",
+    "thermal-systems",
+    "process-control"
+  ],
+  "prerequisites": [
+    "differential-equations",
+    "transfer-functions",
+    "bode-plot",
+    "nyquist-stability"
+  ],
+  "tags": [
+    "undergraduate",
+    "process-control",
+    "frequency-domain",
+    "energy-systems"
+  ],
+  "created_date": "2026-01-20",
+  "last_modified": "2026-01-20",
+  "estimated_time": 20,
+  "source": "Control Systems Textbook - Chapter 2",
+  "problem_type": "controller_design",
+  "skill_levels": {
+    "conceptual": 3,
+    "procedural": 4,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": [
+    "apply",
+    "analyze",
+    "evaluate"
+  ],
+  "learning_objectives": [
+    "Model thermal systems using first-order dynamics",
+    "Design integral controllers for temperature regulation",
+    "Apply Bode plots to assess robustness",
+    "Use Nyquist criterion to verify stability",
+    "Interpret gain and phase margins in thermal control applications"
+  ]
+}

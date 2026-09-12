@@ -1,0 +1,35 @@
+{
+  "id": "problem_070",
+  "title": "Sifting Property of the Unit Pulse Function",
+  "difficulty": "medium",
+  "difficulty_score": 0.62,
+  "expert_rating": 4.8,
+  "expert_review": "Excellent problem for bridging the gap between basic calculus and signal processing theory (Dirac Delta properties).",
+  "keywords": [
+    "sifting-property",
+    "mean-value-theorem",
+    "unit-pulse",
+    "limit",
+    "convolution"
+  ],
+  "subjects": ["calculus", "signals-and-systems", "mathematical-analysis"],
+  "prerequisites": ["differentiation", "integration-by-substitution", "mean-value-theorem"],
+  "tags": ["undergraduate", "theoretical-derivation", "signals"],
+  "created_date": "2026-01-11",
+  "last_modified": "2026-01-11",
+  "estimated_time": 15,
+  "source": "Systems and Control Theory - Pulse Analysis",
+  "problem_type": "analytical_derivation",
+  "skill_levels": {
+    "conceptual": 5,
+    "procedural": 4,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": ["analyze", "evaluate", "create"],
+  "learning_objectives": [
+    "Apply the Mean-Value Theorem to functional approximations",
+    "Derive the sifting property of pulse functions",
+    "Understand the limiting behavior of integrals with shrinking kernels",
+    "Relate the result to the properties of the Dirac Delta function"
+  ]
+}

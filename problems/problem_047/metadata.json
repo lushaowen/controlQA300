@@ -1,0 +1,51 @@
+{
+  "id": "problem_047",
+  "title": "DC Motor Speed Control with Actuator Voltage Constraint",
+  "difficulty": "medium",
+  "difficulty_score": 0.66,
+  "expert_rating": 4.5,
+  "expert_review": "A practical control design problem emphasizing actuator limits and performance trade-offs in DC motor speed regulation.",
+  "keywords": [
+    "dc-motor",
+    "proportional-control",
+    "actuator-constraints",
+    "voltage-limit",
+    "time-constant"
+  ],
+  "subjects": [
+    "control-systems",
+    "mechatronics"
+  ],
+  "prerequisites": [
+    "feedback-control",
+    "dc-motor-modeling",
+    "first-order-systems"
+  ],
+  "tags": [
+    "undergraduate",
+    "practical-design",
+    "constraints",
+    "control-limits"
+  ],
+  "created_date": "2026-01-11",
+  "last_modified": "2026-01-11",
+  "estimated_time": 18,
+  "source": "Control Systems Textbook - DC Motor Control",
+  "problem_type": "constrained_control_design",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 3,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": [
+    "apply",
+    "analyze",
+    "evaluate"
+  ],
+  "learning_objectives": [
+    "Design controllers under actuator voltage constraints",
+    "Understand trade-offs between control effort and response speed",
+    "Compute closed-loop performance metrics with limited gain",
+    "Relate theoretical control laws to practical hardware limits"
+  ]
+}

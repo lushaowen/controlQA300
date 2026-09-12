@@ -1,0 +1,39 @@
+{
+  "id": "problem_130",
+  "title": "Tracking and Sinusoidal Disturbance Rejection in Feedback Control",
+  "difficulty": "medium-hard",
+  "difficulty_score": 0.7,
+  "expert_rating": 4.6,
+  "expert_review": "Demonstrates the internal model principle for both constant references and sinusoidal disturbances.",
+  "keywords": [
+    "reference-tracking",
+    "sinusoidal-disturbance-rejection",
+    "internal-model-principle",
+    "sensitivity-function",
+    "frequency-response"
+  ],
+  "subjects": ["control-systems", "linear-systems"],
+  "prerequisites": [
+    "feedback-control",
+    "laplace-transforms",
+    "frequency-domain-analysis"
+  ],
+  "tags": ["performance-analysis", "advanced-feedback"],
+  "created_date": "2026-01-14",
+  "last_modified": "2026-01-14",
+  "estimated_time": 15,
+  "source": "Control Systems Textbook - Chapter 4",
+  "problem_type": "tracking_and_disturbance_rejection",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 4,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": ["analyze", "evaluate"],
+  "learning_objectives": [
+    "Apply the internal model principle to reference tracking",
+    "Explain sinusoidal disturbance rejection using transfer-function zeros",
+    "Analyze stability and performance simultaneously",
+    "Relate controller dynamics to closed-loop behavior"
+  ]
+}

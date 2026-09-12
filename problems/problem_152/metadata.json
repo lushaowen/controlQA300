@@ -1,0 +1,42 @@
+{
+  "id": "problem_152",
+  "title": "PI Temperature Control with Disturbance Rejection",
+  "difficulty": "hard",
+  "difficulty_score": 0.82,
+  "expert_rating": 4.8,
+  "expert_review": "Excellent example illustrating PI control design under physical constraints and disturbance rejection requirements",
+  "keywords": [
+    "PI-control",
+    "thermal-system",
+    "temperature-tracking",
+    "disturbance-rejection",
+    "pole-placement",
+    "actuator-saturation"
+  ],
+  "subjects": ["control-systems", "thermal-systems"],
+  "prerequisites": [
+    "feedback-control",
+    "laplace-transform",
+    "controller-design",
+    "physical-modeling"
+  ],
+  "tags": ["undergraduate", "advanced", "PI-controller"],
+  "created_date": "2026-01-18",
+  "last_modified": "2026-01-18",
+  "estimated_time": 35,
+  "source": "Control Systems Textbook - Chapter 4",
+  "problem_type": "PI_controller_design_and_analysis",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 5,
+    "problem_solving": 5
+  },
+  "bloom_taxonomy": ["analyze", "evaluate", "create"],
+  "learning_objectives": [
+    "Design PI controllers for thermal systems",
+    "Ensure stability and physical feasibility",
+    "Achieve asymptotic tracking and disturbance rejection",
+    "Select pole locations to avoid oscillations",
+    "Interpret long-term simulation results"
+  ]
+}

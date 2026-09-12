@@ -1,0 +1,54 @@
+{
+  "id": "problem_025",
+  "title": "Proportional Feedback Control of Elevator Velocity",
+  "difficulty": "hard",
+  "difficulty_score": 0.82,
+  "expert_rating": 5.0,
+  "expert_review": "A canonical example illustrating the benefits and limitations of proportional feedback in mechanical systems.",
+  "keywords": [
+    "feedback-control",
+    "proportional-control",
+    "closed-loop-systems",
+    "steady-state-error",
+    "elevator-model"
+  ],
+  "subjects": [
+    "control-systems",
+    "feedback-theory",
+    "mechanical-dynamics"
+  ],
+  "prerequisites": [
+    "first-order-systems",
+    "open-loop-control",
+    "feedback-modeling"
+  ],
+  "tags": [
+    "graduate",
+    "control-design",
+    "robustness",
+    "disturbance-rejection"
+  ],
+  "created_date": "2026-01-10",
+  "last_modified": "2026-01-10",
+  "estimated_time": 40,
+  "source": "Control Systems Textbook - Chapter 2",
+  "problem_type": "closed_loop_proportional_control",
+  "skill_levels": {
+    "conceptual": 5,
+    "procedural": 5,
+    "problem_solving": 5
+  },
+  "bloom_taxonomy": [
+    "analyze",
+    "evaluate",
+    "apply",
+    "design"
+  ],
+  "learning_objectives": [
+    "Derive closed-loop dynamic equations",
+    "Design proportional feedback gains",
+    "Analyze time constant shaping",
+    "Quantify steady-state tracking error",
+    "Compare open-loop and closed-loop performance"
+  ]
+}

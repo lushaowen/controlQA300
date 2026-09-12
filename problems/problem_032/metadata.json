@@ -1,0 +1,55 @@
+{
+  "id": "problem_032",
+  "title": "Decoupling a Symmetric Two-Mass Spring-Damper System",
+  "difficulty": "advanced",
+  "difficulty_score": 0.78,
+  "expert_rating": 4.9,
+  "expert_review": "Excellent demonstration of modal decoupling using center-of-mass and relative coordinates",
+  "keywords": [
+    "two-mass-system",
+    "decoupling",
+    "center-of-mass",
+    "relative-motion",
+    "mass-spring-damper",
+    "modal-analysis"
+  ],
+  "subjects": [
+    "control-systems",
+    "mechanical-systems",
+    "classical-mechanics"
+  ],
+  "prerequisites": [
+    "ordinary-differential-equations",
+    "linear-systems",
+    "newtonian-mechanics",
+    "coordinate-transformations"
+  ],
+  "tags": [
+    "undergraduate",
+    "advanced-modeling",
+    "multi-degree-of-freedom",
+    "modal-analysis"
+  ],
+  "created_date": "2026-01-10",
+  "last_modified": "2026-01-10",
+  "estimated_time": 30,
+  "source": "Control Systems Textbook - Mechanical Modeling Chapter",
+  "problem_type": "coordinate_transformation_and_modal_decoupling",
+  "skill_levels": {
+    "conceptual": 5,
+    "procedural": 4,
+    "problem_solving": 5
+  },
+  "bloom_taxonomy": [
+    "understand",
+    "apply",
+    "analyze",
+    "evaluate"
+  ],
+  "learning_objectives": [
+    "Apply center-of-mass concepts to dynamic systems",
+    "Decouple coupled differential equations via coordinate transformations",
+    "Understand the physical basis of modal decoupling",
+    "Analyze internal versus external dynamics in mechanical systems"
+  ]
+}

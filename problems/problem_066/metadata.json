@@ -1,0 +1,52 @@
+{
+  "id": "problem_066",
+  "title": "Final Value of the Integral of sin(at)/t",
+  "difficulty": "medium",
+  "difficulty_score": 0.60,
+  "expert_rating": 4.7,
+  "expert_review": "An elegant application of integration and final value properties of the Laplace transform.",
+  "keywords": [
+    "laplace-transform",
+    "final-value-theorem",
+    "time-integration",
+    "sine-integral",
+    "inverse-tangent"
+  ],
+  "subjects": [
+    "signals-and-systems",
+    "control-systems",
+    "applied-mathematics"
+  ],
+  "prerequisites": [
+    "laplace-transform-basics",
+    "time-integration-property",
+    "final-value-theorem",
+    "problem-3-9"
+  ],
+  "tags": [
+    "undergraduate",
+    "core-theory",
+    "transform-techniques"
+  ],
+  "created_date": "2026-01-11",
+  "last_modified": "2026-01-11",
+  "estimated_time": 15,
+  "source": "Control Systems Textbook - Chapter 3",
+  "problem_type": "analytical_derivation",
+  "skill_levels": {
+    "conceptual": 3,
+    "procedural": 4,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": [
+    "understand",
+    "apply",
+    "analyze"
+  ],
+  "learning_objectives": [
+    "Apply the time integration property of the Laplace transform",
+    "Use the final value theorem to evaluate steady-state limits",
+    "Connect inverse tangent limits with sign functions",
+    "Analyze improper integrals using transform methods"
+  ]
+}

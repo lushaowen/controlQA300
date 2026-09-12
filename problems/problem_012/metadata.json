@@ -1,0 +1,40 @@
+{
+  "id": "problem_012",
+  "title": "Sky Diver Motion with Piecewise Linear Air Resistance",
+  "difficulty": "medium-hard",
+  "difficulty_score": 0.75,
+  "expert_rating": 4.9,
+  "expert_review": "Comprehensive application of dynamic modeling, estimation, and engineering constraints",
+  "keywords": [
+    "sky-diver",
+    "terminal-velocity",
+    "time-constant",
+    "piecewise-dynamics",
+    "air-resistance"
+  ],
+  "subjects": ["control-systems", "classical-mechanics", "system-modeling"],
+  "prerequisites": [
+    "first-order-ode",
+    "step-response",
+    "parameter-estimation",
+    "kinematics"
+  ],
+  "tags": ["engineering-application", "safety-analysis", "dynamic-systems"],
+  "created_date": "2026-01-05",
+  "last_modified": "2026-01-05",
+  "estimated_time": 25,
+  "source": "Control Systems Textbook - Chapter 2",
+  "problem_type": "multi_phase_dynamic_analysis",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 4,
+    "problem_solving": 5
+  },
+  "bloom_taxonomy": ["analyze", "evaluate", "create"],
+  "learning_objectives": [
+    "Estimate model parameters from physical data",
+    "Analyze piecewise dynamic systems",
+    "Apply safety constraints to dynamic models",
+    "Interpret time constants physically"
+  ]
+}

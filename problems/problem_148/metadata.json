@@ -1,0 +1,42 @@
+{
+  "id": "problem_148",
+  "title": "Torque Feedback Control of a DC Motor",
+  "difficulty": "medium",
+  "difficulty_score": 0.68,
+  "expert_rating": 4.5,
+  "expert_review": "Solid intermediate-level problem combining stability analysis and steady-state tracking limitations in DC motor control",
+  "keywords": [
+    "DC-motor",
+    "feedback-control",
+    "proportional-control",
+    "internal-stability",
+    "steady-state-error",
+    "torque-control"
+  ],
+  "subjects": ["control-systems", "electromechanical-systems"],
+  "prerequisites": [
+    "laplace-transform",
+    "transfer-functions",
+    "feedback-control",
+    "linear-systems"
+  ],
+  "tags": ["undergraduate", "intermediate", "analysis"],
+  "created_date": "2026-01-18",
+  "last_modified": "2026-01-18",
+  "estimated_time": 20,
+  "source": "Control Systems Textbook - Chapter 4",
+  "problem_type": "controller_design_and_analysis",
+  "skill_levels": {
+    "conceptual": 3,
+    "procedural": 4,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": ["apply", "analyze", "evaluate"],
+  "learning_objectives": [
+    "Design a proportional feedback controller for a DC motor",
+    "Analyze internal stability using pole locations",
+    "Understand limitations of proportional control in tracking",
+    "Relate system type to steady-state tracking performance",
+    "Interpret simulation results in light of theoretical analysis"
+  ]
+}

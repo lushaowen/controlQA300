@@ -1,0 +1,55 @@
+{
+  "id": "problem_236",
+  "title": "Nyquist Stability Analysis of a PID-Controlled Glucose–Insulin System",
+  "difficulty": "hard",
+  "difficulty_score": 0.80,
+  "expert_rating": 4.6,
+  "expert_review": "Excellent example of applying classical frequency-domain tools to physiological control systems",
+  "keywords": [
+    "glucose-insulin",
+    "pid-control",
+    "nyquist-criterion",
+    "bode-plot",
+    "loop-transfer-function",
+    "biomedical-control"
+  ],
+  "subjects": [
+    "control-systems",
+    "biomedical-engineering",
+    "systems-biology"
+  ],
+  "prerequisites": [
+    "linear-systems",
+    "pid-controllers",
+    "frequency-domain-analysis",
+    "root-locus"
+  ],
+  "tags": [
+    "graduate",
+    "advanced",
+    "biomedical",
+    "frequency-domain"
+  ],
+  "created_date": "2026-01-20",
+  "last_modified": "2026-01-20",
+  "estimated_time": 40,
+  "source": "Control Systems Textbook – Biomedical Control Chapter",
+  "problem_type": "frequency_domain_stability_analysis",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 4,
+    "problem_solving": 5
+  },
+  "bloom_taxonomy": [
+    "analyze",
+    "apply",
+    "evaluate"
+  ],
+  "learning_objectives": [
+    "Derive loop transfer functions for physiological systems",
+    "Analyze PID controllers in the frequency domain",
+    "Apply Nyquist stability criterion",
+    "Interpret Bode and polar plots for robustness",
+    "Assess asymptotic stability of closed-loop biomedical systems"
+  ]
+}

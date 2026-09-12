@@ -1,0 +1,40 @@
+{
+  "id": "problem_204",
+  "title": "I-Controller Design Using Root-Locus for Belt-Driven Rotational System",
+  "difficulty": "medium_to_hard",
+  "difficulty_score": 0.68,
+  "expert_rating": 4.5,
+  "expert_review": "Excellent problem combining physical modeling, transfer function derivation, and classical control design using root locus. Challenges students to connect theory with practical objectives like pole placement and disturbance rejection.",
+  "keywords": [
+    "root-locus",
+    "I-controller",
+    "rotational-system",
+    "belt-drive",
+    "closed-loop-poles",
+    "asymptotic-tracking",
+    "disturbance-rejection",
+    "transfer-function",
+    "breakaway-point"
+  ],
+  "subjects": ["control-systems", "mechanical-systems", "feedback-control"],
+  "prerequisites": ["laplace-transforms", "block-diagram-algebra", "root-locus-method", "dynamic-modeling"],
+  "tags": ["undergraduate", "design-oriented", "analytical", "mechatronics"],
+  "created_date": "2026-01-05",
+  "last_modified": "2026-01-05",
+  "estimated_time": 25,
+  "source": "Control Systems Textbook - Chapter 2",
+  "problem_type": "controller_design_analysis",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 5,
+    "problem_solving": 5
+  },
+  "bloom_taxonomy": ["analyze", "evaluate", "create"],
+  "learning_objectives": [
+    "Derive transfer functions from mechanical rotational systems",
+    "Apply root-locus method to design integral controllers",
+    "Determine optimal controller gain for critical damping",
+    "Assess asymptotic tracking and disturbance rejection capabilities",
+    "Interpret breakaway points in root-locus plots"
+  ]
+}

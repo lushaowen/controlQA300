@@ -1,0 +1,53 @@
+{
+  "id": "problem_164",
+  "title": "State-Space and Block-Diagram Representation of a Falling Body with Quadratic Drag",
+  "difficulty": "easy_to_medium",
+  "difficulty_score": 0.48,
+  "expert_rating": 4.1,
+  "expert_review": "A clear introductory example illustrating nonlinear state-space modeling and block-diagram construction using integrators.",
+  "keywords": [
+    "falling-body",
+    "quadratic-drag",
+    "nonlinear-system",
+    "state-space",
+    "block-diagram",
+    "integrator"
+  ],
+  "subjects": [
+    "control-systems",
+    "dynamics",
+    "mechanical-systems"
+  ],
+  "prerequisites": [
+    "ordinary-differential-equations",
+    "basic-dynamics",
+    "state-space-modeling"
+  ],
+  "tags": [
+    "undergraduate",
+    "nonlinear",
+    "conceptual",
+    "modeling"
+  ],
+  "created_date": "2026-01-15",
+  "last_modified": "2026-01-15",
+  "estimated_time": 10,
+  "source": "Systems and Control Textbook - Nonlinear Dynamics Section",
+  "problem_type": "modeling_and_representation",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 2,
+    "problem_solving": 3
+  },
+  "bloom_taxonomy": [
+    "understand",
+    "apply",
+    "analyze"
+  ],
+  "learning_objectives": [
+    "Rewrite nonlinear differential equations in state-space form",
+    "Model quadratic drag forces in mechanical systems",
+    "Construct block-diagrams using integrators only",
+    "Interpret nonlinear feedback structures physically"
+  ]
+}

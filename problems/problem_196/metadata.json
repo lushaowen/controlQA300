@@ -1,0 +1,39 @@
+
+{
+  "id": "problem_196",
+  "title": "Derivation of Peak Time and Peak Value for Underdamped Second-Order Step Response",
+  "difficulty": "medium",
+  "difficulty_score": 0.65,
+  "expert_rating": 4.5,
+  "expert_review": "A classic and essential derivation in control systems theory. The problem reinforces understanding of step response behavior and requires careful calculus and trigonometry.",
+  "keywords": [
+    "second-order-system",
+    "step-response",
+    "peak-time",
+    "peak-overshoot",
+    "underdamped",
+    "differentiation",
+    "transient-response"
+  ],
+  "subjects": ["control-systems", "dynamic-systems"],
+  "prerequisites": ["laplace-transforms", "transfer-functions", "second-order-systems", "basic-trigonometry", "differentiation"],
+  "tags": ["undergraduate", "derivation", "time-domain-analysis"],
+  "created_date": "2026-01-19",
+  "last_modified": "2026-01-19",
+  "estimated_time": 15,
+  "source": "Adapted from standard control systems textbook problem (e.g., P6.2)",
+  "problem_type": "analytical_derivation",
+  "skill_levels": {
+    "conceptual": 3,
+    "procedural": 4,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": ["apply", "analyze", "evaluate"],
+  "learning_objectives": [
+    "Derive the time derivative of the underdamped second-order step response.",
+    "Solve for the time instants where the step response derivative is zero.",
+    "Identify which extremum corresponds to the first peak overshoot.",
+    "Derive the analytical expressions for peak time (t_p) and peak value (y_p).",
+    "Understand the relationship between damping ratio (ζ), natural frequency (ω_n), and transient response metrics."
+  ]
+}

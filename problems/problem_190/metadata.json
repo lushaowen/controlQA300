@@ -1,0 +1,54 @@
+{
+  "id": "problem_190",
+  "title": "State-Space and Block-Diagram Modeling of Satellite Orbital Motion",
+  "difficulty": "medium_to_hard",
+  "difficulty_score": 0.7,
+  "expert_rating": 4.6,
+  "expert_review": "A classic nonlinear dynamics problem illustrating orbital mechanics and multivariable state-space modeling.",
+  "keywords": [
+    "satellite-dynamics",
+    "orbital-motion",
+    "nonlinear-system",
+    "state-space",
+    "block-diagram",
+    "gravitational-force"
+  ],
+  "subjects": [
+    "control-systems",
+    "dynamics",
+    "aerospace-engineering",
+    "astrodynamics"
+  ],
+  "prerequisites": [
+    "ordinary-differential-equations",
+    "classical-mechanics",
+    "state-space-modeling"
+  ],
+  "tags": [
+    "undergraduate",
+    "graduate",
+    "nonlinear",
+    "aerospace"
+  ],
+  "created_date": "2026-01-15",
+  "last_modified": "2026-01-15",
+  "estimated_time": 18,
+  "source": "Control Systems Textbook - Chapter 5",
+  "problem_type": "nonlinear_modeling",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 3,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": [
+    "understand",
+    "apply",
+    "analyze"
+  ],
+  "learning_objectives": [
+    "Model satellite orbital motion using state-space equations",
+    "Represent nonlinear gravitational dynamics explicitly",
+    "Construct integrator-based block-diagrams",
+    "Interpret coupling effects in orbital mechanics"
+  ]
+}

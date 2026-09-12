@@ -1,0 +1,41 @@
+{
+  "id": "problem_224",
+  "title": "Dynamic Feedback Design for Tracking and Periodic Disturbance Rejection",
+  "difficulty": "hard",
+  "difficulty_score": 0.85,
+  "expert_rating": 4.8,
+  "expert_review": "Advanced control design problem combining internal model principle with frequency-domain stability analysis",
+  "keywords": [
+    "dynamic-feedback",
+    "bode-plot",
+    "nyquist-criterion",
+    "internal-model-principle",
+    "disturbance-rejection"
+  ],
+  "subjects": ["control-systems", "frequency-domain-design"],
+  "prerequisites": [
+    "bode-diagrams",
+    "nyquist-stability",
+    "transfer-functions",
+    "feedback-control",
+    "internal-model-principle"
+  ],
+  "tags": ["graduate", "advanced", "frequency-domain", "robust-control"],
+  "created_date": "2026-01-20",
+  "last_modified": "2026-01-20",
+  "estimated_time": 40,
+  "source": "Control Systems Textbook - Chapter 6",
+  "problem_type": "controller_design",
+  "skill_levels": {
+    "conceptual": 5,
+    "procedural": 5,
+    "problem_solving": 5
+  },
+  "bloom_taxonomy": ["analyze", "evaluate", "create"],
+  "learning_objectives": [
+    "Design dynamic feedback controllers using frequency-domain methods",
+    "Apply the internal model principle for disturbance rejection",
+    "Use Nyquist plots to guarantee closed-loop stability",
+    "Evaluate gain and phase margins for robustness"
+  ]
+}

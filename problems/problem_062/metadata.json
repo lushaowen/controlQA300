@@ -1,0 +1,52 @@
+{
+  "id": "problem_062",
+  "title": "Time-Shift Property of the Laplace Transform",
+  "difficulty": "medium",
+  "difficulty_score": 0.6,
+  "expert_rating": 4.7,
+  "expert_review": "A fundamental property that explains how time delays appear as exponential factors in the Laplace domain.",
+  "keywords": [
+    "laplace-transform",
+    "time-shift",
+    "time-delay",
+    "unit-step-function",
+    "change-of-variables"
+  ],
+  "subjects": [
+    "control-systems",
+    "signals-and-systems",
+    "applied-mathematics"
+  ],
+  "prerequisites": [
+    "laplace-transform-basics",
+    "unit-step-function",
+    "exponential-order",
+    "calculus"
+  ],
+  "tags": [
+    "undergraduate",
+    "core-theory",
+    "proof-based"
+  ],
+  "created_date": "2026-01-11",
+  "last_modified": "2026-01-11",
+  "estimated_time": 12,
+  "source": "Control Systems Textbook - Chapter 3",
+  "problem_type": "analytical_proof",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 2,
+    "problem_solving": 3
+  },
+  "bloom_taxonomy": [
+    "understand",
+    "apply",
+    "analyze"
+  ],
+  "learning_objectives": [
+    "Prove the time-shift property of the Laplace transform",
+    "Understand the role of the unit step function in delayed signals",
+    "Relate time-domain delays to exponential factors in the s-domain",
+    "Apply the time-shift property in system modeling"
+  ]
+}

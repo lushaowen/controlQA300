@@ -1,0 +1,51 @@
+{
+  "id": "problem_044",
+  "title": "DC Motor Dynamics with Non-Negligible Armature Inductance",
+  "difficulty": "medium",
+  "difficulty_score": 0.68,
+  "expert_rating": 4.5,
+  "expert_review": "A clear derivation problem highlighting the impact of armature inductance on DC motor dynamics.",
+  "keywords": [
+    "dc-motor",
+    "armature-inductance",
+    "electromechanical-dynamics",
+    "second-order-system",
+    "model-derivation"
+  ],
+  "subjects": [
+    "control-systems",
+    "electromechanical-systems"
+  ],
+  "prerequisites": [
+    "dc-motor-modeling",
+    "differential-equations",
+    "linear-systems"
+  ],
+  "tags": [
+    "undergraduate",
+    "graduate",
+    "derivation",
+    "modeling"
+  ],
+  "created_date": "2026-01-11",
+  "last_modified": "2026-01-11",
+  "estimated_time": 20,
+  "source": "Control Systems Textbook - DC Motor Modeling",
+  "problem_type": "model_derivation",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 3,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": [
+    "understand",
+    "analyze",
+    "apply"
+  ],
+  "learning_objectives": [
+    "Derive DC motor equations including armature inductance",
+    "Understand the coupling of electrical and mechanical dynamics",
+    "Compare first-order and second-order motor models",
+    "Assess when inductance effects can be neglected"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "problem_124",
+  "title": "Thermal System Modeling and Step Response Analysis",
+  "difficulty": "medium",
+  "difficulty_score": 0.68,
+  "expert_rating": 4.6,
+  "expert_review": "An instructive thermodynamic modeling problem combining transfer-function derivation and steady-state response analysis.",
+  "keywords": [
+    "thermal-system",
+    "energy-balance",
+    "transfer-function",
+    "laplace-transform",
+    "steady-state"
+  ],
+  "subjects": [
+    "control-systems",
+    "thermodynamics",
+    "systems-theory"
+  ],
+  "prerequisites": [
+    "differential-equations",
+    "laplace-transform",
+    "basic-thermodynamics"
+  ],
+  "tags": [
+    "undergraduate",
+    "modeling",
+    "first-order-system",
+    "multi-input"
+  ],
+  "created_date": "2026-01-18",
+  "last_modified": "2026-01-18",
+  "estimated_time": 25,
+  "source": "Control Systems Textbook - Chapters 2 and 3",
+  "problem_type": "system_modeling_and_response",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 4,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": [
+    "apply",
+    "analyze"
+  ],
+  "learning_objectives": [
+    "Model thermal systems using energy balance equations",
+    "Derive transfer-functions for multi-input systems",
+    "Analyze stability of first-order LTI systems",
+    "Interpret transient and steady-state thermal responses"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "problem_028",
+  "title": "Closed-Loop Elevator Control with Gravitational Disturbance",
+  "difficulty": "hard",
+  "difficulty_score": 0.9,
+  "expert_rating": 5.0,
+  "expert_review": "A critical problem demonstrating disturbance sensitivity and the limits of proportional control.",
+  "keywords": [
+    "disturbance-rejection",
+    "gravitational-torque",
+    "proportional-control",
+    "steady-state-error",
+    "elevator-system"
+  ],
+  "subjects": [
+    "control-systems",
+    "feedback-control",
+    "dynamic-systems"
+  ],
+  "prerequisites": [
+    "first-order-systems",
+    "closed-loop-control",
+    "proportional-feedback"
+  ],
+  "tags": [
+    "graduate",
+    "disturbance-analysis",
+    "control-design",
+    "model-based"
+  ],
+  "created_date": "2026-01-10",
+  "last_modified": "2026-01-10",
+  "estimated_time": 30,
+  "source": "Control Systems Textbook - Chapter 2",
+  "problem_type": "disturbance_rejection_analysis",
+  "skill_levels": {
+    "conceptual": 5,
+    "procedural": 4,
+    "problem_solving": 5
+  },
+  "bloom_taxonomy": [
+    "analyze",
+    "evaluate",
+    "design"
+  ],
+  "learning_objectives": [
+    "Analyze the effect of disturbances in closed-loop systems",
+    "Quantify steady-state error under proportional control",
+    "Compare open-loop and closed-loop time constants",
+    "Recognize the need for integral control",
+    "Understand disturbance rejection limitations"
+  ]
+}

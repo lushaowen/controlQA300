@@ -1,0 +1,36 @@
+{
+  "id": "problem_199",
+  "title": "Derivation of Closed-Loop Transfer Functions for PD Control Systems",
+  "difficulty": "medium",
+  "difficulty_score": 0.65,
+  "expert_rating": 4.0,
+  "expert_review": "A concise yet effective problem for practicing block diagram reduction and transfer function derivation for a common controller type. Tests algebraic manipulation skills within a control systems context.",
+  "keywords": [
+    "transfer-function",
+    "closed-loop",
+    "PD-controller",
+    "block-diagram",
+    "control-system",
+    "algebraic-manipulation"
+  ],
+  "subjects": ["control-systems", "linear-systems"],
+  "prerequisites": ["laplace-transform", "basic-feedback", "block-diagram-reduction"],
+  "tags": ["undergraduate", "derivation", "algebraic"],
+  "created_date": "2026-01-19",
+  "last_modified": "2026-01-19",
+  "estimated_time": 15,
+  "source": "Provided User Data, typical of control systems exercises",
+  "problem_type": "derivation_calculation",
+  "skill_levels": {
+    "conceptual": 3,
+    "procedural": 5,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": ["apply", "analyze"],
+  "learning_objectives": [
+    "Apply block diagram algebra to derive closed-loop transfer functions.",
+    "Manipulate rational expressions in the Laplace variable 's' to simplify transfer functions.",
+    "Recognize the different structural implementations of Proportional-Derivative (PD) control.",
+    "Express a control system's transfer function in standard polynomial ratio form."
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "problem_165",
+  "title": "Equilibrium Analysis and Linearization of a Nonlinear State-Space System",
+  "difficulty": "medium",
+  "difficulty_score": 0.68,
+  "expert_rating": 4.5,
+  "expert_review": "A solid problem integrating nonlinear equilibrium analysis, linearization, and stability concepts in control systems.",
+  "keywords": [
+    "equilibrium-point",
+    "state-space",
+    "linearization",
+    "transfer-function",
+    "stability-analysis",
+    "nonlinear-systems"
+  ],
+  "subjects": [
+    "control-systems",
+    "nonlinear-dynamics",
+    "systems-theory"
+  ],
+  "prerequisites": [
+    "state-space-modeling",
+    "basic-calculus",
+    "linear-systems",
+    "laplace-transform"
+  ],
+  "tags": [
+    "undergraduate",
+    "graduate",
+    "analytical",
+    "modeling"
+  ],
+  "created_date": "2026-01-19",
+  "last_modified": "2026-01-19",
+  "estimated_time": 20,
+  "source": "Control Systems Textbook - Chapter 5",
+  "problem_type": "analytical_derivation",
+  "skill_levels": {
+    "conceptual": 3,
+    "procedural": 4,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": [
+    "apply",
+    "analyze",
+    "evaluate"
+  ],
+  "learning_objectives": [
+    "Compute equilibrium points of nonlinear systems",
+    "Perform linearization using Jacobian matrices",
+    "Derive transfer functions from state-space models",
+    "Assess asymptotic stability using linear models"
+  ]
+}

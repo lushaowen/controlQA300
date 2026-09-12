@@ -1,0 +1,52 @@
+{
+  "id": "problem_016",
+  "title": "First-Order Dynamic Model of a Belt-Driven Rotating Machine",
+  "difficulty": "medium_to_hard",
+  "difficulty_score": 0.68,
+  "expert_rating": 4.6,
+  "expert_review": "Excellent example of reducing a mechanical system to a first-order dynamic model and interpreting transient and steady-state behavior.",
+  "keywords": [
+    "first-order-system",
+    "rotational-dynamics",
+    "belt-driven-system",
+    "time-response",
+    "mechanical-modeling"
+  ],
+  "subjects": [
+    "control-systems",
+    "dynamics",
+    "mechatronics"
+  ],
+  "prerequisites": [
+    "ordinary-differential-equations",
+    "rotational-mechanics",
+    "system-modeling"
+  ],
+  "tags": [
+    "graduate",
+    "dynamic-systems",
+    "time-domain-analysis"
+  ],
+  "created_date": "2026-01-10",
+  "last_modified": "2026-01-10",
+  "estimated_time": 22,
+  "source": "Control Systems Textbook - Chapter 2",
+  "problem_type": "dynamic_response_analysis",
+  "skill_levels": {
+    "conceptual": 3,
+    "procedural": 4,
+    "problem_solving": 5
+  },
+  "bloom_taxonomy": [
+    "apply",
+    "analyze",
+    "evaluate"
+  ],
+  "learning_objectives": [
+    "Derive first-order models of mechanical systems",
+    "Identify system inputs and outputs",
+    "Solve linear ODEs with constant inputs",
+    "Interpret transient and steady-state behavior",
+    "Relate physical parameters to dynamic performance"
+  ]
+}

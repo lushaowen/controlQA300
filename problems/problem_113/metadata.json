@@ -1,0 +1,53 @@
+{
+  "id": "problem_113",
+  "title": "Transfer Function of a Two-Mass Spring-Damper System",
+  "difficulty": "medium_to_hard",
+  "difficulty_score": 0.72,
+  "expert_rating": 4.6,
+  "expert_review": "A comprehensive problem that reinforces Laplace-domain analysis of coupled mechanical systems.",
+  "keywords": [
+    "mass-spring-damper",
+    "two-mass-system",
+    "transfer-function",
+    "laplace-transform",
+    "mechanical-dynamics",
+    "system-coupling"
+  ],
+  "subjects": [
+    "control-systems",
+    "mechanical-systems",
+    "dynamic-modeling"
+  ],
+  "prerequisites": [
+    "laplace-transform",
+    "second-order-systems",
+    "linear-systems",
+    "mechanical-modeling"
+  ],
+  "tags": [
+    "undergraduate",
+    "derivation",
+    "multi-degree-of-freedom"
+  ],
+  "created_date": "2026-01-16",
+  "last_modified": "2026-01-16",
+  "estimated_time": 25,
+  "source": "Control Systems Textbook - Chapter 2",
+  "problem_type": "transfer_function_derivation",
+  "skill_levels": {
+    "conceptual": 3,
+    "procedural": 5,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": [
+    "apply",
+    "analyze",
+    "synthesize"
+  ],
+  "learning_objectives": [
+    "Derive transfer functions from coupled differential equations",
+    "Analyze multi-degree-of-freedom mechanical systems",
+    "Apply Laplace transforms to eliminate internal variables",
+    "Understand the dynamic interaction between coupled masses"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "problem_057",
+  "title": "Linearity of the Laplace Transform and Its Inverse",
+  "difficulty": "easy",
+  "difficulty_score": 0.35,
+  "expert_rating": 4.6,
+  "expert_review": "A foundational problem that reinforces the mathematical structure underlying Laplace-domain analysis.",
+  "keywords": [
+    "laplace-transform",
+    "inverse-laplace-transform",
+    "linearity",
+    "integral-operator",
+    "superposition"
+  ],
+  "subjects": ["control-systems", "signals-and-systems", "applied-mathematics"],
+  "prerequisites": [
+    "basic-calculus",
+    "definite-integrals",
+    "linear-systems"
+  ],
+  "tags": ["undergraduate", "fundamental", "theoretical"],
+  "created_date": "2026-01-11",
+  "last_modified": "2026-01-11",
+  "estimated_time": 10,
+  "source": "Control Systems Textbook - Chapter 3",
+  "problem_type": "theoretical_proof",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 2,
+    "problem_solving": 2
+  },
+  "bloom_taxonomy": ["understand", "apply"],
+  "learning_objectives": [
+    "Understand the concept of linear operators",
+    "Prove the linearity of the Laplace transform",
+    "Recognize the importance of linearity in system analysis",
+    "Apply superposition principles in the Laplace domain"
+  ]
+}

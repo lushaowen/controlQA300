@@ -1,0 +1,39 @@
+{
+  "id": "problem_034",
+  "title": "Dynamic Modeling of an Op-Amp RC Circuit",
+  "difficulty": "medium",
+  "difficulty_score": 0.65,
+  "expert_rating": 4.4,
+  "expert_review": "Well-structured problem illustrating dynamic modeling of op-amp based RC circuits using differential equations.",
+  "keywords": [
+    "op-amp",
+    "rc-circuit",
+    "differential-equation",
+    "analog-circuit",
+    "dynamic-modeling"
+  ],
+  "subjects": ["control-systems", "electrical-circuits"],
+  "prerequisites": [
+    "kirchhoffs-laws",
+    "basic-circuit-theory",
+    "ordinary-differential-equations"
+  ],
+  "tags": ["undergraduate", "systems-modeling", "continuous-time"],
+  "created_date": "2026-01-10",
+  "last_modified": "2026-01-10",
+  "estimated_time": 18,
+  "source": "Control and Dynamic Systems Textbook - Chapter 2",
+  "problem_type": "analytical_derivation",
+  "skill_levels": {
+    "conceptual": 3,
+    "procedural": 4,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": ["apply", "analyze"],
+  "learning_objectives": [
+    "Model op-amp circuits using ideal assumptions",
+    "Derive system differential equations from circuit laws",
+    "Use auxiliary variables to simplify dynamic systems",
+    "Verify solutions through substitution and differentiation"
+  ]
+}

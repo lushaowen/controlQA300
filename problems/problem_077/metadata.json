@@ -1,0 +1,35 @@
+{
+  "id": "problem_077",
+  "title": "Absolute Integral of the Pulse Function Derivative",
+  "difficulty": "medium",
+  "difficulty_score": 0.65,
+  "expert_rating": 4.4,
+  "expert_review": "Important exercise for understanding the scaling laws of pulse derivatives. It clarifies why certain operations on generalized functions lead to divergent integrals.",
+  "keywords": [
+    "pulse-derivative",
+    "absolute-integral",
+    "divergence",
+    "total-variation",
+    "limit-analysis"
+  ],
+  "subjects": ["mathematics", "signals-and-systems", "calculus"],
+  "prerequisites": ["definite-integrals", "limit-concept", "piecewise-functions"],
+  "tags": ["undergraduate", "analytical-calculation", "singularity"],
+  "created_date": "2026-01-11",
+  "last_modified": "2026-01-11",
+  "estimated_time": 10,
+  "source": "Advanced Engineering Mathematics - Signal Singularities",
+  "problem_type": "analytical_calculation",
+  "skill_levels": {
+    "conceptual": 5,
+    "procedural": 3,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": ["analyze", "evaluate"],
+  "learning_objectives": [
+    "Evaluate integrals of absolute values of piecewise functions",
+    "Analyze the limiting behavior of parameterized pulse derivatives",
+    "Understand the concept of total variation in the context of impulses",
+    "Distinguish between area-preserving and non-area-preserving limits"
+  ]
+}

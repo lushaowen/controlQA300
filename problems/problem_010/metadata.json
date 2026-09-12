@@ -1,0 +1,39 @@
+{
+  "id": "problem_010",
+  "title": "Vertical Position and Height of a Falling Object",
+  "difficulty": "easy",
+  "difficulty_score": 0.4,
+  "expert_rating": 4.7,
+  "expert_review": "Clear continuation from velocity to position with strong physical interpretation",
+  "keywords": [
+    "position-response",
+    "height",
+    "integration",
+    "first-order-system",
+    "free-fall"
+  ],
+  "subjects": ["control-systems", "classical-mechanics", "dynamical-systems"],
+  "prerequisites": [
+    "first-order-ode",
+    "velocity-response",
+    "definite-integration"
+  ],
+  "tags": ["motion-modeling", "transient-response", "physical-interpretation"],
+  "created_date": "2026-01-05",
+  "last_modified": "2026-01-05",
+  "estimated_time": 10,
+  "source": "Control Systems Textbook - Chapter 2",
+  "problem_type": "dynamic_response_analysis",
+  "skill_levels": {
+    "conceptual": 2,
+    "procedural": 3,
+    "problem_solving": 2
+  },
+  "bloom_taxonomy": ["apply", "analyze"],
+  "learning_objectives": [
+    "Compute position from velocity",
+    "Relate mathematical states to physical quantities",
+    "Understand transient vs steady behavior",
+    "Apply sign conventions consistently"
+  ]
+}

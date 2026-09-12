@@ -1,0 +1,35 @@
+{
+  "id": "problem_004",
+  "title": "First-Order Taylor Expansion of an Arctangent Function",
+  "difficulty": "easy_to_medium",
+  "difficulty_score": 0.45,
+  "expert_rating": 4.4,
+  "expert_review": "Clear introduction to Taylor linearization and small-signal analysis",
+  "keywords": [
+    "taylor-expansion",
+    "linearization",
+    "nonlinear-function",
+    "small-signal",
+    "arctangent"
+  ],
+  "subjects": ["control-systems", "applied-mathematics"],
+  "prerequisites": ["calculus", "taylor-series", "nonlinear-systems"],
+  "tags": ["undergraduate", "foundational", "analysis"],
+  "created_date": "2026-01-05",
+  "last_modified": "2026-01-05",
+  "estimated_time": 8,
+  "source": "Control Systems Textbook - Chapter 1",
+  "problem_type": "analytical_derivation",
+  "skill_levels": {
+    "conceptual": 3,
+    "procedural": 3,
+    "problem_solving": 2
+  },
+  "bloom_taxonomy": ["understand", "apply"],
+  "learning_objectives": [
+    "Compute Taylor series expansions of nonlinear functions",
+    "Apply first-order linearization techniques",
+    "Interpret slope as small-signal gain",
+    "Relate analytical results to graphical representations"
+  ]
+}

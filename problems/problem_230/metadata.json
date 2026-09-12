@@ -1,0 +1,55 @@
+{
+  "id": "problem_230",
+  "title": "Torque Control of a DC Motor Using Integral Feedback and Frequency-Domain Analysis",
+  "difficulty": "medium",
+  "difficulty_score": 0.62,
+  "expert_rating": 4.4,
+  "expert_review": "An instructive example linking DC motor torque modeling with integral control design using Bode and Nyquist plots.",
+  "keywords": [
+    "dc-motor",
+    "torque-control",
+    "integral-control",
+    "bode-plot",
+    "nyquist-criterion",
+    "gain-margin",
+    "phase-margin"
+  ],
+  "subjects": [
+    "control-systems",
+    "electromechanical-systems"
+  ],
+  "prerequisites": [
+    "transfer-functions",
+    "laplace-transform",
+    "bode-plot",
+    "nyquist-stability"
+  ],
+  "tags": [
+    "undergraduate",
+    "classical-control",
+    "frequency-domain",
+    "servo-control"
+  ],
+  "created_date": "2026-01-20",
+  "last_modified": "2026-01-20",
+  "estimated_time": 16,
+  "source": "Control Systems Textbook - Chapter 4",
+  "problem_type": "controller_design",
+  "skill_levels": {
+    "conceptual": 3,
+    "procedural": 4,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": [
+    "apply",
+    "analyze",
+    "evaluate"
+  ],
+  "learning_objectives": [
+    "Model DC motor torque dynamics",
+    "Design integral controllers for torque tracking",
+    "Apply Bode plots to compute stability margins",
+    "Use Nyquist criterion to verify stability",
+    "Interpret robustness in frequency-domain control design"
+  ]
+}

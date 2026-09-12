@@ -1,0 +1,42 @@
+{
+  "id": "problem_145",
+  "title": "Integral Feedback Control for DC Motor Speed Tracking",
+  "difficulty": "medium_to_hard",
+  "difficulty_score": 0.68,
+  "expert_rating": 4.7,
+  "expert_review": "Excellent follow-up problem demonstrating how integral action improves steady-state tracking while preserving stability.",
+  "keywords": [
+    "DC-motor",
+    "integral-control",
+    "speed-tracking",
+    "steady-state-error",
+    "internal-stability",
+    "feedback-control"
+  ],
+  "subjects": ["control-systems", "electromechanical-systems"],
+  "prerequisites": [
+    "transfer-functions",
+    "laplace-transform",
+    "feedback-systems",
+    "stability-analysis"
+  ],
+  "tags": ["undergraduate", "controller-design", "tracking-performance"],
+  "created_date": "2026-01-18",
+  "last_modified": "2026-01-18",
+  "estimated_time": 30,
+  "source": "Control Systems Textbook - DC Motor Speed Control",
+  "problem_type": "analysis_and_design",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 4,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": ["understand", "analyze", "apply"],
+  "learning_objectives": [
+    "Understand the effect of integral control on system type",
+    "Analyze closed-loop stability of second-order systems",
+    "Design integral controllers for reference tracking",
+    "Explain zero steady-state error using control theory principles",
+    "Interpret simulation results for integral feedback systems"
+  ]
+}

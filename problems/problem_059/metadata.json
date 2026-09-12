@@ -1,0 +1,52 @@
+{
+  "id": "problem_059",
+  "title": "First Differentiation Property of the Laplace Transform",
+  "difficulty": "medium",
+  "difficulty_score": 0.6,
+  "expert_rating": 4.8,
+  "expert_review": "A core theoretical result connecting time-domain derivatives with Laplace-domain algebraic expressions.",
+  "keywords": [
+    "laplace-transform",
+    "differentiation-property",
+    "integration-by-parts",
+    "initial-condition",
+    "exponential-order"
+  ],
+  "subjects": [
+    "control-systems",
+    "signals-and-systems",
+    "applied-mathematics"
+  ],
+  "prerequisites": [
+    "derivatives",
+    "integration-by-parts",
+    "complex-variables",
+    "laplace-transform-basics"
+  ],
+  "tags": [
+    "undergraduate",
+    "core-theory",
+    "proof-based"
+  ],
+  "created_date": "2026-01-11",
+  "last_modified": "2026-01-11",
+  "estimated_time": 15,
+  "source": "Control Systems Textbook - Chapter 3",
+  "problem_type": "analytical_proof",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 3,
+    "problem_solving": 3
+  },
+  "bloom_taxonomy": [
+    "understand",
+    "apply",
+    "analyze"
+  ],
+  "learning_objectives": [
+    "Derive the differentiation property of the Laplace transform",
+    "Understand how initial conditions arise in the Laplace domain",
+    "Apply integration by parts in transform proofs",
+    "Relate time-domain differentiation to algebraic manipulation in the s-domain"
+  ]
+}

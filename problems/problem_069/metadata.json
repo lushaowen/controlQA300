@@ -1,0 +1,35 @@
+{
+  "id": "problem_069",
+  "title": "Integral Properties of the Unit Pulse Function",
+  "difficulty": "easy",
+  "difficulty_score": 0.35,
+  "expert_rating": 4.5,
+  "expert_review": "Fundamental calculus problem essential for understanding signals and systems and the Dirac Delta function.",
+  "keywords": [
+    "pulse-function",
+    "integration",
+    "unit-impulse",
+    "limit-properties",
+    "signals-and-systems"
+  ],
+  "subjects": ["mathematics", "signals-and-systems", "engineering-analysis"],
+  "prerequisites": ["basic-calculus", "definite-integrals", "limits"],
+  "tags": ["undergraduate", "foundational", "proof"],
+  "created_date": "2026-01-11",
+  "last_modified": "2026-01-11",
+  "estimated_time": 10,
+  "source": "Advanced Engineering Mathematics - Pulse Analysis",
+  "problem_type": "mathematical_proof",
+  "skill_levels": {
+    "conceptual": 5,
+    "procedural": 3,
+    "problem_solving": 2
+  },
+  "bloom_taxonomy": ["understand", "apply", "evaluate"],
+  "learning_objectives": [
+    "Define the rectangular pulse function analytically",
+    "Calculate the area under a parameterized pulse function",
+    "Demonstrate that the area of a unit pulse is independent of its duration",
+    "Understand the limiting behavior leading to the Dirac Delta function"
+  ]
+}

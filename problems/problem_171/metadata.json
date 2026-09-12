@@ -1,0 +1,52 @@
+{
+  "id": "problem_171",
+  "title": "Transfer Function and Stability Analysis of a Two-Mass Spring-Damper System",
+  "difficulty": "medium",
+  "difficulty_score": 0.72,
+  "expert_rating": 4.6,
+  "expert_review": "Solid application problem combining state-space modeling, MATLAB computation, and stability analysis.",
+  "keywords": [
+    "state-space",
+    "transfer-function",
+    "stability",
+    "MATLAB",
+    "mass-spring-damper"
+  ],
+  "subjects": [
+    "control-systems",
+    "system-dynamics",
+    "mechanical-systems"
+  ],
+  "prerequisites": [
+    "state-space-modeling",
+    "linear-systems",
+    "laplace-transform"
+  ],
+  "tags": [
+    "undergraduate",
+    "graduate",
+    "numerical-analysis",
+    "simulation"
+  ],
+  "created_date": "2026-01-19",
+  "last_modified": "2026-01-19",
+  "estimated_time": 30,
+  "source": "Control Systems Textbook - Chapter 5",
+  "problem_type": "computational_analysis",
+  "skill_levels": {
+    "conceptual": 3,
+    "procedural": 4,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": [
+    "apply",
+    "analyze",
+    "evaluate"
+  ],
+  "learning_objectives": [
+    "Compute transfer functions from state-space models",
+    "Assess asymptotic stability using pole analysis",
+    "Simulate mechanical systems using MATLAB",
+    "Interpret transient and steady-state responses"
+  ]
+}

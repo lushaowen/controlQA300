@@ -1,0 +1,54 @@
+{
+  "id": "problem_186",
+  "title": "Linearization and Transfer-Function Analysis of an Insulin–Glucose Model",
+  "difficulty": "medium_to_hard",
+  "difficulty_score": 0.74,
+  "expert_rating": 4.6,
+  "expert_review": "A well-structured problem connecting nonlinear modeling, linearization, and physiological interpretation.",
+  "keywords": [
+    "insulin-model",
+    "glucose-dynamics",
+    "linearization",
+    "state-space",
+    "transfer-function",
+    "physiological-systems"
+  ],
+  "subjects": [
+    "control-systems",
+    "biomedical-systems",
+    "nonlinear-dynamics"
+  ],
+  "prerequisites": [
+    "state-space-modeling",
+    "linearization",
+    "jacobian-matrices",
+    "laplace-transform"
+  ],
+  "tags": [
+    "upper-undergraduate",
+    "graduate",
+    "biomedical",
+    "modeling"
+  ],
+  "created_date": "2026-01-19",
+  "last_modified": "2026-01-19",
+  "estimated_time": 30,
+  "source": "Control Systems Textbook - Chapter 5",
+  "problem_type": "model_linearization_and_interpretation",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 4,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": [
+    "analyze",
+    "apply",
+    "evaluate"
+  ],
+  "learning_objectives": [
+    "Linearize nonlinear biomedical system models",
+    "Derive transfer functions from state-space representations",
+    "Interpret gain sign and system response direction",
+    "Relate mathematical models to physiological meaning"
+  ]
+}

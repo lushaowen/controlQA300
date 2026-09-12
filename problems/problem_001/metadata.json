@@ -1,0 +1,36 @@
+{
+  "id": "problem_001",
+  "title": "Interpretation of Block Diagrams in Control Systems",
+  "difficulty": "easy_to_medium",
+  "difficulty_score": 0.55,
+  "expert_rating": 4.2,
+  "expert_review": "Good introductory problem for understanding control system block diagrams",
+  "keywords": [
+    "block-diagram",
+    "control-system",
+    "open-loop",
+    "closed-loop",
+    "feedback",
+    "dynamic-system"
+  ],
+  "subjects": ["control-systems", "systems-theory"],
+  "prerequisites": ["basic-control-theory", "linear-systems"],
+  "tags": ["undergraduate", "introductory", "conceptual"],
+  "created_date": "2026-01-05",
+  "last_modified": "2026-01-05",
+  "estimated_time": 12,
+  "source": "Control Systems Textbook - Chapter 1",
+  "problem_type": "conceptual_analysis",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 2,
+    "problem_solving": 3
+  },
+  "bloom_taxonomy": ["understand", "analyze"],
+  "learning_objectives": [
+    "Identify components of control system block diagrams",
+    "Distinguish between open-loop and closed-loop systems",
+    "Recognize static and dynamic system behavior",
+    "Relate block-diagram signals to physical quantities"
+  ]
+}

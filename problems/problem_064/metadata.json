@@ -1,0 +1,53 @@
+{
+  "id": "problem_064",
+  "title": "Convolution Property of the Laplace Transform",
+  "difficulty": "hard",
+  "difficulty_score": 0.75,
+  "expert_rating": 4.9,
+  "expert_review": "A cornerstone theorem linking time-domain convolution with algebraic multiplication in the Laplace domain.",
+  "keywords": [
+    "laplace-transform",
+    "convolution",
+    "time-domain",
+    "transfer-function",
+    "system-response"
+  ],
+  "subjects": [
+    "control-systems",
+    "signals-and-systems",
+    "applied-mathematics"
+  ],
+  "prerequisites": [
+    "time-shift-property",
+    "frequency-shift-property",
+    "laplace-transform-basics",
+    "causal-systems"
+  ],
+  "tags": [
+    "undergraduate",
+    "core-theory",
+    "high-importance",
+    "proof-based"
+  ],
+  "created_date": "2026-01-11",
+  "last_modified": "2026-01-11",
+  "estimated_time": 20,
+  "source": "Control Systems Textbook - Chapter 3",
+  "problem_type": "analytical_proof",
+  "skill_levels": {
+    "conceptual": 5,
+    "procedural": 4,
+    "problem_solving": 5
+  },
+  "bloom_taxonomy": [
+    "understand",
+    "analyze",
+    "synthesize"
+  ],
+  "learning_objectives": [
+    "Prove the convolution property of the Laplace transform",
+    "Understand the relationship between convolution and multiplication",
+    "Apply convolution to system response analysis",
+    "Recognize causality in integral limits"
+  ]
+}

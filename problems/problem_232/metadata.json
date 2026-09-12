@@ -1,0 +1,55 @@
+{
+  "id": "problem_232",
+  "title": "Temperature Control with Sinusoidal Flow Disturbances Using Internal Model Control",
+  "difficulty": "hard",
+  "difficulty_score": 0.78,
+  "expert_rating": 4.7,
+  "expert_review": "An advanced control problem demonstrating the internal model principle for sinusoidal disturbance rejection in thermal systems.",
+  "keywords": [
+    "thermal-system",
+    "sinusoidal-disturbance",
+    "internal-model-principle",
+    "nyquist-criterion",
+    "frequency-domain-control",
+    "process-control"
+  ],
+  "subjects": [
+    "control-systems",
+    "thermal-systems",
+    "process-control"
+  ],
+  "prerequisites": [
+    "linearization",
+    "transfer-functions",
+    "nyquist-stability",
+    "internal-model-principle"
+  ],
+  "tags": [
+    "graduate",
+    "advanced-control",
+    "frequency-domain",
+    "disturbance-rejection"
+  ],
+  "created_date": "2026-01-20",
+  "last_modified": "2026-01-20",
+  "estimated_time": 25,
+  "source": "Control Systems Textbook - Chapter 7",
+  "problem_type": "advanced_controller_design",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 4,
+    "problem_solving": 5
+  },
+  "bloom_taxonomy": [
+    "analyze",
+    "evaluate",
+    "create"
+  ],
+  "learning_objectives": [
+    "Model thermal systems with time-varying flow disturbances",
+    "Apply the internal model principle for sinusoidal tracking",
+    "Design high-order dynamic controllers",
+    "Use Nyquist plots to verify stability of complex systems",
+    "Understand robustness implications of periodic disturbances"
+  ]
+}

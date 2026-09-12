@@ -1,0 +1,52 @@
+{
+  "id": "problem_169",
+  "title": "Equilibrium Analysis and Coordinate Shift for a Mass-Spring-Damper System",
+  "difficulty": "medium",
+  "difficulty_score": 0.62,
+  "expert_rating": 4.4,
+  "expert_review": "A clear problem demonstrating equilibrium computation and coordinate transformation in state-space systems.",
+  "keywords": [
+    "equilibrium-point",
+    "state-space",
+    "coordinate-transformation",
+    "mass-spring-damper",
+    "gravitational-input"
+  ],
+  "subjects": [
+    "control-systems",
+    "linear-systems",
+    "mechanical-systems"
+  ],
+  "prerequisites": [
+    "state-space-representation",
+    "ordinary-differential-equations",
+    "linear-systems-theory"
+  ],
+  "tags": [
+    "undergraduate",
+    "analytical",
+    "modeling",
+    "equilibrium-analysis"
+  ],
+  "created_date": "2026-01-19",
+  "last_modified": "2026-01-19",
+  "estimated_time": 15,
+  "source": "Control Systems Textbook - Chapter 5",
+  "problem_type": "equilibrium_and_transformation",
+  "skill_levels": {
+    "conceptual": 3,
+    "procedural": 3,
+    "problem_solving": 3
+  },
+  "bloom_taxonomy": [
+    "understand",
+    "analyze",
+    "apply"
+  ],
+  "learning_objectives": [
+    "Compute equilibrium points of state-space systems",
+    "Perform coordinate shifts to simplify system analysis",
+    "Relate equilibrium analysis across different chapters",
+    "Understand the physical meaning of static equilibrium under gravity"
+  ]
+}

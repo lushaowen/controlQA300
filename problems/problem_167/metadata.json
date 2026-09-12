@@ -1,0 +1,52 @@
+{
+  "id": "problem_167",
+  "title": "State-Space Modeling of an Elevator System with Gravitational Torque",
+  "difficulty": "medium",
+  "difficulty_score": 0.65,
+  "expert_rating": 4.4,
+  "expert_review": "An instructive example demonstrating multi-input state-space modeling of an elevator with gravitational effects.",
+  "keywords": [
+    "elevator-system",
+    "rotational-dynamics",
+    "state-space",
+    "block-diagram",
+    "gravitational-torque"
+  ],
+  "subjects": [
+    "control-systems",
+    "mechanical-systems",
+    "systems-modeling"
+  ],
+  "prerequisites": [
+    "ordinary-differential-equations",
+    "basic-mechanics",
+    "state-space-representation"
+  ],
+  "tags": [
+    "undergraduate",
+    "physical-systems",
+    "multi-input",
+    "linear-systems"
+  ],
+  "created_date": "2026-01-19",
+  "last_modified": "2026-01-19",
+  "estimated_time": 18,
+  "source": "Control Systems Textbook - Chapter 2",
+  "problem_type": "modeling_and_representation",
+  "skill_levels": {
+    "conceptual": 3,
+    "procedural": 3,
+    "problem_solving": 3
+  },
+  "bloom_taxonomy": [
+    "understand",
+    "apply",
+    "analyze"
+  ],
+  "learning_objectives": [
+    "Model elevator dynamics using rotational variables",
+    "Incorporate gravitational forces as system inputs",
+    "Formulate multi-input state-space models",
+    "Construct integrator-based block-diagrams for mechanical systems"
+  ]
+}

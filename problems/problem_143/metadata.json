@@ -1,0 +1,40 @@
+{
+  "id": "problem_143",
+  "title": "Integral Control with Zero for Elevator Position Tracking under Disturbance",
+  "difficulty": "hard",
+  "difficulty_score": 0.82,
+  "expert_rating": 4.8,
+  "expert_review": "Excellent problem illustrating why PI controllers are necessary for disturbance rejection and tracking.",
+  "keywords": [
+    "integral-control",
+    "PI-controller",
+    "disturbance-rejection",
+    "position-tracking",
+    "elevator-system"
+  ],
+  "subjects": ["control-systems", "mechanical-systems"],
+  "prerequisites": [
+    "transfer-functions",
+    "feedback-control",
+    "stability-analysis",
+    "system-type"
+  ],
+  "tags": ["graduate", "classical-control", "disturbance-rejection"],
+  "created_date": "2026-01-18",
+  "last_modified": "2026-01-18",
+  "estimated_time": 30,
+  "source": "Control Systems Textbook - Chapter 4",
+  "problem_type": "robust_tracking_control",
+  "skill_levels": {
+    "conceptual": 5,
+    "procedural": 4,
+    "problem_solving": 5
+  },
+  "bloom_taxonomy": ["analyze", "evaluate", "create"],
+  "learning_objectives": [
+    "Understand why integral action is required for perfect tracking",
+    "Recognize instability issues of pure integral control",
+    "Design stabilizing PI-type controllers",
+    "Analyze disturbance rejection in closed-loop systems"
+  ]
+}

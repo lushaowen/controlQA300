@@ -1,0 +1,39 @@
+{
+  "id": "problem_156",
+  "title": "State-Space Representation of Feedback Interconnections",
+  "difficulty": "medium_to_hard",
+  "difficulty_score": 0.75,
+  "expert_rating": 4.6,
+  "expert_review": "A rigorous derivation problem that strengthens understanding of feedback interconnections in state-space form, including MIMO cases.",
+  "keywords": [
+    "state-space",
+    "feedback",
+    "interconnection",
+    "block-diagram",
+    "MIMO-systems"
+  ],
+  "subjects": ["control-systems", "systems-theory"],
+  "prerequisites": [
+    "state-space-models",
+    "linear-algebra",
+    "feedback-control"
+  ],
+  "tags": ["undergraduate", "theoretical", "modeling"],
+  "created_date": "2026-01-15",
+  "last_modified": "2026-01-15",
+  "estimated_time": 25,
+  "source": "Control Systems Textbook - Chapter 5",
+  "problem_type": "theoretical_derivation",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 4,
+    "problem_solving": 5
+  },
+  "bloom_taxonomy": ["analyze", "evaluate"],
+  "learning_objectives": [
+    "Understand feedback interconnections of state-space systems",
+    "Derive augmented system matrices systematically",
+    "Handle direct feedthrough terms correctly",
+    "Generalize feedback formulas to MIMO systems"
+  ]
+}

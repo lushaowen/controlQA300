@@ -1,0 +1,43 @@
+{
+  "id": "problem_155",
+  "title": "State-Space Realizations of Interconnected Integrator Diagrams",
+  "difficulty": "medium",
+  "difficulty_score": 0.62,
+  "expert_rating": 4.6,
+  "expert_review": "A comprehensive exercise demonstrating multiple state-space realizations and their corresponding transfer functions.",
+  "keywords": [
+    "state-space",
+    "transfer-function",
+    "integrator-diagrams",
+    "realization",
+    "pole-zero-cancellation"
+  ],
+  "subjects": ["control-systems"],
+  "prerequisites": [
+    "state-space-models",
+    "laplace-transform",
+    "block-diagrams"
+  ],
+  "tags": [
+    "derivation",
+    "realization-theory",
+    "lti-systems"
+  ],
+  "created_date": "2026-01-14",
+  "last_modified": "2026-01-14",
+  "estimated_time": 20,
+  "source": "Control Systems Textbook - Chapter 5",
+  "problem_type": "derivation_and_analysis",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 4,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": ["apply", "analyze"],
+  "learning_objectives": [
+    "Derive state-space equations from block diagrams",
+    "Compute transfer functions from state-space models",
+    "Recognize different realizations of the same dynamics",
+    "Identify pole-zero cancellations in system representations"
+  ]
+}

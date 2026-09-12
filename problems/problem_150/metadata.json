@@ -1,0 +1,42 @@
+{
+  "id": "problem_150",
+  "title": "Proportional Temperature Control of a Water Heater",
+  "difficulty": "medium_to_hard",
+  "difficulty_score": 0.75,
+  "expert_rating": 4.7,
+  "expert_review": "Comprehensive problem integrating thermal modeling, feedback design, actuator limits, and time-domain analysis",
+  "keywords": [
+    "thermal-system",
+    "temperature-control",
+    "water-heater",
+    "proportional-control",
+    "time-constant",
+    "steady-state-error"
+  ],
+  "subjects": ["control-systems", "thermal-systems"],
+  "prerequisites": [
+    "differential-equations",
+    "laplace-transform",
+    "feedback-control",
+    "physical-modeling"
+  ],
+  "tags": ["undergraduate", "advanced", "model-based-control"],
+  "created_date": "2026-01-18",
+  "last_modified": "2026-01-18",
+  "estimated_time": 30,
+  "source": "Control Systems Textbook - Chapter 2",
+  "problem_type": "physical_system_control_design",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 4,
+    "problem_solving": 5
+  },
+  "bloom_taxonomy": ["analyze", "evaluate", "apply"],
+  "learning_objectives": [
+    "Model thermal dynamics of a water heater",
+    "Design proportional feedback under actuator constraints",
+    "Compare open-loop and closed-loop system dynamics",
+    "Analyze steady-state tracking limitations",
+    "Interpret long-horizon simulation results"
+  ]
+}

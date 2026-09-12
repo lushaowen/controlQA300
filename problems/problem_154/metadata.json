@@ -1,0 +1,40 @@
+{
+  "id": "problem_154",
+  "title": "Sinusoidal In/Out Flow Disturbance in a Thermal Control System",
+  "difficulty": "medium_to_hard",
+  "difficulty_score": 0.72,
+  "expert_rating": 4.6,
+  "expert_review": "An insightful problem highlighting the internal model principle and the limitations of static controllers for periodic disturbances.",
+  "keywords": [
+    "sinusoidal-disturbance",
+    "thermal-system",
+    "disturbance-rejection",
+    "internal-model-principle",
+    "frequency-response"
+  ],
+  "subjects": ["control-systems", "thermal-dynamics"],
+  "prerequisites": [
+    "laplace-transform",
+    "linear-systems",
+    "feedback-control",
+    "frequency-domain-analysis"
+  ],
+  "tags": ["graduate", "theoretical", "disturbance-analysis"],
+  "created_date": "2026-01-18",
+  "last_modified": "2026-01-18",
+  "estimated_time": 25,
+  "source": "Control Systems Textbook - Chapter 4 (Problem P4.38 Extension)",
+  "problem_type": "disturbance_rejection_analysis",
+  "skill_levels": {
+    "conceptual": 5,
+    "procedural": 3,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": ["understand", "analyze", "evaluate"],
+  "learning_objectives": [
+    "Model periodic disturbances in control systems",
+    "Assess the validity of linearizing approximations",
+    "Understand limitations of proportional feedback",
+    "Apply the internal model principle to controller design"
+  ]
+}

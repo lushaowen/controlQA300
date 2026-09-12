@@ -1,0 +1,54 @@
+{
+  "id": "problem_084",
+  "title": "Computation of the L2 Norm Using Contour Integration",
+  "difficulty": "medium_to_hard",
+  "difficulty_score": 0.8,
+  "expert_rating": 4.7,
+  "expert_review": "An elegant problem connecting system norms with complex analysis and residue theory.",
+  "keywords": [
+    "L2-norm",
+    "transfer-function",
+    "contour-integration",
+    "residue-theorem",
+    "frequency-domain",
+    "system-stability"
+  ],
+  "subjects": [
+    "control-systems",
+    "signals-and-systems",
+    "complex-analysis"
+  ],
+  "prerequisites": [
+    "laplace-transform",
+    "frequency-response",
+    "complex-integration",
+    "system-stability"
+  ],
+  "tags": [
+    "graduate-level",
+    "theoretical",
+    "frequency-analysis",
+    "norm-computation"
+  ],
+  "created_date": "2026-01-11",
+  "last_modified": "2026-01-11",
+  "estimated_time": 30,
+  "source": "Control Systems Textbook - System Norms Chapter",
+  "problem_type": "theoretical_derivation",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 4,
+    "problem_solving": 5
+  },
+  "bloom_taxonomy": [
+    "analyze",
+    "evaluate",
+    "prove"
+  ],
+  "learning_objectives": [
+    "Relate system norms to frequency-domain integrals",
+    "Apply contour integration to control problems",
+    "Use residue theory for norm computation",
+    "Analyze stability implications in complex analysis"
+  ]
+}

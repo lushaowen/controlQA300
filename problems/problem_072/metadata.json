@@ -1,0 +1,35 @@
+{
+  "id": "problem_072",
+  "title": "Laplace Transform of the Unit Pulse Function in the Limit",
+  "difficulty": "easy_to_medium",
+  "difficulty_score": 0.45,
+  "expert_rating": 4.7,
+  "expert_review": "Crucial bridge between time-domain pulse approximations and the frequency-domain representation of the Dirac Delta function.",
+  "keywords": [
+    "Laplace-transform",
+    "unit-pulse",
+    "Dirac-delta",
+    "sampling-property",
+    "limit-analysis"
+  ],
+  "subjects": ["signals-and-systems", "control-theory", "mathematics"],
+  "prerequisites": ["Laplace-transform-definition", "pulse-functions", "limit-laws"],
+  "tags": ["undergraduate", "conceptual", "signals"],
+  "created_date": "2026-01-11",
+  "last_modified": "2026-01-11",
+  "estimated_time": 10,
+  "source": "Linear Systems and Signals - Chapter 3",
+  "problem_type": "theoretical_derivation",
+  "skill_levels": {
+    "conceptual": 5,
+    "procedural": 3,
+    "problem_solving": 3
+  },
+  "bloom_taxonomy": ["apply", "analyze", "evaluate"],
+  "learning_objectives": [
+    "Express the Laplace transform of a pulse function as an integral",
+    "Apply the sampling property of unit pulses to exponential functions",
+    "Determine the limit of a transform as the pulse width vanishes",
+    "Connect the mathematical limit to the property of the Dirac Delta function"
+  ]
+}

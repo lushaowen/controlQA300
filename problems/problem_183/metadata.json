@@ -1,0 +1,53 @@
+{
+  "id": "problem_183",
+  "title": "Controllability of a Linearized Satellite Model with Radial Thrust Only",
+  "difficulty": "medium",
+  "difficulty_score": 0.68,
+  "expert_rating": 4.5,
+  "expert_review": "A strong conceptual and analytical problem linking linear system controllability with physical interpretation in orbital mechanics.",
+  "keywords": [
+    "satellite-dynamics",
+    "controllability",
+    "state-space",
+    "radial-thrust",
+    "linearization",
+    "orbital-mechanics"
+  ],
+  "subjects": [
+    "control-systems",
+    "aerospace-control",
+    "linear-systems"
+  ],
+  "prerequisites": [
+    "state-space-modeling",
+    "linear-algebra",
+    "controllability",
+    "basic-orbital-mechanics"
+  ],
+  "tags": [
+    "undergraduate",
+    "upper-level",
+    "theoretical",
+    "analysis"
+  ],
+  "created_date": "2026-01-19",
+  "last_modified": "2026-01-19",
+  "estimated_time": 20,
+  "source": "Control Systems Textbook - Chapter 5",
+  "problem_type": "theoretical_verification",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 3,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": [
+    "analyze",
+    "evaluate"
+  ],
+  "learning_objectives": [
+    "Verify controllability of a linear state-space system",
+    "Relate eigenstructure to controllability properties",
+    "Understand limitations of single-input control in satellite systems",
+    "Interpret mathematical results using physical intuition"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "problem_129",
+  "title": "Constant Disturbance Rejection in a Unity Feedback System",
+  "difficulty": "medium",
+  "difficulty_score": 0.6,
+  "expert_rating": 4.3,
+  "expert_review": "Clear illustration of why internal stability alone does not guarantee disturbance rejection.",
+  "keywords": [
+    "disturbance-rejection",
+    "sensitivity-function",
+    "unity-feedback",
+    "internal-stability",
+    "dc-gain"
+  ],
+  "subjects": ["control-systems", "linear-systems"],
+  "prerequisites": [
+    "feedback-control",
+    "transfer-functions",
+    "laplace-transforms"
+  ],
+  "tags": ["undergraduate", "analysis", "performance"],
+  "created_date": "2026-01-14",
+  "last_modified": "2026-01-14",
+  "estimated_time": 12,
+  "source": "Control Systems Textbook - Chapter 4",
+  "problem_type": "disturbance_rejection_analysis",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 3,
+    "problem_solving": 3
+  },
+  "bloom_taxonomy": ["understand", "analyze"],
+  "learning_objectives": [
+    "Analyze disturbance rejection in feedback systems",
+    "Relate disturbance transfer functions to steady-state behavior",
+    "Distinguish internal stability from performance objectives",
+    "Understand the role of system zeros in disturbance attenuation"
+  ]
+}

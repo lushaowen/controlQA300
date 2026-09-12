@@ -1,0 +1,41 @@
+{
+  "id": "problem_176",
+  "title": "Equilibrium and Linearization of a Nonlinear Tank System",
+  "difficulty": "medium",
+  "difficulty_score": 0.68,
+  "expert_rating": 4.5,
+  "expert_review": "Well-structured problem that reinforces equilibrium analysis, linearization, and stability concepts in nonlinear systems.",
+  "keywords": [
+    "nonlinear-system",
+    "equilibrium-point",
+    "linearization",
+    "state-space",
+    "transfer-function",
+    "stability-analysis",
+    "tank-system"
+  ],
+  "subjects": ["control-systems", "nonlinear-systems"],
+  "prerequisites": [
+    "state-space-modeling",
+    "linear-systems",
+    "basic-differential-equations"
+  ],
+  "tags": ["undergraduate", "modeling", "stability"],
+  "created_date": "2026-01-19",
+  "last_modified": "2026-01-19",
+  "estimated_time": 20,
+  "source": "Control Systems Textbook - Chapter 5",
+  "problem_type": "analytical_derivation",
+  "skill_levels": {
+    "conceptual": 3,
+    "procedural": 4,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": ["apply", "analyze", "evaluate"],
+  "learning_objectives": [
+    "Compute equilibrium points of nonlinear dynamical systems",
+    "Linearize nonlinear state-space equations around equilibria",
+    "Derive transfer functions from linearized models",
+    "Assess asymptotic stability using eigenvalue analysis"
+  ]
+}

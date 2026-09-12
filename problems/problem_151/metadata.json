@@ -1,0 +1,42 @@
+{
+  "id": "problem_151",
+  "title": "Temperature Control with Constant Flow Disturbance",
+  "difficulty": "medium_to_hard",
+  "difficulty_score": 0.78,
+  "expert_rating": 4.6,
+  "expert_review": "Clear illustration of how constant flow disturbances degrade steady-state performance in proportional temperature control",
+  "keywords": [
+    "thermal-system",
+    "disturbance-rejection",
+    "constant-flow",
+    "proportional-control",
+    "steady-state-error",
+    "water-heater"
+  ],
+  "subjects": ["control-systems", "thermal-systems"],
+  "prerequisites": [
+    "thermal-modeling",
+    "feedback-control",
+    "system-stability",
+    "disturbance-analysis"
+  ],
+  "tags": ["undergraduate", "advanced", "disturbance-rejection"],
+  "created_date": "2026-01-18",
+  "last_modified": "2026-01-18",
+  "estimated_time": 25,
+  "source": "Control Systems Textbook - Chapter 4",
+  "problem_type": "disturbance_response_analysis",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 4,
+    "problem_solving": 5
+  },
+  "bloom_taxonomy": ["analyze", "evaluate"],
+  "learning_objectives": [
+    "Analyze the effect of flow disturbances on thermal systems",
+    "Compute modified time constants due to mass flow",
+    "Understand limits of proportional disturbance rejection",
+    "Interpret long-horizon simulation data",
+    "Compare disturbance-free and disturbed closed-loop behavior"
+  ]
+}

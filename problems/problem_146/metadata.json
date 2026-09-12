@@ -1,0 +1,42 @@
+{
+  "id": "problem_146",
+  "title": "Angular Position Control of a DC Motor Using Proportional Feedback",
+  "difficulty": "medium_to_hard",
+  "difficulty_score": 0.7,
+  "expert_rating": 4.8,
+  "expert_review": "Strong conceptual problem highlighting the connection between velocity dynamics, integration, and position tracking.",
+  "keywords": [
+    "DC-motor",
+    "position-control",
+    "proportional-control",
+    "asymptotic-tracking",
+    "internal-stability",
+    "feedback-systems"
+  ],
+  "subjects": ["control-systems", "electromechanical-systems"],
+  "prerequisites": [
+    "laplace-transform",
+    "transfer-functions",
+    "feedback-control",
+    "system-type"
+  ],
+  "tags": ["undergraduate", "position-control", "modeling-and-analysis"],
+  "created_date": "2026-01-18",
+  "last_modified": "2026-01-18",
+  "estimated_time": 30,
+  "source": "Control Systems Textbook - DC Motor Position Control",
+  "problem_type": "analysis_and_design",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 4,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": ["understand", "analyze", "apply"],
+  "learning_objectives": [
+    "Relate angular velocity and angular position in control models",
+    "Derive position transfer functions from velocity dynamics",
+    "Analyze stability of position-controlled systems",
+    "Explain zero steady-state error for step position inputs",
+    "Compare different feedback structures for DC motor control"
+  ]
+}

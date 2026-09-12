@@ -1,0 +1,40 @@
+{
+  "id": "problem_103",
+  "title": "Sinusoidal Torque Response of a Rotating Machine",
+  "difficulty": "medium_to_hard",
+  "difficulty_score": 0.72,
+  "expert_rating": 4.5,
+  "expert_review": "A strong follow-up problem highlighting sinusoidal steady-state response and transient decay in rotating mechanical systems.",
+  "keywords": [
+    "rotating-machine",
+    "sinusoidal-torque",
+    "frequency-response",
+    "laplace-transform",
+    "steady-state-response"
+  ],
+  "subjects": ["control-systems", "mechanical-systems"],
+  "prerequisites": [
+    "laplace-transforms",
+    "complex-variables",
+    "linear-time-invariant-systems",
+    "rotational-dynamics"
+  ],
+  "tags": ["undergraduate", "time-response", "frequency-analysis"],
+  "created_date": "2026-01-17",
+  "last_modified": "2026-01-17",
+  "estimated_time": 18,
+  "source": "Control Systems Textbook - Chapter 3, Problem P3.55",
+  "problem_type": "analytical_derivation",
+  "skill_levels": {
+    "conceptual": 3,
+    "procedural": 5,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": ["apply", "analyze"],
+  "learning_objectives": [
+    "Apply Laplace transforms to sinusoidal mechanical inputs",
+    "Perform inverse Laplace transforms with complex poles",
+    "Distinguish transient and steady-state responses",
+    "Relate time-domain solutions to frequency-domain behavior"
+  ]
+}

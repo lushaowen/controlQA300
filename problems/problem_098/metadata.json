@@ -1,0 +1,51 @@
+{
+  "id": "problem_098",
+  "title": "Impulse Response of a Time-Varying Sample-and-Hold System",
+  "difficulty": "hard",
+  "difficulty_score": 0.72,
+  "expert_rating": 4.7,
+  "expert_review": "This problem provides a deep theoretical look at how sampling is represented in the context of continuous-time integral equations. It's a sophisticated application of the Dirac delta function.",
+  "keywords": [
+    "impulse-response",
+    "sample-and-hold",
+    "sifting-property",
+    "Dirac-delta",
+    "LTV-system",
+    "superposition-integral"
+  ],
+  "subjects": [
+    "signals-and-systems",
+    "mathematical-system-theory"
+  ],
+  "prerequisites": [
+    "Dirac-delta-properties",
+    "linearity-of-systems",
+    "calculus-of-integrals"
+  ],
+  "tags": [
+    "graduate",
+    "theoretical-derivation",
+    "sampled-data-systems"
+  ],
+  "created_date": "2026-01-12",
+  "last_modified": "2026-01-12",
+  "estimated_time": 30,
+  "source": "Advanced Signals and Systems Analysis",
+  "problem_type": "theoretical_verification",
+  "skill_levels": {
+    "conceptual": 5,
+    "procedural": 4,
+    "problem_solving": 5
+  },
+  "bloom_taxonomy": [
+    "analyze",
+    "evaluate",
+    "create"
+  ],
+  "learning_objectives": [
+    "Formulate the impulse response for a non-time-invariant system",
+    "Apply the sifting property of the Dirac delta function to evaluate system kernels",
+    "Relate the piecewise constant output of a sample-and-hold system to its integral representation",
+    "Understand the mathematical distinction between LTI convolution and LTV kernel integration"
+  ]
+}

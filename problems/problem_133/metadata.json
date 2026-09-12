@@ -1,0 +1,51 @@
+{
+  "id": "problem_133",
+  "title": "Pole-Zero Relationship in Modified Controller Transfer Functions",
+  "difficulty": "medium_to_hard",
+  "difficulty_score": 0.72,
+  "expert_rating": 4.7,
+  "expert_review": "A concise theoretical problem highlighting pole-zero structure and its implications in feedback control design.",
+  "keywords": [
+    "poles-and-zeros",
+    "transfer-function",
+    "feedback-systems",
+    "loop-shaping",
+    "controller-design"
+  ],
+  "subjects": [
+    "control-systems",
+    "linear-systems",
+    "feedback-theory"
+  ],
+  "prerequisites": [
+    "transfer-functions",
+    "pole-zero-analysis",
+    "basic-feedback-systems"
+  ],
+  "tags": [
+    "undergraduate",
+    "theoretical",
+    "frequency-domain",
+    "conceptual"
+  ],
+  "created_date": "2026-01-18",
+  "last_modified": "2026-01-18",
+  "estimated_time": 12,
+  "source": "Control Systems Textbook - Chapter 4",
+  "problem_type": "theoretical_proof",
+  "skill_levels": {
+    "conceptual": 5,
+    "procedural": 2,
+    "problem_solving": 3
+  },
+  "bloom_taxonomy": [
+    "understand",
+    "analyze"
+  ],
+  "learning_objectives": [
+    "Understand pole-zero relationships in feedback systems",
+    "Analyze modified controller structures",
+    "Relate plant dynamics to controller zeros",
+    "Apply theoretical reasoning to transfer-function properties"
+  ]
+}

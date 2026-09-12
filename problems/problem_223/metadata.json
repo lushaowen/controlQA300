@@ -1,0 +1,40 @@
+{
+  "id": "problem_223",
+  "title": "Identification of Minimum-Phase Transfer Functions from Bode Magnitude Diagrams",
+  "difficulty": "medium",
+  "difficulty_score": 0.68,
+  "expert_rating": 4.5,
+  "expert_review": "Strong frequency-domain identification problem emphasizing Bode plot interpretation and minimum-phase assumptions",
+  "keywords": [
+    "bode-plot",
+    "frequency-response",
+    "minimum-phase",
+    "transfer-function-identification",
+    "pole-zero-analysis"
+  ],
+  "subjects": ["control-systems", "frequency-domain-analysis"],
+  "prerequisites": [
+    "bode-diagrams",
+    "laplace-transform",
+    "poles-and-zeros",
+    "second-order-systems"
+  ],
+  "tags": ["undergraduate", "analysis", "frequency-domain", "system-identification"],
+  "created_date": "2026-01-20",
+  "last_modified": "2026-01-20",
+  "estimated_time": 20,
+  "source": "Control Systems Textbook - Chapter 7",
+  "problem_type": "model_identification",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 3,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": ["analyze", "apply"],
+  "learning_objectives": [
+    "Interpret Bode magnitude plots using asymptotic approximations",
+    "Identify poles and zeros from slope changes",
+    "Construct minimum-phase transfer functions from frequency data",
+    "Relate frequency-domain behavior to pole-zero structure"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "problem_215",
+  "title": "Integral Control and Root-Locus Design for DC Motor Torque Tracking",
+  "difficulty": "medium",
+  "difficulty_score": 0.64,
+  "expert_rating": 4.3,
+  "expert_review": "Good example highlighting torque control and the need for integral action in classical control design.",
+  "keywords": [
+    "DC-motor",
+    "torque-control",
+    "root-locus",
+    "integral-control",
+    "electromechanical-systems"
+  ],
+  "subjects": [
+    "control-systems",
+    "electric-machines"
+  ],
+  "prerequisites": [
+    "transfer-functions",
+    "root-locus-method",
+    "steady-state-error",
+    "DC-motor-modeling"
+  ],
+  "tags": [
+    "undergraduate",
+    "classical-control",
+    "motor-drives",
+    "feedback-control"
+  ],
+  "created_date": "2026-01-19",
+  "last_modified": "2026-01-19",
+  "estimated_time": 25,
+  "source": "Control Systems Textbook - Chapter 4",
+  "problem_type": "controller_design",
+  "skill_levels": {
+    "conceptual": 3,
+    "procedural": 4,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": [
+    "understand",
+    "apply",
+    "analyze"
+  ],
+  "learning_objectives": [
+    "Derive torque transfer functions of DC motors",
+    "Understand the role of zeros in control design",
+    "Explain why integral action is required for constant tracking",
+    "Apply root-locus techniques to torque control problems",
+    "Assess stability of feedback systems using pole locations"
+  ]
+}

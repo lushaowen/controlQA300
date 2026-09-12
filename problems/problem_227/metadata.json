@@ -1,0 +1,42 @@
+{
+  "id": "problem_227",
+  "title": "Disturbance Rejection Control of a Two-Mass Spring-Damper System",
+  "difficulty": "hard",
+  "difficulty_score": 0.78,
+  "expert_rating": 4.6,
+  "expert_review": "A challenging controller design problem involving disturbance rejection and frequency-domain analysis of a higher-order mechanical system.",
+  "keywords": [
+    "two-mass-system",
+    "disturbance-rejection",
+    "integral-control",
+    "bode-plot",
+    "nyquist-criterion",
+    "stability-margins"
+  ],
+  "subjects": ["control-systems", "mechanical-systems"],
+  "prerequisites": [
+    "transfer-functions",
+    "frequency-domain-analysis",
+    "nyquist-stability",
+    "multi-degree-of-freedom-systems"
+  ],
+  "tags": ["undergraduate", "advanced", "classical-control"],
+  "created_date": "2026-01-20",
+  "last_modified": "2026-01-20",
+  "estimated_time": 30,
+  "source": "Control Systems Textbook - Chapter 7",
+  "problem_type": "frequency_domain_controller_design",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 5,
+    "problem_solving": 5
+  },
+  "bloom_taxonomy": ["analyze", "apply", "evaluate"],
+  "learning_objectives": [
+    "Model coupled mechanical systems using transfer functions",
+    "Design controllers for constant disturbance rejection",
+    "Analyze high-order systems using Bode plots",
+    "Apply the Nyquist criterion for stability assessment",
+    "Interpret gain and phase margins in robustness analysis"
+  ]
+}

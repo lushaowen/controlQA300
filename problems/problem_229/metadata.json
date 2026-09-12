@@ -1,0 +1,55 @@
+{
+  "id": "problem_229",
+  "title": "Dynamic Feedback Control of a DC Motor Using Bode and Nyquist Analysis",
+  "difficulty": "medium",
+  "difficulty_score": 0.65,
+  "expert_rating": 4.5,
+  "expert_review": "A classic control problem illustrating integral control design for DC motor speed regulation using frequency-domain methods.",
+  "keywords": [
+    "dc-motor",
+    "integral-control",
+    "bode-plot",
+    "nyquist-criterion",
+    "gain-margin",
+    "phase-margin",
+    "speed-control"
+  ],
+  "subjects": [
+    "control-systems",
+    "electromechanical-systems"
+  ],
+  "prerequisites": [
+    "laplace-transform",
+    "transfer-functions",
+    "bode-plot",
+    "nyquist-stability"
+  ],
+  "tags": [
+    "undergraduate",
+    "classical-control",
+    "frequency-domain",
+    "servo-systems"
+  ],
+  "created_date": "2026-01-20",
+  "last_modified": "2026-01-20",
+  "estimated_time": 18,
+  "source": "Control Systems Textbook - Chapter 2",
+  "problem_type": "controller_design",
+  "skill_levels": {
+    "conceptual": 3,
+    "procedural": 4,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": [
+    "apply",
+    "analyze",
+    "evaluate"
+  ],
+  "learning_objectives": [
+    "Model DC motor dynamics using transfer functions",
+    "Design integral controllers for reference tracking",
+    "Apply Bode plots to compute stability margins",
+    "Use Nyquist criterion to verify closed-loop stability",
+    "Interpret robustness measures in practical control systems"
+  ]
+}

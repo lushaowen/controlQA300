@@ -1,0 +1,52 @@
+{
+  "id": "problem_119",
+  "title": "Step Response of an RLC Circuit and Parameter Effects",
+  "difficulty": "medium",
+  "difficulty_score": 0.62,
+  "expert_rating": 4.5,
+  "expert_review": "A useful problem for understanding how RLC parameters influence transient and steady-state behavior.",
+  "keywords": [
+    "RLC-circuit",
+    "step-response",
+    "transient-response",
+    "steady-state",
+    "second-order-system"
+  ],
+  "subjects": [
+    "control-systems",
+    "circuits",
+    "signals-and-systems"
+  ],
+  "prerequisites": [
+    "second-order-systems",
+    "laplace-transform",
+    "transfer-functions"
+  ],
+  "tags": [
+    "undergraduate",
+    "time-domain-analysis",
+    "modeling",
+    "physical-interpretation"
+  ],
+  "created_date": "2026-01-18",
+  "last_modified": "2026-01-18",
+  "estimated_time": 15,
+  "source": "Control Systems Textbook - Chapter 3",
+  "problem_type": "time_response_analysis",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 3,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": [
+    "apply",
+    "analyze",
+    "evaluate"
+  ],
+  "learning_objectives": [
+    "Compute the step response of an RLC circuit",
+    "Separate transient and steady-state response components",
+    "Understand the influence of RLC parameters on system dynamics",
+    "Relate damping and natural frequency to physical circuit behavior"
+  ]
+}

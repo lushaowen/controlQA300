@@ -1,0 +1,50 @@
+{
+  "id": "problem_033",
+  "title": "Differential Equation Modeling of an RC Circuit",
+  "difficulty": "easy_to_medium",
+  "difficulty_score": 0.5,
+  "expert_rating": 4.6,
+  "expert_review": "Clear introductory problem linking Kirchhoff’s laws to first-order dynamical models",
+  "keywords": [
+    "RC-circuit",
+    "kirchhoff-voltage-law",
+    "kirchhoff-current-law",
+    "capacitor",
+    "resistor",
+    "first-order-system"
+  ],
+  "subjects": [
+    "electric-circuits",
+    "control-systems",
+    "system-modeling"
+  ],
+  "prerequisites": [
+    "basic-circuit-theory",
+    "ordinary-differential-equations"
+  ],
+  "tags": [
+    "undergraduate",
+    "introductory",
+    "electrical-systems"
+  ],
+  "created_date": "2026-01-10",
+  "last_modified": "2026-01-10",
+  "estimated_time": 12,
+  "source": "Control Systems Textbook - Electrical Circuit Modeling Chapter",
+  "problem_type": "first_order_circuit_modeling",
+  "skill_levels": {
+    "conceptual": 3,
+    "procedural": 3,
+    "problem_solving": 2
+  },
+  "bloom_taxonomy": [
+    "understand",
+    "apply"
+  ],
+  "learning_objectives": [
+    "Apply Kirchhoff’s laws to electric circuits",
+    "Derive differential equations for RC circuits",
+    "Understand capacitor voltage as a state variable",
+    "Relate electrical circuits to dynamical system models"
+  ]
+}

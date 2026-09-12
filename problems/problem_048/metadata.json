@@ -1,0 +1,52 @@
+{
+  "id": "problem_048",
+  "title": "Temperature Dynamics of a Flowing Substance in a Container",
+  "difficulty": "easy_to_medium",
+  "difficulty_score": 0.55,
+  "expert_rating": 4.4,
+  "expert_review": "A clear and intuitive example of first-order thermal system modeling using ordinary differential equations.",
+  "keywords": [
+    "thermal-system",
+    "heat-transfer",
+    "first-order-system",
+    "lumped-parameter-model",
+    "temperature-dynamics"
+  ],
+  "subjects": [
+    "control-systems",
+    "thermal-systems",
+    "system-modeling"
+  ],
+  "prerequisites": [
+    "ordinary-differential-equations",
+    "energy-balance",
+    "basic-thermodynamics"
+  ],
+  "tags": [
+    "undergraduate",
+    "modeling",
+    "thermal",
+    "physical-systems"
+  ],
+  "created_date": "2026-01-11",
+  "last_modified": "2026-01-11",
+  "estimated_time": 15,
+  "source": "Control Systems Textbook - Thermal System Modeling",
+  "problem_type": "dynamic_modeling",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 3,
+    "problem_solving": 3
+  },
+  "bloom_taxonomy": [
+    "understand",
+    "apply",
+    "analyze"
+  ],
+  "learning_objectives": [
+    "Model thermal systems using energy balance equations",
+    "Solve first-order linear differential equations",
+    "Interpret physical meaning of model parameters",
+    "Recognize analogies between thermal and control systems"
+  ]
+}

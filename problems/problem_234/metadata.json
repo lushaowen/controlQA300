@@ -1,0 +1,42 @@
+{
+  "id": "problem_234",
+  "title": "Frequency-Response Analysis of a One-Eighth-Car Suspension Model",
+  "difficulty": "medium",
+  "difficulty_score": 0.64,
+  "expert_rating": 4.4,
+  "expert_review": "A clear application of Bode plots and frequency-response methods to vehicle suspension dynamics.",
+  "keywords": [
+    "one-eighth-car-model",
+    "bode-plot",
+    "frequency-response",
+    "vehicle-dynamics",
+    "resonance",
+    "damping-ratio"
+  ],
+  "subjects": ["control-systems", "vehicle-dynamics"],
+  "prerequisites": [
+    "second-order-systems",
+    "bode-plots",
+    "frequency-response-analysis",
+    "mechanical-vibrations"
+  ],
+  "tags": ["undergraduate", "modeling", "frequency-domain"],
+  "created_date": "2026-01-20",
+  "last_modified": "2026-01-20",
+  "estimated_time": 20,
+  "source": "Control Systems Textbook - Chapter 6",
+  "problem_type": "frequency_response_analysis",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 3,
+    "problem_solving": 3
+  },
+  "bloom_taxonomy": ["understand", "analyze"],
+  "learning_objectives": [
+    "Analyze vehicle suspension dynamics using frequency-response methods",
+    "Interpret Bode magnitude and phase plots",
+    "Relate damping ratio to resonance behavior",
+    "Understand the physical significance of poles and zeros in mechanical systems",
+    "Apply frequency-domain analysis to ride comfort assessment"
+  ]
+}

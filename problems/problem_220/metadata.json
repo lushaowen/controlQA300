@@ -1,0 +1,54 @@
+{
+  "id": "problem_220",
+  "title": "Root-Locus Stability Analysis of a Physiological PID Glucose Controller",
+  "difficulty": "hard",
+  "difficulty_score": 0.74,
+  "expert_rating": 4.8,
+  "expert_review": "A rigorous example of translating experimentally observed physiological feedback into classical loop analysis and stability assessment.",
+  "keywords": [
+    "glucose-insulin",
+    "pid-controller",
+    "root-locus",
+    "physiological-control",
+    "stability-analysis"
+  ],
+  "subjects": [
+    "control-systems",
+    "biomedical-engineering",
+    "systems-biology"
+  ],
+  "prerequisites": [
+    "laplace-transform",
+    "pid-control",
+    "root-locus-method",
+    "linearization"
+  ],
+  "tags": [
+    "graduate",
+    "biological-systems",
+    "classical-control",
+    "stability"
+  ],
+  "created_date": "2026-01-19",
+  "last_modified": "2026-01-19",
+  "estimated_time": 40,
+  "source": "Control Systems Textbook - Chapter 6",
+  "problem_type": "loop_stability_analysis",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 4,
+    "problem_solving": 5
+  },
+  "bloom_taxonomy": [
+    "apply",
+    "analyze",
+    "evaluate"
+  ],
+  "learning_objectives": [
+    "Derive PID controller transfer-functions",
+    "Construct loop transfer-functions for biological systems",
+    "Analyze root-locus behavior with multiple poles and zeros",
+    "Assess asymptotic stability using classical tools",
+    "Relate experimental physiological parameters to control theory"
+  ]
+}

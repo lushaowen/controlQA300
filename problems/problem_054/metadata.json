@@ -1,0 +1,56 @@
+{
+  "id": "problem_054",
+  "title": "On/Off Control of a Water Heater with Constant In/Out Flow",
+  "difficulty": "hard",
+  "difficulty_score": 0.82,
+  "expert_rating": 5.0,
+  "expert_review": "A strong extension of the on/off heater model demonstrating the dramatic impact of flow-induced heat loss.",
+  "keywords": [
+    "on-off-control",
+    "hybrid-systems",
+    "thermal-dynamics",
+    "water-flow",
+    "energy-consumption"
+  ],
+  "subjects": [
+    "control-systems",
+    "thermal-systems",
+    "energy-systems"
+  ],
+  "prerequisites": [
+    "first-order-ode",
+    "hybrid-dynamics",
+    "thermal-modeling",
+    "energy-balance"
+  ],
+  "tags": [
+    "engineering",
+    "control",
+    "hybrid-system",
+    "thermal",
+    "energy-efficiency"
+  ],
+  "created_date": "2026-01-11",
+  "last_modified": "2026-01-11",
+  "estimated_time": 35,
+  "source": "Control Systems Textbook - Water Heater with Flow",
+  "problem_type": "hybrid_dynamic_analysis",
+  "skill_levels": {
+    "conceptual": 5,
+    "procedural": 5,
+    "problem_solving": 5
+  },
+  "bloom_taxonomy": [
+    "apply",
+    "analyze",
+    "compare",
+    "evaluate",
+    "synthesize"
+  ],
+  "learning_objectives": [
+    "Analyze hybrid thermal systems with flow",
+    "Understand flow-induced heat loss",
+    "Compare energy consumption under different operating conditions",
+    "Quantify the effect of usage on power demand"
+  ]
+}

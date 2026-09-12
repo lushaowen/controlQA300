@@ -1,0 +1,53 @@
+{
+  "id": "problem_052",
+  "title": "Heating Dynamics of a Water Heater with Constant Power and Flow",
+  "difficulty": "medium",
+  "difficulty_score": 0.70,
+  "expert_rating": 4.8,
+  "expert_review": "Excellent comparative problem showing how flow affects both equilibrium temperature and transient heating behavior.",
+  "keywords": [
+    "thermal-systems",
+    "water-heater",
+    "flow-rate",
+    "heating-dynamics",
+    "first-order-ode"
+  ],
+  "subjects": [
+    "control-systems",
+    "thermal-modeling",
+    "energy-systems"
+  ],
+  "prerequisites": [
+    "ordinary-differential-equations",
+    "thermal-resistance",
+    "lumped-parameter-models"
+  ],
+  "tags": [
+    "engineering",
+    "thermal",
+    "dynamic-response",
+    "comparison-study"
+  ],
+  "created_date": "2026-01-11",
+  "last_modified": "2026-01-11",
+  "estimated_time": 20,
+  "source": "Control Systems Textbook - Thermal Systems Examples",
+  "problem_type": "comparative_dynamic_analysis",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 4,
+    "problem_solving": 5
+  },
+  "bloom_taxonomy": [
+    "apply",
+    "analyze",
+    "compare",
+    "evaluate"
+  ],
+  "learning_objectives": [
+    "Analyze heating dynamics with combined power input and flow",
+    "Compute equilibrium temperature under competing effects",
+    "Compare transient responses with and without flow",
+    "Understand trade-offs between heating power and mass transport"
+  ]
+}

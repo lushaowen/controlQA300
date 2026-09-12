@@ -1,0 +1,51 @@
+{
+  "id": "problem_193",
+  "title": "Equilibrium Analysis and Modeling of Glucose-Insulin Dynamics",
+  "difficulty": "medium",
+  "difficulty_score": 0.62,
+  "expert_rating": 4.5,
+  "expert_review": "Excellent problem for applying basic control theory to biological systems. It clearly demonstrates the transition from nonlinear ODEs to block diagram representations.",
+  "keywords": [
+    "glucose-insulin-model",
+    "nonlinear-systems",
+    "equilibrium-point",
+    "block-diagram",
+    "ordinary-differential-equations",
+    "integrators"
+  ],
+  "subjects": [
+    "control-systems",
+    "mathematical-biology",
+    "nonlinear-dynamics"
+  ],
+  "prerequisites": [
+    "differential-equations",
+    "basic-system-modeling"
+  ],
+  "tags": [
+    "undergraduate",
+    "biomedical-engineering",
+    "steady-state-analysis"
+  ],
+  "created_date": "2026-01-15",
+  "last_modified": "2026-01-15",
+  "estimated_time": 15,
+  "source": "Biomedical Control Systems - Glucose Regulation Exercise",
+  "problem_type": "analytical_and_graphical",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 4,
+    "problem_solving": 3
+  },
+  "bloom_taxonomy": [
+    "apply",
+    "analyze",
+    "create"
+  ],
+  "learning_objectives": [
+    "Calculate equilibrium points for a set of nonlinear coupled ODEs",
+    "Translate mathematical state-space equations into a block diagram",
+    "Understand the impact of insulin concentration on glucose steady-state levels",
+    "Utilize integrators to represent system dynamics graphically"
+  ]
+}

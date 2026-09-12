@@ -1,0 +1,40 @@
+{
+  "id": "problem_225",
+  "title": "Frequency-Domain Control Design for Elevator Position Tracking",
+  "difficulty": "medium",
+  "difficulty_score": 0.62,
+  "expert_rating": 4.4,
+  "expert_review": "Clear application of Bode and Nyquist methods to a realistic mechanical positioning system",
+  "keywords": [
+    "elevator-control",
+    "bode-plot",
+    "nyquist-criterion",
+    "position-tracking",
+    "integrator"
+  ],
+  "subjects": ["control-systems", "mechanical-systems"],
+  "prerequisites": [
+    "laplace-transform",
+    "transfer-functions",
+    "bode-diagrams",
+    "nyquist-stability"
+  ],
+  "tags": ["undergraduate", "frequency-domain", "tracking", "mechanical-control"],
+  "created_date": "2026-01-20",
+  "last_modified": "2026-01-20",
+  "estimated_time": 30,
+  "source": "Control Systems Textbook - Chapter 2",
+  "problem_type": "controller_analysis",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 3,
+    "problem_solving": 3
+  },
+  "bloom_taxonomy": ["analyze", "apply"],
+  "learning_objectives": [
+    "Derive transfer functions for mechanical systems",
+    "Apply frequency-domain tools to position control",
+    "Use Nyquist plots to guarantee closed-loop stability",
+    "Interpret gain and phase margins for robustness"
+  ]
+}

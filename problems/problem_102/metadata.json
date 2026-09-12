@@ -1,0 +1,39 @@
+{
+  "id": "problem_102",
+  "title": "Constant-Torque Response of a Rotating Machine",
+  "difficulty": "medium",
+  "difficulty_score": 0.68,
+  "expert_rating": 4.4,
+  "expert_review": "Solid analytical problem reinforcing Laplace-domain analysis and physical interpretation of transient and steady-state behavior in rotating systems.",
+  "keywords": [
+    "rotating-machine",
+    "constant-torque",
+    "laplace-transform",
+    "transient-response",
+    "steady-state-response"
+  ],
+  "subjects": ["control-systems", "mechanical-systems"],
+  "prerequisites": [
+    "laplace-transforms",
+    "linear-time-invariant-systems",
+    "rotational-dynamics"
+  ],
+  "tags": ["undergraduate", "systems-analysis", "time-response"],
+  "created_date": "2026-01-17",
+  "last_modified": "2026-01-17",
+  "estimated_time": 15,
+  "source": "Control Systems Textbook - Chapter 3, Problem P3.54",
+  "problem_type": "analytical_derivation",
+  "skill_levels": {
+    "conceptual": 3,
+    "procedural": 4,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": ["apply", "analyze"],
+  "learning_objectives": [
+    "Apply Laplace transforms to mechanical system inputs",
+    "Derive time-domain responses from transfer functions",
+    "Distinguish transient and steady-state components",
+    "Relate mathematical expressions to physical system behavior"
+  ]
+}

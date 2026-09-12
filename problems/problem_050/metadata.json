@@ -1,0 +1,53 @@
+{
+  "id": "problem_050",
+  "title": "Effect of Flow Rate on Cooling Time of a Water Heater",
+  "difficulty": "medium",
+  "difficulty_score": 0.68,
+  "expert_rating": 4.7,
+  "expert_review": "A strong comparative example highlighting the impact of flow-induced heat transfer on system time constants.",
+  "keywords": [
+    "thermal-systems",
+    "flow-rate",
+    "time-constant",
+    "heat-transfer",
+    "first-order-dynamics"
+  ],
+  "subjects": [
+    "control-systems",
+    "thermal-modeling",
+    "fluid-systems"
+  ],
+  "prerequisites": [
+    "ordinary-differential-equations",
+    "thermal-resistance",
+    "lumped-parameter-models"
+  ],
+  "tags": [
+    "engineering",
+    "dynamic-systems",
+    "thermal",
+    "comparison-study"
+  ],
+  "created_date": "2026-01-11",
+  "last_modified": "2026-01-11",
+  "estimated_time": 20,
+  "source": "Control Systems Textbook - Thermal and Flow Effects",
+  "problem_type": "dynamic_response_analysis",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 4,
+    "problem_solving": 5
+  },
+  "bloom_taxonomy": [
+    "apply",
+    "analyze",
+    "compare",
+    "evaluate"
+  ],
+  "learning_objectives": [
+    "Analyze the effect of mass flow on thermal dynamics",
+    "Compute cooling times using first-order models",
+    "Compare conductive and convective heat transfer mechanisms",
+    "Interpret system time constants physically"
+  ]
+}

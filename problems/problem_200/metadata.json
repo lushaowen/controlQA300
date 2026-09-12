@@ -1,0 +1,39 @@
+{
+  "id": "problem_200",
+  "title": "Root-Locus Sketching and MATLAB Verification for SISO Systems",
+  "difficulty": "medium",
+  "difficulty_score": 0.65,
+  "expert_rating": 4.4,
+  "expert_review": "A visually driven problem that reinforces root-locus rules and encourages verification using computational tools.",
+  "keywords": [
+    "root-locus",
+    "pole-zero-diagram",
+    "SISO-system",
+    "stability-analysis",
+    "MATLAB"
+  ],
+  "subjects": ["control-systems"],
+  "prerequisites": [
+    "root-locus-rules",
+    "complex-plane",
+    "linear-feedback-systems"
+  ],
+  "tags": ["undergraduate", "graphical-methods", "design-oriented"],
+  "created_date": "2026-01-16",
+  "last_modified": "2026-01-16",
+  "estimated_time": 20,
+  "source": "Control Systems Textbook - Root-Locus Chapter",
+  "problem_type": "graphical_analysis",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 3,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": ["analyze", "apply", "verify"],
+  "learning_objectives": [
+    "Sketch root-locus plots from pole-zero diagrams",
+    "Apply root-locus rules to predict closed-loop behavior",
+    "Understand the effect of gain on system stability",
+    "Verify analytical results using MATLAB tools"
+  ]
+}

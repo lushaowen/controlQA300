@@ -1,0 +1,54 @@
+{
+  "id": "problem_187",
+  "title": "Pole–Zero Analysis of a Linearized Insulin–Glucose Model with Identified Parameters",
+  "difficulty": "medium",
+  "difficulty_score": 0.66,
+  "expert_rating": 4.5,
+  "expert_review": "A concise problem linking experimental parameter identification with pole–zero and stability analysis.",
+  "keywords": [
+    "insulin-model",
+    "pole-zero-analysis",
+    "linearized-model",
+    "stability",
+    "biomedical-control",
+    "system-identification"
+  ],
+  "subjects": [
+    "control-systems",
+    "biomedical-systems",
+    "linear-systems"
+  ],
+  "prerequisites": [
+    "transfer-functions",
+    "pole-zero-analysis",
+    "stability-theory",
+    "basic-system-identification"
+  ],
+  "tags": [
+    "upper-undergraduate",
+    "biomedical",
+    "analytical",
+    "model-validation"
+  ],
+  "created_date": "2026-01-19",
+  "last_modified": "2026-01-19",
+  "estimated_time": 15,
+  "source": "Control Systems Textbook - Chapter 5 (after Ste+03)",
+  "problem_type": "parameter_substitution_and_stability",
+  "skill_levels": {
+    "conceptual": 3,
+    "procedural": 3,
+    "problem_solving": 3
+  },
+  "bloom_taxonomy": [
+    "apply",
+    "analyze",
+    "evaluate"
+  ],
+  "learning_objectives": [
+    "Substitute experimentally identified parameters into linear models",
+    "Compute poles and zeros of transfer functions",
+    "Assess stability from pole locations",
+    "Relate experimental fits to system-theoretic properties"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "problem_079",
+  "title": "Construction of Continuous and Differentiable Pulse Functions",
+  "difficulty": "medium",
+  "difficulty_score": 0.65,
+  "expert_rating": 4.5,
+  "expert_review": "Excellent problem for teaching the mathematical foundations of signal approximations and the importance of differentiability in system modeling.",
+  "keywords": [
+    "pulse-function",
+    "delta-approximation",
+    "polynomial-interpolation",
+    "normalization",
+    "differentiability"
+  ],
+  "subjects": ["signals-and-systems", "mathematical-methods"],
+  "prerequisites": ["calculus", "definite-integrals", "polynomial-functions"],
+  "tags": ["undergraduate", "signal-processing", "analytical-derivation"],
+  "created_date": "2026-01-11",
+  "last_modified": "2026-01-11",
+  "estimated_time": 25,
+  "source": "Advanced Signals and Systems Exercises",
+  "problem_type": "mathematical_derivation",
+  "skill_levels": {
+    "conceptual": 3,
+    "procedural": 5,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": ["apply", "analyze", "create"],
+  "learning_objectives": [
+    "Construct polynomial pulses satisfying specific boundary conditions",
+    "Apply the normalization property to determine scaling constants",
+    "Differentiate between continuity and differentiability in pulse design",
+    "Understand how pulse order affects smoothness at transition points"
+  ]
+}

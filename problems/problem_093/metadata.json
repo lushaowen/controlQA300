@@ -1,0 +1,41 @@
+{
+  "id": "problem_093",
+  "title": "System Analysis from Various Impulse Responses",
+  "difficulty": "medium_to_hard",
+  "difficulty_score": 0.75,
+  "expert_rating": 4.7,
+  "expert_review": "Comprehensive multi-case problem highlighting stability, pole structure, and time-domain behavior of LTI systems",
+  "keywords": [
+    "impulse-response",
+    "transfer-function",
+    "stability-analysis",
+    "step-response",
+    "laplace-transform",
+    "LTI-systems"
+  ],
+  "subjects": ["signals-and-systems", "control-theory"],
+  "prerequisites": [
+    "laplace-transform",
+    "complex-poles",
+    "system-stability",
+    "convolution"
+  ],
+  "tags": ["undergraduate", "advanced", "system-dynamics"],
+  "created_date": "2026-01-11",
+  "last_modified": "2026-01-11",
+  "estimated_time": 40,
+  "source": "Signals and Systems Textbook - System Response Analysis",
+  "problem_type": "comparative_system_analysis",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 4,
+    "problem_solving": 5
+  },
+  "bloom_taxonomy": ["apply", "analyze", "evaluate"],
+  "learning_objectives": [
+    "Derive transfer functions from impulse responses",
+    "Classify system stability using pole locations and integrability",
+    "Analyze step responses of higher-order systems",
+    "Separate transient and steady-state behavior in complex systems"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "problem_135",
+  "title": "Sensitivity Functions and Internal Stability of the Smith Predictor",
+  "difficulty": "medium_to_hard",
+  "difficulty_score": 0.7,
+  "expert_rating": 4.6,
+  "expert_review": "Provides a clear derivation of sensitivity functions and highlights the central role of delay-free loop stability.",
+  "keywords": [
+    "smith-predictor",
+    "sensitivity-function",
+    "internal-stability",
+    "time-delay",
+    "feedback-control"
+  ],
+  "subjects": ["control-systems"],
+  "prerequisites": [
+    "feedback-loops",
+    "transfer-functions",
+    "internal-stability"
+  ],
+  "tags": [
+    "delay-systems",
+    "model-based-control",
+    "advanced-undergraduate",
+    "graduate"
+  ],
+  "created_date": "2026-01-14",
+  "last_modified": "2026-01-14",
+  "estimated_time": 15,
+  "source": "Control Systems Textbook - Chapter 4",
+  "problem_type": "theoretical_derivation",
+  "skill_levels": {
+    "conceptual": 5,
+    "procedural": 4,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": ["understand", "analyze", "evaluate"],
+  "learning_objectives": [
+    "Derive sensitivity functions in delayed feedback systems",
+    "Understand internal stability requirements of Smith predictors",
+    "Relate controller design to pole placement",
+    "Analyze delay compensation architectures"
+  ]
+}

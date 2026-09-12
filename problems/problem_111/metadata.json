@@ -1,0 +1,52 @@
+{
+  "id": "problem_111",
+  "title": "Transfer Function and Stability of a Mass-Spring-Damper System",
+  "difficulty": "easy",
+  "difficulty_score": 0.4,
+  "expert_rating": 4.2,
+  "expert_review": "A foundational problem illustrating transfer-function derivation and stability of second-order mechanical systems.",
+  "keywords": [
+    "mass-spring-damper",
+    "transfer-function",
+    "second-order-system",
+    "stability",
+    "laplace-transform"
+  ],
+  "subjects": [
+    "control-systems",
+    "mechanical-dynamics",
+    "linear-systems"
+  ],
+  "prerequisites": [
+    "ordinary-differential-equations",
+    "laplace-transform",
+    "complex-variables"
+  ],
+  "tags": [
+    "undergraduate",
+    "introductory",
+    "system-modeling"
+  ],
+  "created_date": "2026-01-17",
+  "last_modified": "2026-01-17",
+  "estimated_time": 8,
+  "source": "Control Systems Textbook - Chapter 2",
+  "problem_type": "transfer_function_derivation",
+  "skill_levels": {
+    "conceptual": 2,
+    "procedural": 3,
+    "problem_solving": 2
+  },
+  "bloom_taxonomy": [
+    "understand",
+    "apply",
+    "analyze"
+  ],
+  "learning_objectives": [
+    "Derive transfer functions from mechanical ODEs",
+    "Express systems in standard second-order form",
+    "Identify natural frequency and damping ratio",
+    "Determine asymptotic stability from pole locations",
+    "Relate physical parameters to system behavior"
+  ]
+}

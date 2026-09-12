@@ -1,0 +1,42 @@
+{
+  "id": "problem_149",
+  "title": "Integral Torque Control of a DC Motor",
+  "difficulty": "medium",
+  "difficulty_score": 0.72,
+  "expert_rating": 4.6,
+  "expert_review": "Well-structured problem highlighting the role of integral control in stability and zero steady-state error",
+  "keywords": [
+    "DC-motor",
+    "integral-control",
+    "torque-control",
+    "steady-state-error",
+    "internal-stability",
+    "feedback-systems"
+  ],
+  "subjects": ["control-systems", "electromechanical-systems"],
+  "prerequisites": [
+    "laplace-transform",
+    "transfer-functions",
+    "feedback-control",
+    "system-stability"
+  ],
+  "tags": ["undergraduate", "intermediate", "controller-design"],
+  "created_date": "2026-01-18",
+  "last_modified": "2026-01-18",
+  "estimated_time": 18,
+  "source": "Control Systems Textbook - Chapter 4",
+  "problem_type": "feedback_controller_analysis",
+  "skill_levels": {
+    "conceptual": 3,
+    "procedural": 4,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": ["apply", "analyze", "evaluate"],
+  "learning_objectives": [
+    "Analyze integral feedback control for DC motors",
+    "Determine stability conditions for integral controllers",
+    "Understand how integral action removes steady-state error",
+    "Relate system type to reference tracking performance",
+    "Interpret simulation results of closed-loop responses"
+  ]
+}

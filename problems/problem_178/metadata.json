@@ -1,0 +1,42 @@
+{
+  "id": "problem_178",
+  "title": "Equilibrium, Linearization, and Stability of a Nonlinear Thermal System",
+  "difficulty": "medium_to_hard",
+  "difficulty_score": 0.72,
+  "expert_rating": 4.6,
+  "expert_review": "A comprehensive problem that integrates equilibrium analysis, linearization, and stability assessment for nonlinear thermal systems.",
+  "keywords": [
+    "thermal-system",
+    "equilibrium",
+    "linearization",
+    "state-space",
+    "transfer-function",
+    "asymptotic-stability",
+    "nonlinear-dynamics"
+  ],
+  "subjects": ["control-systems", "thermal-systems"],
+  "prerequisites": [
+    "state-space-modeling",
+    "nonlinear-systems",
+    "linear-systems",
+    "basic-thermodynamics"
+  ],
+  "tags": ["undergraduate", "advanced-modeling", "stability-analysis"],
+  "created_date": "2026-01-19",
+  "last_modified": "2026-01-19",
+  "estimated_time": 20,
+  "source": "Control Systems Textbook - Chapter 5",
+  "problem_type": "equilibrium_and_linearization",
+  "skill_levels": {
+    "conceptual": 3,
+    "procedural": 4,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": ["apply", "analyze", "evaluate"],
+  "learning_objectives": [
+    "Determine equilibrium points of nonlinear thermal systems",
+    "Linearize state-space models with multiple inputs",
+    "Derive transfer functions from linearized representations",
+    "Assess asymptotic stability using system poles"
+  ]
+}

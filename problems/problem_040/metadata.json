@@ -1,0 +1,39 @@
+{
+  "id": "problem_040",
+  "title": "Equality of Torque Constant and Back-EMF Constant in a DC Motor",
+  "difficulty": "easy",
+  "difficulty_score": 0.35,
+  "expert_rating": 4.1,
+  "expert_review": "Concise conceptual problem highlighting power balance in ideal DC motor models.",
+  "keywords": [
+    "dc-motor",
+    "torque-constant",
+    "back-emf",
+    "power-balance",
+    "electromechanical-systems"
+  ],
+  "subjects": ["control-systems", "electromechanics"],
+  "prerequisites": [
+    "basic-electric-circuits",
+    "mechanical-power",
+    "dc-motor-models"
+  ],
+  "tags": ["undergraduate", "introductory", "conceptual"],
+  "created_date": "2026-01-14",
+  "last_modified": "2026-01-14",
+  "estimated_time": 5,
+  "source": "Control Systems Textbook - DC Motor Modeling",
+  "problem_type": "conceptual_derivation",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 1,
+    "problem_solving": 2
+  },
+  "bloom_taxonomy": ["understand", "apply"],
+  "learning_objectives": [
+    "Understand the physical meaning of DC motor constants",
+    "Apply power balance to electromechanical systems",
+    "Relate electrical and mechanical power expressions",
+    "Recognize assumptions underlying ideal motor models"
+  ]
+}

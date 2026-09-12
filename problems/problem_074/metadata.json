@@ -1,0 +1,35 @@
+{
+  "id": "problem_074",
+  "title": "Integral of the Squared Unit Pulse Function",
+  "difficulty": "medium",
+  "difficulty_score": 0.58,
+  "expert_rating": 4.7,
+  "expert_review": "A mathematically rigorous look at the $L^2$ properties of pulse functions. It effectively demonstrates why the Dirac Delta function is a distribution and not a standard function.",
+  "keywords": [
+    "unit-pulse",
+    "integration",
+    "squared-function",
+    "divergence",
+    "signal-energy"
+  ],
+  "subjects": ["mathematics", "signals-and-systems", "calculus"],
+  "prerequisites": ["definite-integrals", "limit-analysis", "pulse-functions"],
+  "tags": ["undergraduate", "theoretical", "singularity"],
+  "created_date": "2026-01-11",
+  "last_modified": "2026-01-11",
+  "estimated_time": 10,
+  "source": "Signal Theory and Linear Systems - Chapter 3",
+  "problem_type": "analytical_calculation",
+  "skill_levels": {
+    "conceptual": 5,
+    "procedural": 3,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": ["analyze", "evaluate"],
+  "learning_objectives": [
+    "Calculate the integral of a squared parameter-dependent function",
+    "Analyze the limit of an expression as its denominator approaches zero",
+    "Distinguish between area-preserving and energy-preserving transformations",
+    "Understand the mathematical limitations of squaring a Dirac-like pulse"
+  ]
+}

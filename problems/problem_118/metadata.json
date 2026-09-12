@@ -1,0 +1,53 @@
+{
+  "id": "problem_118",
+  "title": "Transfer Function and Stability of an RLC Circuit",
+  "difficulty": "medium",
+  "difficulty_score": 0.58,
+  "expert_rating": 4.4,
+  "expert_review": "A fundamental problem linking second-order circuit models with standard control system representations.",
+  "keywords": [
+    "RLC-circuit",
+    "transfer-function",
+    "second-order-system",
+    "stability",
+    "damping-ratio"
+  ],
+  "subjects": [
+    "control-systems",
+    "circuits",
+    "signals-and-systems"
+  ],
+  "prerequisites": [
+    "laplace-transform",
+    "second-order-systems",
+    "basic-circuit-theory"
+  ],
+  "tags": [
+    "undergraduate",
+    "modeling",
+    "frequency-domain",
+    "dynamic-systems"
+  ],
+  "created_date": "2026-01-18",
+  "last_modified": "2026-01-18",
+  "estimated_time": 12,
+  "source": "Control Systems Textbook - Chapter 2",
+  "problem_type": "transfer_function_derivation",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 3,
+    "problem_solving": 3
+  },
+  "bloom_taxonomy": [
+    "understand",
+    "apply",
+    "analyze"
+  ],
+  "learning_objectives": [
+    "Derive transfer functions for RLC circuits",
+    "Express second-order systems in standard form",
+    "Identify natural frequency and damping ratio",
+    "Assess asymptotic stability using pole locations",
+    "Relate electrical circuit parameters to system dynamics"
+  ]
+}

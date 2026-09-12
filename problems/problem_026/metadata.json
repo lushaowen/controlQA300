@@ -1,0 +1,53 @@
+{
+  "id": "problem_026",
+  "title": "High-Gain Proportional Control and Practical Limitations",
+  "difficulty": "hard",
+  "difficulty_score": 0.88,
+  "expert_rating": 5.0,
+  "expert_review": "An excellent illustration of the tradeoffs between response speed, steady-state error, and actuator limitations.",
+  "keywords": [
+    "high-gain-control",
+    "proportional-feedback",
+    "time-constant",
+    "actuator-saturation",
+    "engineering-tradeoffs"
+  ],
+  "subjects": [
+    "control-systems",
+    "feedback-design",
+    "mechatronics"
+  ],
+  "prerequisites": [
+    "closed-loop-systems",
+    "proportional-control",
+    "time-domain-analysis"
+  ],
+  "tags": [
+    "graduate",
+    "control-design",
+    "robustness",
+    "practical-constraints"
+  ],
+  "created_date": "2026-01-10",
+  "last_modified": "2026-01-10",
+  "estimated_time": 30,
+  "source": "Control Systems Textbook - Chapter 2",
+  "problem_type": "high_gain_feedback_analysis",
+  "skill_levels": {
+    "conceptual": 5,
+    "procedural": 5,
+    "problem_solving": 5
+  },
+  "bloom_taxonomy": [
+    "analyze",
+    "evaluate",
+    "design"
+  ],
+  "learning_objectives": [
+    "Understand the effects of high feedback gain",
+    "Analyze time constant reduction",
+    "Evaluate steady-state error tradeoffs",
+    "Recognize actuator and physical limitations",
+    "Compare theoretical and practical control performance"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "problem_058",
+  "title": "Integration Property of the Laplace Transform",
+  "difficulty": "medium",
+  "difficulty_score": 0.55,
+  "expert_rating": 4.7,
+  "expert_review": "A rigorous and important proof that connects growth conditions with Laplace-domain properties.",
+  "keywords": [
+    "laplace-transform",
+    "integration-property",
+    "integration-by-parts",
+    "exponential-order",
+    "boundary-terms"
+  ],
+  "subjects": [
+    "control-systems",
+    "signals-and-systems",
+    "applied-mathematics"
+  ],
+  "prerequisites": [
+    "definite-integrals",
+    "integration-by-parts",
+    "complex-variables",
+    "laplace-transform-basics"
+  ],
+  "tags": [
+    "undergraduate",
+    "core-theory",
+    "proof-based"
+  ],
+  "created_date": "2026-01-11",
+  "last_modified": "2026-01-11",
+  "estimated_time": 15,
+  "source": "Control Systems Textbook - Chapter 3",
+  "problem_type": "analytical_proof",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 3,
+    "problem_solving": 3
+  },
+  "bloom_taxonomy": [
+    "understand",
+    "apply",
+    "analyze"
+  ],
+  "learning_objectives": [
+    "Prove the integration property of the Laplace transform",
+    "Apply integration by parts in transform analysis",
+    "Understand the role of exponential order conditions",
+    "Relate time-domain integration to Laplace-domain division"
+  ]
+}

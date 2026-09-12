@@ -1,0 +1,52 @@
+{
+  "id": "problem_170",
+  "title": "State-Space Modeling of a Two-Mass Spring-Damper System",
+  "difficulty": "medium",
+  "difficulty_score": 0.68,
+  "expert_rating": 4.5,
+  "expert_review": "Well-structured problem that reinforces state-space modeling and block-diagram realization of mechanical systems.",
+  "keywords": [
+    "mass-spring-damper",
+    "state-space",
+    "block-diagram",
+    "integrator",
+    "mechanical-system"
+  ],
+  "subjects": [
+    "control-systems",
+    "system-dynamics",
+    "mechanical-modeling"
+  ],
+  "prerequisites": [
+    "ordinary-differential-equations",
+    "linear-systems",
+    "basic-mechanics"
+  ],
+  "tags": [
+    "undergraduate",
+    "graduate",
+    "modeling",
+    "state-space"
+  ],
+  "created_date": "2026-01-19",
+  "last_modified": "2026-01-19",
+  "estimated_time": 25,
+  "source": "Control Systems Textbook - Chapter 2",
+  "problem_type": "modeling_and_representation",
+  "skill_levels": {
+    "conceptual": 3,
+    "procedural": 4,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": [
+    "apply",
+    "analyze",
+    "synthesize"
+  ],
+  "learning_objectives": [
+    "Formulate state-space models from mechanical differential equations",
+    "Identify appropriate state variables for multi-degree-of-freedom systems",
+    "Construct integrator-based block diagrams",
+    "Relate physical system parameters to dynamic behavior"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "problem_031",
+  "title": "Coupled Equations of Motion in a Two-Mass Spring-Damper System",
+  "difficulty": "advanced",
+  "difficulty_score": 0.75,
+  "expert_rating": 4.8,
+  "expert_review": "Excellent problem illustrating coupled dynamics and interaction forces in multi-mass mechanical systems",
+  "keywords": [
+    "two-mass-system",
+    "coupled-dynamics",
+    "mass-spring-damper",
+    "newton-second-law",
+    "relative-displacement",
+    "interaction-forces"
+  ],
+  "subjects": [
+    "control-systems",
+    "mechanical-systems",
+    "system-dynamics"
+  ],
+  "prerequisites": [
+    "ordinary-differential-equations",
+    "linear-systems",
+    "mechanical-modeling",
+    "state-space-modeling"
+  ],
+  "tags": [
+    "undergraduate",
+    "advanced-modeling",
+    "multi-degree-of-freedom"
+  ],
+  "created_date": "2026-01-10",
+  "last_modified": "2026-01-10",
+  "estimated_time": 25,
+  "source": "Control Systems Textbook - Mechanical Modeling Chapter",
+  "problem_type": "multi_mass_coupled_system",
+  "skill_levels": {
+    "conceptual": 5,
+    "procedural": 4,
+    "problem_solving": 5
+  },
+  "bloom_taxonomy": [
+    "understand",
+    "apply",
+    "analyze",
+    "evaluate"
+  ],
+  "learning_objectives": [
+    "Derive equations of motion for coupled mechanical systems",
+    "Understand interaction forces via relative motion",
+    "Model multi-degree-of-freedom systems",
+    "Analyze how external forces propagate through coupled dynamics"
+  ]
+}

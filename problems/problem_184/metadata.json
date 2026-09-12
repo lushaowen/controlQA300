@@ -1,0 +1,53 @@
+{
+  "id": "problem_184",
+  "title": "Controllability of a Linearized Satellite Model with Tangential Thrust",
+  "difficulty": "medium",
+  "difficulty_score": 0.72,
+  "expert_rating": 4.6,
+  "expert_review": "An insightful problem demonstrating how actuator direction affects controllability in orbital dynamics.",
+  "keywords": [
+    "satellite-dynamics",
+    "tangential-thrust",
+    "controllability",
+    "state-space",
+    "eigenvalue-analysis",
+    "orbital-mechanics"
+  ],
+  "subjects": [
+    "control-systems",
+    "aerospace-control",
+    "linear-systems"
+  ],
+  "prerequisites": [
+    "state-space-modeling",
+    "linear-algebra",
+    "controllability",
+    "orbital-mechanics-basics"
+  ],
+  "tags": [
+    "undergraduate",
+    "upper-level",
+    "analytical",
+    "theoretical"
+  ],
+  "created_date": "2026-01-19",
+  "last_modified": "2026-01-19",
+  "estimated_time": 20,
+  "source": "Control Systems Textbook - Chapter 5",
+  "problem_type": "theoretical_verification",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 3,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": [
+    "analyze",
+    "evaluate"
+  ],
+  "learning_objectives": [
+    "Verify controllability using eigenvalue and eigenvector analysis",
+    "Understand the effect of tangential thrust on orbital control",
+    "Compare controllability properties of different actuation strategies",
+    "Relate physical intuition to linear system theory"
+  ]
+}

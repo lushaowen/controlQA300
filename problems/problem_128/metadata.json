@@ -1,0 +1,39 @@
+{
+  "id": "problem_128",
+  "title": "Internal Stability and Constant Reference Tracking in Unity Feedback Systems",
+  "difficulty": "medium",
+  "difficulty_score": 0.58,
+  "expert_rating": 4.4,
+  "expert_review": "A fundamental problem illustrating internal stability and steady-state tracking using sensitivity functions.",
+  "keywords": [
+    "internal-stability",
+    "sensitivity-function",
+    "unity-feedback",
+    "integrator",
+    "reference-tracking"
+  ],
+  "subjects": ["control-systems", "linear-systems"],
+  "prerequisites": [
+    "feedback-control",
+    "transfer-functions",
+    "laplace-transforms"
+  ],
+  "tags": ["undergraduate", "core-concepts", "analysis"],
+  "created_date": "2026-01-14",
+  "last_modified": "2026-01-14",
+  "estimated_time": 12,
+  "source": "Control Systems Textbook - Chapter 4",
+  "problem_type": "stability_and_tracking_analysis",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 3,
+    "problem_solving": 3
+  },
+  "bloom_taxonomy": ["understand", "analyze"],
+  "learning_objectives": [
+    "Assess internal stability of feedback systems",
+    "Use sensitivity functions in closed-loop analysis",
+    "Understand asymptotic tracking of constant references",
+    "Relate pole-zero structure to control performance"
+  ]
+}

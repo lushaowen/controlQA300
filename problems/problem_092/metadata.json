@@ -1,0 +1,40 @@
+{
+  "id": "problem_092",
+  "title": "Step Response of a First-Order Linear Time-Invariant System",
+  "difficulty": "easy_to_medium",
+  "difficulty_score": 0.6,
+  "expert_rating": 4.5,
+  "expert_review": "Classic problem illustrating impulse response, transfer function, and step response of a first-order system",
+  "keywords": [
+    "LTI-system",
+    "impulse-response",
+    "transfer-function",
+    "step-response",
+    "stability",
+    "first-order-system"
+  ],
+  "subjects": ["signals-and-systems", "control-systems"],
+  "prerequisites": [
+    "laplace-transform",
+    "linear-systems",
+    "basic-differential-equations"
+  ],
+  "tags": ["undergraduate", "foundational", "time-domain-analysis"],
+  "created_date": "2026-01-11",
+  "last_modified": "2026-01-11",
+  "estimated_time": 15,
+  "source": "Signals and Systems Textbook - Time-Domain Analysis",
+  "problem_type": "system_analysis",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 3,
+    "problem_solving": 3
+  },
+  "bloom_taxonomy": ["understand", "apply", "analyze"],
+  "learning_objectives": [
+    "Compute transfer functions from impulse responses",
+    "Determine system order and stability from pole locations",
+    "Analyze step responses of first-order systems",
+    "Separate transient and steady-state system behavior"
+  ]
+}

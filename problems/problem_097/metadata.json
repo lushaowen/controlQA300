@@ -1,0 +1,52 @@
+{
+  "id": "problem_097",
+  "title": "Linearity and Time-Variance Analysis of a Sample-and-Hold System",
+  "difficulty": "medium",
+  "difficulty_score": 0.58,
+  "expert_rating": 4.3,
+  "expert_review": "A critical problem for students to understand why sampling processes, though linear, break the time-invariance assumption of LTI theory.",
+  "keywords": [
+    "sample-and-hold",
+    "linearity",
+    "time-variance",
+    "sampling",
+    "ADC",
+    "zero-order-hold"
+  ],
+  "subjects": [
+    "signals-and-systems",
+    "digital-control",
+    "electronics"
+  ],
+  "prerequisites": [
+    "linearity-definition",
+    "time-invariance-definition",
+    "step-functions"
+  ],
+  "tags": [
+    "undergraduate",
+    "conceptual-proof",
+    "engineering-applications"
+  ],
+  "created_date": "2026-01-12",
+  "last_modified": "2026-01-12",
+  "estimated_time": 20,
+  "source": "Introduction to Signals and Systems",
+  "problem_type": "theoretical_analysis",
+  "skill_levels": {
+    "conceptual": 5,
+    "procedural": 3,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": [
+    "understand",
+    "analyze",
+    "evaluate"
+  ],
+  "learning_objectives": [
+    "Verify the linearity of a piecewise constant system",
+    "Explain why fixed-interval sampling leads to time-variance",
+    "Define the operational stages of a sample-and-hold circuit",
+    "Relate theoretical sampling to real-world ADC hardware"
+  ]
+}

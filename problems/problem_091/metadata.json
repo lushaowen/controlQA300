@@ -1,0 +1,40 @@
+{
+  "id": "problem_091",
+  "title": "Contour Integrals Using Cauchy’s Residue Theorem",
+  "difficulty": "medium",
+  "difficulty_score": 0.68,
+  "expert_rating": 4.6,
+  "expert_review": "Comprehensive exercise for mastering residue calculations and pole classification in complex analysis",
+  "keywords": [
+    "residue-theorem",
+    "complex-integration",
+    "contour-integral",
+    "poles",
+    "residues",
+    "unit-circle"
+  ],
+  "subjects": ["complex-analysis"],
+  "prerequisites": [
+    "complex-functions",
+    "analytic-functions",
+    "cauchy-integral-theorem"
+  ],
+  "tags": ["undergraduate", "engineering-math", "theoretical"],
+  "created_date": "2026-01-11",
+  "last_modified": "2026-01-11",
+  "estimated_time": 25,
+  "source": "Complex Analysis Textbook - Residue Theorem Section",
+  "problem_type": "analytical_computation",
+  "skill_levels": {
+    "conceptual": 3,
+    "procedural": 4,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": ["apply", "analyze"],
+  "learning_objectives": [
+    "Identify poles and classify their order",
+    "Compute residues of rational and transcendental functions",
+    "Apply Cauchy’s Residue Theorem to contour integrals",
+    "Determine which singularities contribute to a closed contour integral"
+  ]
+}

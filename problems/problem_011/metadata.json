@@ -1,0 +1,44 @@
+{
+  "id": "problem_011",
+  "title": "Dynamic Response of a First-Order Velocity Model",
+  "difficulty": "easy",
+  "difficulty_score": 0.35,
+  "expert_rating": 4.6,
+  "expert_review": "Classic example illustrating transient and steady-state behavior of first-order systems",
+  "keywords": [
+    "first-order-system",
+    "velocity-response",
+    "linear-dynamics",
+    "steady-state",
+    "time-constant"
+  ],
+  "subjects": ["control-systems", "dynamical-systems", "classical-mechanics"],
+  "prerequisites": [
+    "first-order-ode",
+    "newtons-second-law",
+    "linear-systems"
+  ],
+  "tags": ["transient-response", "steady-state", "model-analysis"],
+  "created_date": "2026-01-05",
+  "last_modified": "2026-01-05",
+  "estimated_time": 10,
+  "source": "Control Systems Textbook - Chapter 2",
+  "problem_type": "dynamic_response_analysis",
+  "skill_levels": {
+    "conceptual": 2,
+    "procedural": 3,
+    "problem_solving": 2
+  },
+  "bloom_taxonomy": ["apply", "analyze"],
+  "common_misconceptions": [
+    "initial condition affects steady-state",
+    "incorrect exponential sign",
+    "confusing velocity with position"
+  ],
+  "learning_objectives": [
+    "Solve first-order dynamic systems",
+    "Interpret steady-state velocity",
+    "Understand transient decay",
+    "Relate physical parameters to system response"
+  ]
+}

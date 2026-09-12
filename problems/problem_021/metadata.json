@@ -1,0 +1,54 @@
+{
+  "id": "problem_021",
+  "title": "First-Order Velocity Response of a Balanced Elevator System",
+  "difficulty": "medium",
+  "difficulty_score": 0.68,
+  "expert_rating": 4.7,
+  "expert_review": "An excellent example of reducing a physical system to a first-order model and interpreting exponential decay behavior.",
+  "keywords": [
+    "first-order-system",
+    "elevator-dynamics",
+    "velocity-response",
+    "free-response",
+    "mechanical-systems",
+    "viscous-damping"
+  ],
+  "subjects": [
+    "control-systems",
+    "dynamic-systems",
+    "mechanical-modeling"
+  ],
+  "prerequisites": [
+    "ordinary-differential-equations",
+    "system-dynamics",
+    "mechanical-systems"
+  ],
+  "tags": [
+    "undergraduate",
+    "graduate",
+    "analytical-solution",
+    "time-domain"
+  ],
+  "created_date": "2026-01-10",
+  "last_modified": "2026-01-10",
+  "estimated_time": 20,
+  "source": "Control Systems Textbook - Chapter 2",
+  "problem_type": "time_response_analysis",
+  "skill_levels": {
+    "conceptual": 3,
+    "procedural": 4,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": [
+    "apply",
+    "analyze",
+    "understand"
+  ],
+  "learning_objectives": [
+    "Formulate first-order dynamic system equations",
+    "Solve linear ordinary differential equations",
+    "Relate angular and linear motion in mechanical systems",
+    "Interpret exponential decay and time constants",
+    "Analyze the effect of initial conditions on system response"
+  ]
+}

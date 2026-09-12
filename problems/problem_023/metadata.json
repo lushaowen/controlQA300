@@ -1,0 +1,54 @@
+{
+  "id": "problem_023",
+  "title": "Open-Loop Torque Design for Desired Elevator Velocity",
+  "difficulty": "medium",
+  "difficulty_score": 0.7,
+  "expert_rating": 4.8,
+  "expert_review": "A clear illustration of steady-state analysis and open-loop actuation in mechanical systems.",
+  "keywords": [
+    "open-loop-control",
+    "steady-state-velocity",
+    "motor-torque",
+    "balanced-elevator",
+    "first-order-system",
+    "mechanical-dynamics"
+  ],
+  "subjects": [
+    "control-systems",
+    "dynamic-systems",
+    "mechanical-modeling"
+  ],
+  "prerequisites": [
+    "first-order-systems",
+    "steady-state-analysis",
+    "mechanical-dynamics"
+  ],
+  "tags": [
+    "undergraduate",
+    "graduate",
+    "open-loop",
+    "time-domain"
+  ],
+  "created_date": "2026-01-10",
+  "last_modified": "2026-01-10",
+  "estimated_time": 20,
+  "source": "Control Systems Textbook - Chapter 2",
+  "problem_type": "open_loop_steady_state_design",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 4,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": [
+    "apply",
+    "analyze",
+    "understand"
+  ],
+  "learning_objectives": [
+    "Compute steady-state motor torque requirements",
+    "Relate friction to steady velocity in open-loop systems",
+    "Analyze time responses under constant actuation",
+    "Understand the benefits of mechanical balancing",
+    "Interpret physical meaning of steady-state solutions"
+  ]
+}

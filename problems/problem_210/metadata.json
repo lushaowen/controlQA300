@@ -1,0 +1,39 @@
+{
+  "id": "problem_210",
+  "title": "One-Eighth-Car Suspension Model: Transfer Function and Modal Analysis",
+  "difficulty": "medium",
+  "difficulty_score": 0.62,
+  "expert_rating": 4.3,
+  "expert_review": "A clear application of second-order system theory to vehicle suspension modeling and ride dynamics.",
+  "keywords": [
+    "vehicle-suspension",
+    "one-eighth-car-model",
+    "transfer-function",
+    "natural-frequency",
+    "damping-ratio"
+  ],
+  "subjects": ["control-systems", "vehicle-dynamics"],
+  "prerequisites": [
+    "second-order-systems",
+    "laplace-transform",
+    "mechanical-vibrations"
+  ],
+  "tags": ["undergraduate", "vibration-analysis", "physical-modeling"],
+  "created_date": "2026-01-19",
+  "last_modified": "2026-01-19",
+  "estimated_time": 20,
+  "source": "Control Systems Textbook - Chapter 6",
+  "problem_type": "modeling_and_analysis",
+  "skill_levels": {
+    "conceptual": 3,
+    "procedural": 3,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": ["apply", "analyze"],
+  "learning_objectives": [
+    "Derive transfer functions for base-excited systems",
+    "Relate suspension parameters to dynamic performance",
+    "Compute natural frequency and damping ratio from specifications",
+    "Interpret pole locations for ride comfort and stability"
+  ]
+}

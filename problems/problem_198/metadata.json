@@ -1,0 +1,39 @@
+{
+  "id": "problem_198",
+  "title": "Graphical Verification of Approximation Error for Second-Order System Time Specifications",
+  "difficulty": "medium",
+  "difficulty_score": 0.6,
+  "expert_rating": 4.0,
+  "expert_review": "This problem effectively connects theoretical approximations with practical validation methods. It reinforces the importance of understanding error bounds in engineering approximations and provides a clear example of graphical analysis.",
+  "keywords": [
+    "second-order-system",
+    "time-domain-specifications",
+    "rise-time",
+    "settling-time",
+    "approximation-error",
+    "relative-error",
+    "graphical-verification",
+    "damping-ratio"
+  ],
+  "subjects": ["control-systems", "numerical-methods", "engineering-approximation"],
+  "prerequisites": ["second-order-system-response", "rise-time-definition", "settling-time-definition", "basic-plot-reading"],
+  "tags": ["undergraduate", "verification", "graphical-analysis"],
+  "created_date": "2026-01-19",
+  "last_modified": "2026-01-19",
+  "estimated_time": 10,
+  "source": "Adapted from control systems textbook (e.g., Equation 6.11)",
+  "problem_type": "verification_analysis",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 3,
+    "problem_solving": 3
+  },
+  "bloom_taxonomy": ["understand", "analyze", "evaluate"],
+  "learning_objectives": [
+    "Interpret standard approximate formulas for rise time and settling time.",
+    "Define and calculate relative error for an engineering approximation.",
+    "Describe the process for graphically verifying an error bound over a parameter range.",
+    "Extract quantitative conclusions (max error < 1%) from provided graphical data.",
+    "Appreciate the practical utility and limitations of common control system design approximations."
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "problem_104",
+  "title": "Steady-State Response via Frequency-Response Method",
+  "difficulty": "medium",
+  "difficulty_score": 0.7,
+  "expert_rating": 4.3,
+  "expert_review": "Conceptually important comparison problem linking frequency-response analysis with time-domain solutions.",
+  "keywords": [
+    "frequency-response",
+    "steady-state",
+    "rotating-machine",
+    "asymptotic-stability",
+    "sinusoidal-response"
+  ],
+  "subjects": ["control-systems", "systems-theory"],
+  "prerequisites": [
+    "laplace-transforms",
+    "frequency-response",
+    "linear-time-invariant-systems"
+  ],
+  "tags": ["undergraduate", "comparative-analysis", "steady-state"],
+  "created_date": "2026-01-17",
+  "last_modified": "2026-01-17",
+  "estimated_time": 10,
+  "source": "Control Systems Textbook - Chapter 3, Problems P3.55–P3.56",
+  "problem_type": "conceptual_comparison",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 3,
+    "problem_solving": 3
+  },
+  "bloom_taxonomy": ["understand", "analyze"],
+  "learning_objectives": [
+    "Apply frequency-response methods to steady-state analysis",
+    "Recognize when frequency-response techniques are valid",
+    "Compare time-domain and frequency-domain solution approaches",
+    "Interpret steady-state system behavior"
+  ]
+}

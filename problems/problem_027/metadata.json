@@ -1,0 +1,52 @@
+{
+  "id": "problem_027",
+  "title": "Choice of Reference Position in a Mass-Spring-Damper System",
+  "difficulty": "medium",
+  "difficulty_score": 0.6,
+  "expert_rating": 4.4,
+  "expert_review": "Solid problem for understanding coordinate choices and physical modeling in mechanical systems",
+  "keywords": [
+    "mass-spring-damper",
+    "newton-second-law",
+    "reference-position",
+    "mechanical-system",
+    "differential-equation",
+    "modeling"
+  ],
+  "subjects": [
+    "control-systems",
+    "mechanical-systems",
+    "dynamics"
+  ],
+  "prerequisites": [
+    "classical-mechanics",
+    "ordinary-differential-equations",
+    "basic-control-theory"
+  ],
+  "tags": [
+    "undergraduate",
+    "modeling",
+    "physical-interpretation"
+  ],
+  "created_date": "2026-01-10",
+  "last_modified": "2026-01-10",
+  "estimated_time": 15,
+  "source": "Control Systems Textbook - Mechanical Modeling Chapter",
+  "problem_type": "derivation_and_conceptual",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 3,
+    "problem_solving": 3
+  },
+  "bloom_taxonomy": [
+    "understand",
+    "apply",
+    "analyze"
+  ],
+  "learning_objectives": [
+    "Apply Newton’s second law to mechanical systems",
+    "Understand the role of reference positions in system modeling",
+    "Derive equations of motion for mass-spring-damper systems",
+    "Explain why equilibrium parameters may not appear in dynamic equations"
+  ]
+}

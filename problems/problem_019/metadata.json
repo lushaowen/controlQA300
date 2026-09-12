@@ -1,0 +1,55 @@
+{
+  "id": "problem_019",
+  "title": "Effect of Damping Coefficient Variation on Closed-Loop Mechanical Systems",
+  "difficulty": "medium",
+  "difficulty_score": 0.62,
+  "expert_rating": 4.5,
+  "expert_review": "A solid applied feedback-control problem highlighting robustness and parameter sensitivity in mechanical systems.",
+  "keywords": [
+    "closed-loop-control",
+    "damping",
+    "parameter-variation",
+    "robustness",
+    "mechanical-systems",
+    "time-constant",
+    "steady-state-error"
+  ],
+  "subjects": [
+    "control-systems",
+    "mechanical-dynamics",
+    "feedback-control"
+  ],
+  "prerequisites": [
+    "linear-systems",
+    "feedback-control",
+    "mechanical-system-modeling"
+  ],
+  "tags": [
+    "undergraduate",
+    "graduate",
+    "analytical",
+    "robustness"
+  ],
+  "created_date": "2026-01-10",
+  "last_modified": "2026-01-10",
+  "estimated_time": 18,
+  "source": "Control Systems Textbook - Chapter 2",
+  "problem_type": "parameter_sensitivity_analysis",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 3,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": [
+    "analyze",
+    "evaluate",
+    "understand"
+  ],
+  "learning_objectives": [
+    "Analyze the effect of parameter uncertainty in closed-loop systems",
+    "Compute steady-state error under modified system parameters",
+    "Evaluate transient response changes using time constants",
+    "Understand robustness advantages of feedback control",
+    "Interpret physical implications of damping variations"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "problem_206",
+  "title": "Dynamic Feedback Controller Design for Simultaneous Reference Tracking and Sinusoidal Disturbance Rejection",
+  "difficulty": "hard",
+  "difficulty_score": 0.81,
+  "expert_rating": 4.7,
+  "expert_review": "Excellent advanced problem integrating physical modeling, disturbance analysis, and modern control concepts through classical tools. Strongly illustrates the internal model principle and challenges students to stabilize non-minimum-phase-like structures.",
+  "keywords": [
+    "internal-model-principle",
+    "disturbance-rejection",
+    "sinusoidal-disturbance",
+    "dynamic-controller",
+    "root-locus",
+    "asymptotic-tracking",
+    "resonant-control",
+    "imaginary-axis-poles",
+    "zero-placement",
+    "belt-drive-system"
+  ],
+  "subjects": ["control-systems", "feedback-control", "mechatronics", "robust-control"],
+  "prerequisites": [
+    "laplace-transforms",
+    "transfer-function-derivation",
+    "root-locus-method",
+    "internal-model-principle",
+    "modeling-of-mechanical-systems"
+  ],
+  "tags": ["advanced", "undergraduate", "graduate-prep", "design-focused", "conceptual-depth"],
+  "created_date": "2026-01-05",
+  "last_modified": "2026-01-05",
+  "estimated_time": 40,
+  "source": "Control Systems Textbook - Chapter 6",
+  "problem_type": "controller_design_analysis",
+  "skill_levels": {
+    "conceptual": 5,
+    "procedural": 5,
+    "problem_solving": 5
+  },
+  "bloom_taxonomy": ["analyze", "evaluate", "create"],
+  "learning_objectives": [
+    "Derive dynamic equations for multi-inertia mechanical systems with external disturbances",
+    "Apply the internal model principle to design controllers for persistent disturbances",
+    "Construct a dynamic feedback controller with poles on the imaginary axis",
+    "Stabilize systems with imaginary-axis poles using finite zeros",
+    "Use root-locus to analyze stability in high-order feedback loops"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "problem_045",
+  "title": "Gravity-Induced Forcing in a Mass-Spring-Damper System",
+  "difficulty": "medium",
+  "difficulty_score": 0.62,
+  "expert_rating": 4.5,
+  "expert_review": "Good example illustrating how gravity enters mechanical system models as an external forcing term",
+  "keywords": [
+    "mass-spring-damper",
+    "gravity",
+    "inclined-plane",
+    "newton-second-law",
+    "reference-position",
+    "forced-system"
+  ],
+  "subjects": [
+    "control-systems",
+    "mechanical-systems",
+    "dynamics"
+  ],
+  "prerequisites": [
+    "classical-mechanics",
+    "ordinary-differential-equations",
+    "system-modeling"
+  ],
+  "tags": [
+    "undergraduate",
+    "physical-modeling",
+    "derivation"
+  ],
+  "created_date": "2026-01-10",
+  "last_modified": "2026-01-10",
+  "estimated_time": 15,
+  "source": "Control Systems Textbook - Mechanical Modeling Chapter",
+  "problem_type": "derivation_and_physical_interpretation",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 3,
+    "problem_solving": 3
+  },
+  "bloom_taxonomy": [
+    "understand",
+    "apply",
+    "analyze"
+  ],
+  "learning_objectives": [
+    "Model gravitational effects in mechanical systems",
+    "Apply Newton’s second law to inclined systems",
+    "Understand the role of reference position selection",
+    "Derive forced second-order differential equations"
+  ]
+}

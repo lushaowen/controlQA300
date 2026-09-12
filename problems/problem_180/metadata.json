@@ -1,0 +1,56 @@
+{
+  "id": "problem_180",
+  "title": "Stability of Rigid Body Rotation About a Principal Axis",
+  "difficulty": "medium",
+  "difficulty_score": 0.68,
+  "expert_rating": 4.5,
+  "expert_review": "Classic rigid body dynamics problem illustrating instability of rotation about the intermediate principal axis.",
+  "keywords": [
+    "rigid-body",
+    "Euler-equations",
+    "linearization",
+    "equilibrium",
+    "stability",
+    "moments-of-inertia",
+    "intermediate-axis-theorem"
+  ],
+  "subjects": [
+    "control-systems",
+    "classical-mechanics",
+    "dynamics"
+  ],
+  "prerequisites": [
+    "nonlinear-systems",
+    "linear-systems",
+    "eigenvalue-analysis",
+    "rigid-body-dynamics"
+  ],
+  "tags": [
+    "undergraduate",
+    "theoretical",
+    "conceptual",
+    "stability-analysis"
+  ],
+  "created_date": "2026-01-19",
+  "last_modified": "2026-01-19",
+  "estimated_time": 35,
+  "source": "Control Systems Textbook - Chapter 5",
+  "problem_type": "stability_and_linearization",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 3,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": [
+    "understand",
+    "analyze",
+    "evaluate"
+  ],
+  "learning_objectives": [
+    "Verify equilibrium solutions of rigid body dynamics",
+    "Linearize nonlinear rotational equations",
+    "Determine stability using eigenvalue analysis",
+    "Relate inertia ordering to physical stability properties",
+    "Interpret mathematical results in a physical context"
+  ]
+}

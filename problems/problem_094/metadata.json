@@ -1,0 +1,41 @@
+{
+  "id": "problem_094",
+  "title": "Periodic Signal Generation via Laplace-Domain Replication",
+  "difficulty": "medium",
+  "difficulty_score": 0.72,
+  "expert_rating": 4.8,
+  "expert_review": "Excellent problem for understanding periodicity, signal replication, and the connection between Laplace-domain structure and time-domain behavior",
+  "keywords": [
+    "periodic-signals",
+    "laplace-transform",
+    "time-shift",
+    "geometric-series",
+    "square-wave",
+    "signal-replication"
+  ],
+  "subjects": ["signals-and-systems"],
+  "prerequisites": [
+    "laplace-transform",
+    "step-functions",
+    "time-shifting",
+    "basic-signal-theory"
+  ],
+  "tags": ["undergraduate", "theoretical", "time-domain-analysis"],
+  "created_date": "2026-01-11",
+  "last_modified": "2026-01-11",
+  "estimated_time": 30,
+  "source": "Signals and Systems Textbook - Periodic Signal Representation",
+  "problem_type": "signal_construction_and_analysis",
+  "skill_levels": {
+    "conceptual": 5,
+    "procedural": 3,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": ["understand", "analyze", "evaluate"],
+  "learning_objectives": [
+    "Understand how Laplace-domain replication produces periodic signals",
+    "Apply geometric series expansions in transform analysis",
+    "Analyze conditions for strict periodicity",
+    "Explain overlap effects in time-domain signal construction"
+  ]
+}

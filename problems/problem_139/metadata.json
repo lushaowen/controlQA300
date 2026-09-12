@@ -1,0 +1,39 @@
+{
+  "id": "problem_139",
+  "title": "Feedback Control of a Belt-Driven Rotational System",
+  "difficulty": "medium",
+  "difficulty_score": 0.68,
+  "expert_rating": 4.5,
+  "expert_review": "Solid intermediate-level problem integrating mechanical modeling and classical control analysis.",
+  "keywords": [
+    "rotational-system",
+    "belt-drive",
+    "feedback-control",
+    "stability",
+    "steady-state-error"
+  ],
+  "subjects": ["control-systems", "mechanical-systems"],
+  "prerequisites": [
+    "laplace-transform",
+    "transfer-functions",
+    "classical-control"
+  ],
+  "tags": ["undergraduate", "graduate", "modeling", "feedback"],
+  "created_date": "2026-01-18",
+  "last_modified": "2026-01-18",
+  "estimated_time": 20,
+  "source": "Control Systems Textbook - Chapter 2",
+  "problem_type": "feedback_design",
+  "skill_levels": {
+    "conceptual": 3,
+    "procedural": 4,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": ["apply", "analyze", "evaluate"],
+  "learning_objectives": [
+    "Derive transfer functions from mechanical models",
+    "Analyze stability of closed-loop systems",
+    "Understand limitations of proportional control",
+    "Relate system type to steady-state tracking performance"
+  ]
+}

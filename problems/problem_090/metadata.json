@@ -1,0 +1,52 @@
+{
+  "id": "problem_090",
+  "title": "Computing Time Derivatives Using the Laplace Transform",
+  "difficulty": "medium_to_hard",
+  "difficulty_score": 0.75,
+  "expert_rating": 4.6,
+  "expert_review": "An instructive problem emphasizing the formal derivative property of the Laplace transform and its use in detecting discontinuities.",
+  "keywords": [
+    "laplace-transform",
+    "formal-derivative",
+    "discontinuity",
+    "dirac-delta",
+    "time-shift",
+    "signal-analysis"
+  ],
+  "subjects": [
+    "signals-and-systems",
+    "control-systems",
+    "applied-mathematics"
+  ],
+  "prerequisites": [
+    "laplace-transform",
+    "generalized-functions",
+    "unit-step-functions"
+  ],
+  "tags": [
+    "undergraduate",
+    "graduate",
+    "analytical",
+    "distribution-theory"
+  ],
+  "created_date": "2026-01-11",
+  "last_modified": "2026-01-11",
+  "estimated_time": 35,
+  "source": "Signals and Systems Textbook - Chapter 3",
+  "problem_type": "transform_property_analysis",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 5,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": [
+    "apply",
+    "analyze"
+  ],
+  "learning_objectives": [
+    "Apply the Laplace derivative property",
+    "Compute time derivatives without explicit inversion",
+    "Detect discontinuities via impulse responses",
+    "Understand the relationship between jumps and delta functions"
+  ]
+}

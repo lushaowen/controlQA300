@@ -1,0 +1,35 @@
+{
+  "id": "problem_073",
+  "title": "Absolute Integral of the Unit Pulse Function",
+  "difficulty": "easy",
+  "difficulty_score": 0.25,
+  "expert_rating": 4.3,
+  "expert_review": "A simple but foundational check on the properties of pulse functions, ensuring students understand that the unit area property holds under absolute value.",
+  "keywords": [
+    "unit-pulse",
+    "absolute-value",
+    "integration",
+    "limit-analysis",
+    "area-property"
+  ],
+  "subjects": ["mathematics", "signals-and-systems", "calculus"],
+  "prerequisites": ["definite-integrals", "limit-concept", "function-properties"],
+  "tags": ["undergraduate", "introductory", "mathematical-analysis"],
+  "created_date": "2026-01-11",
+  "last_modified": "2026-01-11",
+  "estimated_time": 8,
+  "source": "Signal Processing Foundations - Chapter 3",
+  "problem_type": "conceptual_calculation",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 2,
+    "problem_solving": 2
+  },
+  "bloom_taxonomy": ["understand", "apply"],
+  "learning_objectives": [
+    "Identify the sign of a rectangular pulse function",
+    "Apply absolute value properties to simplify integrals",
+    "Verify the unit area property of pulses during a limiting process",
+    "Understand the relationship between pulse height and width in maintaining constant area"
+  ]
+}

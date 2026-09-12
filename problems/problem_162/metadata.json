@@ -1,0 +1,39 @@
+{
+  "id": "problem_162",
+  "title": "State-Space Model with Vertical Position as Output",
+  "difficulty": "easy_to_medium",
+  "difficulty_score": 0.45,
+  "expert_rating": 4.2,
+  "expert_review": "A natural extension of a velocity-based model illustrating output selection and state augmentation.",
+  "keywords": [
+    "state-space",
+    "output-selection",
+    "vertical-motion",
+    "integrator",
+    "block-diagram"
+  ],
+  "subjects": ["control-systems", "dynamics"],
+  "prerequisites": [
+    "state-space-models",
+    "basic-mechanics",
+    "system-modeling"
+  ],
+  "tags": ["undergraduate", "modeling", "state-augmentation"],
+  "created_date": "2026-01-18",
+  "last_modified": "2026-01-18",
+  "estimated_time": 12,
+  "source": "Control Systems Textbook - Chapter 5 (Problem P5.8 Extension)",
+  "problem_type": "state_space_modeling",
+  "skill_levels": {
+    "conceptual": 3,
+    "procedural": 3,
+    "problem_solving": 2
+  },
+  "bloom_taxonomy": ["understand", "apply"],
+  "learning_objectives": [
+    "Augment state-space models to include additional outputs",
+    "Relate kinematic equations to state dynamics",
+    "Construct block-diagram representations using integrators",
+    "Understand the effect of output choice on system representation"
+  ]
+}

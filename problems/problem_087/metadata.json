@@ -1,0 +1,40 @@
+{
+  "id": "problem_087",
+  "title": "Inverse Laplace Transform of Rational and Delayed Functions",
+  "difficulty": "medium",
+  "difficulty_score": 0.65,
+  "expert_rating": 4.6,
+  "expert_review": "Comprehensive problem set covering partial fractions, repeated poles, delays, and complex-valued inverse Laplace transforms.",
+  "keywords": [
+    "inverse-laplace-transform",
+    "partial-fraction",
+    "time-shift",
+    "dirac-delta",
+    "complex-poles",
+    "laplace-domain"
+  ],
+  "subjects": ["signals-and-systems", "control-systems", "applied-mathematics"],
+  "prerequisites": [
+    "laplace-transform",
+    "complex-variables",
+    "linear-systems"
+  ],
+  "tags": ["undergraduate", "graduate", "analytical", "transform-method"],
+  "created_date": "2026-01-11",
+  "last_modified": "2026-01-11",
+  "estimated_time": 30,
+  "source": "Signals and Systems Textbook - Chapter 3",
+  "problem_type": "analytical_computation",
+  "skill_levels": {
+    "conceptual": 3,
+    "procedural": 5,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": ["apply", "analyze"],
+  "learning_objectives": [
+    "Compute inverse Laplace transforms using partial fractions",
+    "Handle repeated poles and time delays in the Laplace domain",
+    "Interpret delta functions and step functions in time-domain signals",
+    "Recognize oscillatory responses from complex poles"
+  ]
+}

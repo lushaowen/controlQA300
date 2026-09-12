@@ -1,0 +1,42 @@
+{
+  "id": "problem_228",
+  "title": "Frequency-Response Interpretation of a One-Quarter-Car Suspension Design",
+  "difficulty": "medium_to_hard",
+  "difficulty_score": 0.71,
+  "expert_rating": 4.6,
+  "expert_review": "A comprehensive frequency-domain interpretation of a realistic quarter-car suspension model with clear links between pole locations and ride dynamics.",
+  "keywords": [
+    "one-quarter-car-model",
+    "vehicle-suspension",
+    "bode-plot",
+    "frequency-response",
+    "dominant-poles",
+    "ride-dynamics"
+  ],
+  "subjects": ["control-systems", "vehicle-dynamics"],
+  "prerequisites": [
+    "state-space-modeling",
+    "frequency-domain-analysis",
+    "mechanical-vibrations",
+    "multi-degree-of-freedom-systems"
+  ],
+  "tags": ["undergraduate", "vehicle-systems", "frequency-domain"],
+  "created_date": "2026-01-20",
+  "last_modified": "2026-01-20",
+  "estimated_time": 25,
+  "source": "Control Systems Textbook - Chapter 6",
+  "problem_type": "frequency_response_interpretation",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 4,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": ["analyze", "evaluate"],
+  "learning_objectives": [
+    "Interpret suspension design results using frequency-response methods",
+    "Relate dominant pole locations to Bode plot features",
+    "Analyze high-order mechanical systems in the frequency domain",
+    "Validate suspension performance objectives using resonance analysis",
+    "Understand the role of unsprung mass in vehicle dynamics"
+  ]
+}

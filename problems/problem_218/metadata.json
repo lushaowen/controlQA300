@@ -1,0 +1,55 @@
+{
+  "id": "problem_218",
+  "title": "Root-Locus Stabilization of Satellite Radial Dynamics Using Tangential Thrust",
+  "difficulty": "hard",
+  "difficulty_score": 0.81,
+  "expert_rating": 4.9,
+  "expert_review": "A classic and rigorous application of root-locus design to linearized orbital dynamics with marginally stable modes.",
+  "keywords": [
+    "satellite-control",
+    "orbital-dynamics",
+    "root-locus",
+    "dynamic-compensation",
+    "spacecraft-control"
+  ],
+  "subjects": [
+    "control-systems",
+    "aerospace-engineering",
+    "orbital-mechanics"
+  ],
+  "prerequisites": [
+    "state-space-linearization",
+    "transfer-functions",
+    "root-locus-method",
+    "orbital-dynamics"
+  ],
+  "tags": [
+    "graduate",
+    "classical-control",
+    "space-systems",
+    "dynamic-feedback"
+  ],
+  "created_date": "2026-01-19",
+  "last_modified": "2026-01-19",
+  "estimated_time": 45,
+  "source": "Control Systems Textbook - Chapter 5",
+  "problem_type": "orbital_control_design",
+  "skill_levels": {
+    "conceptual": 5,
+    "procedural": 4,
+    "problem_solving": 5
+  },
+  "bloom_taxonomy": [
+    "understand",
+    "apply",
+    "analyze",
+    "evaluate"
+  ],
+  "learning_objectives": [
+    "Derive orbital parameters from physical constants",
+    "Obtain transfer functions from linearized spacecraft models",
+    "Analyze marginal stability in oscillatory systems",
+    "Design dynamic compensators using root-locus techniques",
+    "Interpret control actions in orbital mechanics contexts"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "problem_181",
+  "title": "Linearization of Circular Orbital Motion Under Gravity",
+  "difficulty": "medium_to_hard",
+  "difficulty_score": 0.70,
+  "expert_rating": 4.6,
+  "expert_review": "Well-structured problem linking orbital mechanics with state-space linearization and control-oriented modeling.",
+  "keywords": [
+    "orbital-dynamics",
+    "circular-orbit",
+    "linearization",
+    "state-space",
+    "gravitational-model",
+    "coordinate-transformation"
+  ],
+  "subjects": [
+    "control-systems",
+    "orbital-mechanics",
+    "dynamical-systems"
+  ],
+  "prerequisites": [
+    "classical-mechanics",
+    "nonlinear-systems",
+    "linear-systems",
+    "state-space-modeling"
+  ],
+  "tags": [
+    "undergraduate",
+    "graduate",
+    "modeling",
+    "theoretical"
+  ],
+  "created_date": "2026-01-19",
+  "last_modified": "2026-01-19",
+  "estimated_time": 45,
+  "source": "Control Systems Textbook - Chapter 5",
+  "problem_type": "linearization_and_modeling",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 4,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": [
+    "understand",
+    "analyze",
+    "apply"
+  ],
+  "learning_objectives": [
+    "Verify equilibrium solutions of orbital dynamics",
+    "Linearize nonlinear gravitational systems",
+    "Perform coordinate transformations in state-space models",
+    "Interpret physical meaning of linearized orbital equations",
+    "Relate orbital mechanics to control-oriented representations"
+  ]
+}

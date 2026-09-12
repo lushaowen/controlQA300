@@ -1,0 +1,43 @@
+{
+  "id": "problem_009",
+  "title": "First-Order Model of Vertical Motion with Air Resistance",
+  "difficulty": "easy",
+  "difficulty_score": 0.3,
+  "expert_rating": 4.4,
+  "expert_review": "Clear introductory example connecting Newtonian mechanics to first-order differential equations",
+  "keywords": [
+    "newtons-law",
+    "linear-drag",
+    "first-order-ode",
+    "physical-modeling",
+    "vertical-motion"
+  ],
+  "subjects": ["dynamical-systems", "classical-mechanics", "control-systems"],
+  "prerequisites": [
+    "newtons-second-law",
+    "basic-differential-equations"
+  ],
+  "tags": ["introductory", "modeling", "physics-to-math"],
+  "created_date": "2026-01-05",
+  "last_modified": "2026-01-05",
+  "estimated_time": 5,
+  "source": "Control Systems Textbook - Chapter 2",
+  "problem_type": "physical_modeling",
+  "skill_levels": {
+    "conceptual": 2,
+    "procedural": 2,
+    "problem_solving": 1
+  },
+  "bloom_taxonomy": ["understand", "apply"],
+  "common_misconceptions": [
+    "misinterpreting force directions",
+    "assuming quadratic drag without justification",
+    "confusing velocity and acceleration"
+  ],
+  "learning_objectives": [
+    "Translate physical laws into differential equations",
+    "Identify forces in dynamic systems",
+    "Understand linear resistance modeling",
+    "Formulate first-order dynamic models"
+  ]
+}

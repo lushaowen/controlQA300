@@ -1,0 +1,52 @@
+{
+  "id": "problem_100",
+  "title": "Transfer Function and Stability of a Belt-Driven Rotating Machine",
+  "difficulty": "medium",
+  "difficulty_score": 0.62,
+  "expert_rating": 4.4,
+  "expert_review": "Effective application of Laplace transforms to a multi-component mechanical system involving kinematic constraints.",
+  "keywords": [
+    "rotational-dynamics",
+    "belt-drive",
+    "transfer-function",
+    "asymptotic-stability",
+    "Laplace-transform",
+    "mechanical-modeling"
+  ],
+  "subjects": [
+    "control-systems",
+    "mechanical-engineering",
+    "system-dynamics"
+  ],
+  "prerequisites": [
+    "first-order-differential-equations",
+    "Laplace-transform-properties",
+    "rotational-kinematics"
+  ],
+  "tags": [
+    "undergraduate",
+    "analytical-problem",
+    "stability"
+  ],
+  "created_date": "2026-01-12",
+  "last_modified": "2026-01-12",
+  "estimated_time": 25,
+  "source": "System Dynamics and Control Textbook",
+  "problem_type": "analytical_derivation",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 4,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": [
+    "apply",
+    "analyze",
+    "evaluate"
+  ],
+  "learning_objectives": [
+    "Derive the transfer function for a multi-inertia system with gear/pulley ratios",
+    "Apply the Laplace integration property to relate velocity and position in the s-domain",
+    "Simplify complex mechanical algebraic terms into standard first-order parameters",
+    "Analyze the impact of an integrator (pole at origin) on system stability"
+  ]
+}

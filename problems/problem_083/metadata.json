@@ -1,0 +1,55 @@
+{
+  "id": "problem_083",
+  "title": "Tightness of the L2–L∞ Inequality for Stable LTI Systems",
+  "difficulty": "medium_to_hard",
+  "difficulty_score": 0.78,
+  "expert_rating": 4.6,
+  "expert_review": "A rigorous functional-analysis-based problem illustrating tight norm bounds in LTI systems.",
+  "keywords": [
+    "LTI-systems",
+    "L2-norm",
+    "L-infinity-norm",
+    "impulse-response",
+    "convolution",
+    "norm-inequality",
+    "system-stability"
+  ],
+  "subjects": [
+    "control-systems",
+    "signals-and-systems",
+    "functional-analysis"
+  ],
+  "prerequisites": [
+    "linear-systems",
+    "convolution",
+    "signal-energy",
+    "system-norms"
+  ],
+  "tags": [
+    "graduate-level",
+    "theoretical",
+    "norm-analysis",
+    "worst-case-analysis"
+  ],
+  "created_date": "2026-01-11",
+  "last_modified": "2026-01-11",
+  "estimated_time": 25,
+  "source": "Control Systems Textbook - Norm Analysis Chapter",
+  "problem_type": "theoretical_derivation",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 4,
+    "problem_solving": 5
+  },
+  "bloom_taxonomy": [
+    "analyze",
+    "evaluate",
+    "prove"
+  ],
+  "learning_objectives": [
+    "Understand the relationship between input energy and output magnitude",
+    "Apply convolution properties to norm analysis",
+    "Demonstrate tightness of system norm inequalities",
+    "Analyze worst-case inputs for stable LTI systems"
+  ]
+}

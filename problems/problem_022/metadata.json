@@ -1,0 +1,54 @@
+{
+  "id": "problem_022",
+  "title": "Velocity Response of an Unbalanced Elevator with Gravitational Disturbance",
+  "difficulty": "medium_to_hard",
+  "difficulty_score": 0.72,
+  "expert_rating": 4.8,
+  "expert_review": "A strong follow-up problem highlighting the effect of constant disturbances and nonzero steady-state behavior.",
+  "keywords": [
+    "unbalanced-elevator",
+    "first-order-system",
+    "gravitational-disturbance",
+    "steady-state-velocity",
+    "mechanical-dynamics",
+    "viscous-damping"
+  ],
+  "subjects": [
+    "control-systems",
+    "dynamic-systems",
+    "mechanical-modeling"
+  ],
+  "prerequisites": [
+    "first-order-systems",
+    "ordinary-differential-equations",
+    "mechanical-dynamics"
+  ],
+  "tags": [
+    "undergraduate",
+    "graduate",
+    "disturbance-response",
+    "time-domain-analysis"
+  ],
+  "created_date": "2026-01-10",
+  "last_modified": "2026-01-10",
+  "estimated_time": 25,
+  "source": "Control Systems Textbook - Chapter 2",
+  "problem_type": "disturbance_response_analysis",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 4,
+    "problem_solving": 5
+  },
+  "bloom_taxonomy": [
+    "analyze",
+    "apply",
+    "evaluate"
+  ],
+  "learning_objectives": [
+    "Analyze first-order systems with constant disturbances",
+    "Compute nonzero steady-state responses",
+    "Understand the physical meaning of steady-state velocity",
+    "Compare balanced and unbalanced mechanical systems",
+    "Recognize the need for control or braking in practical systems"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "problem_179",
+  "title": "Feedback Control of a Water Heater with Flow Disturbances",
+  "difficulty": "medium_to_hard",
+  "difficulty_score": 0.72,
+  "expert_rating": 4.6,
+  "expert_review": "Comprehensive control design problem combining modeling, linearization, stability analysis, and nonlinear simulation.",
+  "keywords": [
+    "water-heater",
+    "feedback-control",
+    "thermal-system",
+    "linearization",
+    "stability",
+    "time-constant",
+    "MATLAB",
+    "Simulink"
+  ],
+  "subjects": [
+    "control-systems",
+    "thermal-systems",
+    "dynamic-systems"
+  ],
+  "prerequisites": [
+    "energy-balance-modeling",
+    "linear-systems",
+    "feedback-control",
+    "Laplace-transform"
+  ],
+  "tags": [
+    "undergraduate",
+    "graduate",
+    "design-oriented",
+    "simulation-based"
+  ],
+  "created_date": "2026-01-19",
+  "last_modified": "2026-01-19",
+  "estimated_time": 90,
+  "source": "Control Systems Textbook - Chapter 5",
+  "problem_type": "control_design_and_analysis",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 4,
+    "problem_solving": 5
+  },
+  "bloom_taxonomy": [
+    "analyze",
+    "apply",
+    "evaluate"
+  ],
+  "learning_objectives": [
+    "Design a proportional feedback controller for a thermal system",
+    "Analyze closed-loop stability using linearized models",
+    "Compare open-loop and closed-loop dynamic behavior",
+    "Assess steady-state tracking capabilities",
+    "Validate analytical results through nonlinear simulation"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "problem_068",
+  "title": "Sifting Property of the Dirac Delta Function via Convolution",
+  "difficulty": "easy_to_medium",
+  "difficulty_score": 0.48,
+  "expert_rating": 4.4,
+  "expert_review": "Clear application of convolution and Laplace transform properties to a fundamental impulse identity",
+  "keywords": [
+    "dirac-delta",
+    "sifting-property",
+    "convolution",
+    "laplace-transform",
+    "impulse-response"
+  ],
+  "subjects": [
+    "signals-and-systems",
+    "control-systems",
+    "applied-mathematics"
+  ],
+  "prerequisites": [
+    "laplace-transform",
+    "convolution-integral",
+    "linear-systems"
+  ],
+  "tags": [
+    "undergraduate",
+    "core-concept",
+    "theoretical",
+    "signals"
+  ],
+  "created_date": "2026-01-11",
+  "last_modified": "2026-01-11",
+  "estimated_time": 10,
+  "source": "Signals and Systems Textbook - Chapter 3",
+  "problem_type": "analytical_proof",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 3,
+    "problem_solving": 3
+  },
+  "bloom_taxonomy": [
+    "understand",
+    "apply",
+    "analyze"
+  ],
+  "learning_objectives": [
+    "Understand the sifting property of the Dirac delta function",
+    "Apply convolution definitions in continuous-time systems",
+    "Use Laplace transform properties to prove time-domain identities",
+    "Interpret impulse behavior in linear time-invariant systems"
+  ]
+}

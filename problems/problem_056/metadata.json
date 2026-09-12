@@ -1,0 +1,52 @@
+{
+  "id": "problem_056",
+  "title": "Effect of On/Off Temperature Band on Water Heater Performance",
+  "difficulty": "medium",
+  "difficulty_score": 0.68,
+  "expert_rating": 4.7,
+  "expert_review": "A clear sensitivity analysis showing how hysteresis width affects hybrid system performance.",
+  "keywords": [
+    "on-off-control",
+    "hysteresis",
+    "thermal-systems",
+    "energy-consumption",
+    "hybrid-dynamics"
+  ],
+  "subjects": [
+    "control-systems",
+    "thermal-modeling",
+    "energy-systems"
+  ],
+  "prerequisites": [
+    "first-order-ode",
+    "thermal-resistance",
+    "hybrid-systems",
+    "energy-balance"
+  ],
+  "tags": [
+    "control",
+    "hybrid-system",
+    "temperature-regulation",
+    "energy-efficiency"
+  ],
+  "created_date": "2026-01-11",
+  "last_modified": "2026-01-11",
+  "estimated_time": 25,
+  "source": "Control Systems Textbook - Water Heater Example",
+  "problem_type": "parameter_sensitivity_analysis",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 4,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": [
+    "analyze",
+    "compare",
+    "evaluate"
+  ],
+  "learning_objectives": [
+    "Understand the role of hysteresis in on/off control",
+    "Analyze switching behavior in hybrid systems",
+    "Evaluate trade-offs between regulation quality and actuator usage"
+  ]
+}

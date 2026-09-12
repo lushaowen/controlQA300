@@ -1,0 +1,46 @@
+{
+  "id": "problem_207",
+  "title": "Proportional Controller Design for Elevator Position Control Using Root-Locus",
+  "difficulty": "medium",
+  "difficulty_score": 0.6,
+  "expert_rating": 4.3,
+  "expert_review": "Well-structured problem illustrating how physical system properties reduce control complexity. Effectively combines modeling, root-locus analysis, and insight into natural disturbance rejection.",
+  "keywords": [
+    "elevator-control",
+    "position-tracking",
+    "root-locus",
+    "proportional-control",
+    "type-system",
+    "asymptotic-tracking",
+    "natural-integrator",
+    "mechanical-systems",
+    "disturbance-cancellation",
+    "closed-loop-stability"
+  ],
+  "subjects": ["control-systems", "mechatronics", "dynamic-modeling"],
+  "prerequisites": [
+    "laplace-transforms",
+    "transfer-function-derivation",
+    "root-locus-method",
+    "modeling-of-mechanical-systems"
+  ],
+  "tags": ["undergraduate", "applied-control", "conceptual", "engineering-physics"],
+  "created_date": "2026-01-05",
+  "last_modified": "2026-01-05",
+  "estimated_time": 20,
+  "source": "Control Systems Textbook - Chapter 2",
+  "problem_type": "controller_design_analysis",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 4,
+    "problem_solving": 3
+  },
+  "bloom_taxonomy": ["understand", "analyze"],
+  "learning_objectives": [
+    "Derive transfer function from mechanical equations of motion",
+    "Identify natural integrators in physical systems",
+    "Apply root-locus method to assess stability of P-controlled systems",
+    "Explain asymptotic tracking without explicit integral control",
+    "Recognize passive disturbance rejection through symmetric design"
+  ]
+}

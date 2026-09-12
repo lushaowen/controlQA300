@@ -1,0 +1,39 @@
+{
+  "id": "problem_039",
+  "title": "Dynamic Model of a DC Motor with Electrical Damping",
+  "difficulty": "medium",
+  "difficulty_score": 0.65,
+  "expert_rating": 4.5,
+  "expert_review": "Classic derivation showing how electrical dynamics contribute to effective mechanical damping in DC motors.",
+  "keywords": [
+    "dc-motor",
+    "electromechanical-system",
+    "back-emf",
+    "dynamic-modeling",
+    "speed-control"
+  ],
+  "subjects": ["control-systems", "electromechanics"],
+  "prerequisites": [
+    "ordinary-differential-equations",
+    "basic-circuit-theory",
+    "mechanical-dynamics"
+  ],
+  "tags": ["undergraduate", "model-derivation", "continuous-time"],
+  "created_date": "2026-01-10",
+  "last_modified": "2026-01-10",
+  "estimated_time": 15,
+  "source": "Control and Dynamic Systems Textbook - Chapter 2",
+  "problem_type": "analytical_derivation",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 3,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": ["apply", "analyze"],
+  "learning_objectives": [
+    "Derive DC motor dynamic equations",
+    "Understand electromechanical coupling effects",
+    "Identify effective damping mechanisms",
+    "Relate circuit equations to mechanical motion"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "problem_076",
+  "title": "Sifting Property of the Pulse Function Derivative",
+  "difficulty": "hard",
+  "difficulty_score": 0.75,
+  "expert_rating": 4.8,
+  "expert_review": "Mathematically rigorous derivation showing how the derivative of a pulse interacts with a smooth function to produce its derivative.",
+  "keywords": [
+    "pulse-derivative",
+    "doublet",
+    "mean-value-theorem",
+    "convolution",
+    "sifting-property"
+  ],
+  "subjects": ["signals-and-systems", "calculus", "control-theory"],
+  "prerequisites": ["integration-by-parts", "mean-value-theorem", "delta-function-properties"],
+  "tags": ["undergraduate", "analytical-derivation", "theoretical"],
+  "created_date": "2026-01-11",
+  "last_modified": "2026-01-11",
+  "estimated_time": 20,
+  "source": "Advanced Signals and Systems Analysis",
+  "problem_type": "mathematical_proof",
+  "skill_levels": {
+    "conceptual": 5,
+    "procedural": 4,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": ["analyze", "evaluate", "create"],
+  "learning_objectives": [
+    "Describe the behavior of the derivative of a unit pulse function",
+    "Apply the Mean-Value Theorem to approximate convolution integrals",
+    "Prove the sifting property for the derivative of the Dirac Delta function",
+    "Evaluate limits of parameterized integrals with singular kernels"
+  ]
+}

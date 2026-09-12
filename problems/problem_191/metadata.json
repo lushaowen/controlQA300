@@ -1,0 +1,49 @@
+{
+  "id": "problem_191",
+  "title": "Exponential Population Growth Model and Its Behavioral Interpretation",
+  "difficulty": "easy",
+  "difficulty_score": 0.35,
+  "expert_rating": 4.0,
+  "expert_review": "A classic introductory problem illustrating exponential growth and decay in population dynamics.",
+  "keywords": [
+    "malthus-model",
+    "population-growth",
+    "exponential-model",
+    "linear-system",
+    "differential-equation"
+  ],
+  "subjects": [
+    "dynamical-systems",
+    "population-dynamics",
+    "mathematical-modeling"
+  ],
+  "prerequisites": [
+    "ordinary-differential-equations",
+    "basic-calculus"
+  ],
+  "tags": [
+    "undergraduate",
+    "introductory",
+    "conceptual"
+  ],
+  "created_date": "2026-01-15",
+  "last_modified": "2026-01-15",
+  "estimated_time": 6,
+  "source": "Mathematical Modeling Textbook - Population Dynamics",
+  "problem_type": "conceptual_analysis",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 1,
+    "problem_solving": 2
+  },
+  "bloom_taxonomy": [
+    "understand",
+    "analyze"
+  ],
+  "learning_objectives": [
+    "Solve simple exponential growth models",
+    "Interpret population behavior from model parameters",
+    "Understand equilibrium conditions in linear systems",
+    "Recognize limitations of basic population models"
+  ]
+}

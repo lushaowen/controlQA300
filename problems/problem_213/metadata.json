@@ -1,0 +1,56 @@
+{
+  "id": "problem_213",
+  "title": "PD Control Interpretation and Root-Locus Design for a Quarter-Car Model",
+  "difficulty": "medium_to_hard",
+  "difficulty_score": 0.72,
+  "expert_rating": 4.6,
+  "expert_review": "Strong example linking physical modeling, PD control interpretation, and classical root-locus design.",
+  "keywords": [
+    "quarter-car-model",
+    "PD-control",
+    "suspension-system",
+    "root-locus",
+    "state-space",
+    "vehicle-dynamics"
+  ],
+  "subjects": [
+    "control-systems",
+    "mechanical-systems",
+    "vehicle-dynamics"
+  ],
+  "prerequisites": [
+    "state-space-modeling",
+    "second-order-systems",
+    "classical-control",
+    "root-locus-method"
+  ],
+  "tags": [
+    "undergraduate",
+    "graduate",
+    "model-based-control",
+    "mechanical-control"
+  ],
+  "created_date": "2026-01-19",
+  "last_modified": "2026-01-19",
+  "estimated_time": 35,
+  "source": "Control Systems Textbook - Chapter 6",
+  "problem_type": "model_derivation_and_control_design",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 4,
+    "problem_solving": 5
+  },
+  "bloom_taxonomy": [
+    "understand",
+    "apply",
+    "analyze",
+    "evaluate"
+  ],
+  "learning_objectives": [
+    "Derive coupled mechanical system equations",
+    "Interpret mechanical feedback as PD control",
+    "Construct state-space realizations from differential equations",
+    "Apply root-locus techniques to controller design",
+    "Relate time-domain specifications to pole placement"
+  ]
+}

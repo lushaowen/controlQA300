@@ -1,0 +1,44 @@
+{
+  "id": "problem_008",
+  "title": "Dynamic Response of an Open-Loop Car Velocity Model",
+  "difficulty": "medium",
+  "difficulty_score": 0.6,
+  "expert_rating": 4.6,
+  "expert_review": "Strong example linking physical modeling, differential equations, and steady-state analysis",
+  "keywords": [
+    "dynamic-response",
+    "open-loop-system",
+    "first-order-system",
+    "car-velocity-model",
+    "disturbance-response"
+  ],
+  "subjects": ["control-systems", "dynamical-systems"],
+  "prerequisites": [
+    "newtons-law",
+    "first-order-differential-equations",
+    "linear-systems"
+  ],
+  "tags": ["undergraduate", "core-topic", "time-domain"],
+  "created_date": "2026-01-05",
+  "last_modified": "2026-01-05",
+  "estimated_time": 15,
+  "source": "Control Systems Textbook - Chapter 2",
+  "problem_type": "dynamic_analysis",
+  "skill_levels": {
+    "conceptual": 3,
+    "procedural": 4,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": ["apply", "analyze"],
+  "common_misconceptions": [
+    "confusing open-loop and closed-loop behavior",
+    "misinterpreting steady-state gain",
+    "ignoring disturbance effects"
+  ],
+  "learning_objectives": [
+    "Solve first-order dynamic system equations",
+    "Analyze transient and steady-state responses",
+    "Understand disturbance propagation in open-loop systems",
+    "Relate physical parameters to system dynamics"
+  ]
+}

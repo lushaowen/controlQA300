@@ -1,0 +1,40 @@
+{
+  "id": "problem_177",
+  "title": "Nonlinear Thermal System Modeling with Variable Flow Rate",
+  "difficulty": "medium",
+  "difficulty_score": 0.62,
+  "expert_rating": 4.4,
+  "expert_review": "A solid problem for introducing nonlinear state-space modeling and block-diagram representations in thermal systems.",
+  "keywords": [
+    "thermal-system",
+    "energy-balance",
+    "state-space",
+    "nonlinear-system",
+    "block-diagram",
+    "integrator-model"
+  ],
+  "subjects": ["control-systems", "thermal-systems"],
+  "prerequisites": [
+    "ordinary-differential-equations",
+    "state-space-modeling",
+    "basic-thermodynamics"
+  ],
+  "tags": ["undergraduate", "modeling", "nonlinear"],
+  "created_date": "2026-01-19",
+  "last_modified": "2026-01-19",
+  "estimated_time": 15,
+  "source": "Control Systems Textbook - Chapter 2",
+  "problem_type": "modeling_representation",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 3,
+    "problem_solving": 3
+  },
+  "bloom_taxonomy": ["understand", "apply", "analyze"],
+  "learning_objectives": [
+    "Model thermal systems using energy balance equations",
+    "Formulate nonlinear state-space representations",
+    "Identify system inputs, states, and outputs",
+    "Construct block-diagrams using integrators only"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "problem_005",
+  "title": "Sensitivity Function of a Closed-Loop Transfer Function",
+  "difficulty": "medium",
+  "difficulty_score": 0.65,
+  "expert_rating": 4.7,
+  "expert_review": "Fundamental problem illustrating the effect of feedback on system sensitivity",
+  "keywords": [
+    "sensitivity-function",
+    "closed-loop",
+    "feedback",
+    "robustness",
+    "control-systems"
+  ],
+  "subjects": ["control-systems"],
+  "prerequisites": [
+    "closed-loop-systems",
+    "calculus",
+    "transfer-functions"
+  ],
+  "tags": ["undergraduate", "core-theory", "proof"],
+  "created_date": "2026-01-05",
+  "last_modified": "2026-01-05",
+  "estimated_time": 12,
+  "source": "Control Systems Textbook - Chapter 1",
+  "problem_type": "theoretical_derivation",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 3,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": ["analyze", "evaluate"],
+  "learning_objectives": [
+    "Define and compute sensitivity functions",
+    "Analyze the effect of feedback on robustness",
+    "Differentiate closed-loop transfer functions",
+    "Interpret sensitivity in control system design"
+  ]
+}

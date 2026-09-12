@@ -1,0 +1,39 @@
+{
+  "id": "problem_212",
+  "title": "Parameter Selection for One-Quarter-Car Suspension Using Modal Specifications",
+  "difficulty": "medium_to_hard",
+  "difficulty_score": 0.74,
+  "expert_rating": 4.6,
+  "expert_review": "An applied suspension design problem combining state-space modeling, numerical analysis, and modal tuning.",
+  "keywords": [
+    "one-quarter-car-model",
+    "vehicle-suspension",
+    "state-space",
+    "modal-analysis",
+    "road-excitation"
+  ],
+  "subjects": ["control-systems", "vehicle-dynamics", "mechanical-systems"],
+  "prerequisites": [
+    "state-space-modeling",
+    "mechanical-vibrations",
+    "numerical-linear-algebra"
+  ],
+  "tags": ["undergraduate", "applied-modeling", "vehicle-control"],
+  "created_date": "2026-01-19",
+  "last_modified": "2026-01-19",
+  "estimated_time": 40,
+  "source": "Control Systems Textbook - Chapter 6",
+  "problem_type": "modeling_and_parameter_selection",
+  "skill_levels": {
+    "conceptual": 3,
+    "procedural": 4,
+    "problem_solving": 5
+  },
+  "bloom_taxonomy": ["apply", "analyze", "evaluate"],
+  "learning_objectives": [
+    "Formulate state-space models for vehicle suspension systems",
+    "Derive transfer functions with derivative inputs",
+    "Select physical parameters to meet modal specifications",
+    "Interpret full pole distributions in complex plane"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "problem_153",
+  "title": "Closed-Loop Disturbance Rejection with Constant In/Out Flow",
+  "difficulty": "medium",
+  "difficulty_score": 0.65,
+  "expert_rating": 4.4,
+  "expert_review": "A solid control design problem illustrating integral action and disturbance rejection under physical constraints.",
+  "keywords": [
+    "disturbance-rejection",
+    "integral-control",
+    "thermal-system",
+    "closed-loop",
+    "pole-placement"
+  ],
+  "subjects": ["control-systems", "thermal-systems"],
+  "prerequisites": [
+    "laplace-transform",
+    "feedback-control",
+    "time-domain-analysis",
+    "PI-controller"
+  ],
+  "tags": ["undergraduate", "graduate", "applied-control"],
+  "created_date": "2026-01-18",
+  "last_modified": "2026-01-18",
+  "estimated_time": 20,
+  "source": "Control Systems Textbook - Chapter 4 (Problem P4.40 Extension)",
+  "problem_type": "controller_design_analysis",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 4,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": ["understand", "analyze", "evaluate"],
+  "learning_objectives": [
+    "Analyze the impact of constant disturbances on closed-loop systems",
+    "Design PI controllers for asymptotic disturbance rejection",
+    "Interpret time-domain responses under physical constraints",
+    "Understand the role of pole placement in control performance"
+  ]
+}

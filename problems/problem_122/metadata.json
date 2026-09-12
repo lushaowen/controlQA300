@@ -1,0 +1,51 @@
+{
+  "id": "problem_122",
+  "title": "Transfer Functions and Stability of a DC Motor Model",
+  "difficulty": "medium",
+  "difficulty_score": 0.64,
+  "expert_rating": 4.6,
+  "expert_review": "A classic DC motor modeling problem linking mechanical dynamics, Laplace transforms, and stability concepts.",
+  "keywords": [
+    "dc-motor",
+    "transfer-function",
+    "laplace-transform",
+    "angular-velocity",
+    "stability"
+  ],
+  "subjects": [
+    "control-systems",
+    "electromechanical-systems",
+    "linear-systems"
+  ],
+  "prerequisites": [
+    "differential-equations",
+    "laplace-transform",
+    "basic-electrical-machines"
+  ],
+  "tags": [
+    "undergraduate",
+    "modeling",
+    "dynamic-systems",
+    "control-oriented"
+  ],
+  "created_date": "2026-01-18",
+  "last_modified": "2026-01-18",
+  "estimated_time": 20,
+  "source": "Control Systems Textbook - Chapter 2",
+  "problem_type": "system_modeling",
+  "skill_levels": {
+    "conceptual": 3,
+    "procedural": 4,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": [
+    "apply",
+    "analyze"
+  ],
+  "learning_objectives": [
+    "Derive transfer-functions from electromechanical models",
+    "Analyze stability of first-order LTI systems",
+    "Understand DC motor velocity and position dynamics",
+    "Relate physical parameters to system poles"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "problem_188",
+  "title": "Combined Insulin Release and Glucose Dynamics: Transfer-Function and Pole Analysis",
+  "difficulty": "medium_to_hard",
+  "difficulty_score": 0.72,
+  "expert_rating": 4.6,
+  "expert_review": "A comprehensive problem integrating transport dynamics with a linearized physiological control model.",
+  "keywords": [
+    "insulin-dynamics",
+    "plasma-transport",
+    "transfer-function",
+    "pole-analysis",
+    "biomedical-control",
+    "cascade-systems"
+  ],
+  "subjects": [
+    "control-systems",
+    "biomedical-systems",
+    "linear-systems"
+  ],
+  "prerequisites": [
+    "state-space-modeling",
+    "transfer-functions",
+    "linearization",
+    "stability-analysis"
+  ],
+  "tags": [
+    "upper-undergraduate",
+    "graduate",
+    "biomedical",
+    "systems-modeling"
+  ],
+  "created_date": "2026-01-19",
+  "last_modified": "2026-01-19",
+  "estimated_time": 25,
+  "source": "Control Systems Textbook - Chapter 5 (Ste+03)",
+  "problem_type": "model_combination_and_pole_analysis",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 4,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": [
+    "apply",
+    "analyze",
+    "evaluate"
+  ],
+  "learning_objectives": [
+    "Combine subsystem dynamics into an overall transfer function",
+    "Model actuator and transport delays in control systems",
+    "Compute poles and zeros of higher-order systems",
+    "Interpret physiological meaning of system time constants"
+  ]
+}

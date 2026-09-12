@@ -1,0 +1,51 @@
+{
+  "id": "problem_123",
+  "title": "Step Response of DC Motor Angular Velocity",
+  "difficulty": "medium",
+  "difficulty_score": 0.65,
+  "expert_rating": 4.5,
+  "expert_review": "A clear illustration of DC motor step response and the separation of transient and steady-state components.",
+  "keywords": [
+    "dc-motor",
+    "step-response",
+    "angular-velocity",
+    "laplace-transform",
+    "transient-response"
+  ],
+  "subjects": [
+    "control-systems",
+    "electromechanical-systems",
+    "signals-and-systems"
+  ],
+  "prerequisites": [
+    "laplace-transform",
+    "linear-systems",
+    "dc-motor-modeling"
+  ],
+  "tags": [
+    "undergraduate",
+    "response-analysis",
+    "model-based",
+    "time-domain"
+  ],
+  "created_date": "2026-01-18",
+  "last_modified": "2026-01-18",
+  "estimated_time": 15,
+  "source": "Control Systems Textbook - Chapter 3",
+  "problem_type": "time_domain_response",
+  "skill_levels": {
+    "conceptual": 3,
+    "procedural": 4,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": [
+    "apply",
+    "analyze"
+  ],
+  "learning_objectives": [
+    "Analyze DC motor response to step voltage inputs",
+    "Separate transient and steady-state components",
+    "Apply partial fraction expansion in system analysis",
+    "Relate motor parameters to dynamic response behavior"
+  ]
+}

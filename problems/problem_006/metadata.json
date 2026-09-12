@@ -1,0 +1,39 @@
+{
+  "id": "problem_006",
+  "title": "Unit Consistency and Time Constant in a First-Order Car Velocity Model",
+  "difficulty": "easy_to_medium",
+  "difficulty_score": 0.45,
+  "expert_rating": 4.3,
+  "expert_review": "Clear introductory problem emphasizing dimensional analysis in dynamic system modeling.",
+  "keywords": [
+    "first-order-system",
+    "dimensional-analysis",
+    "time-constant",
+    "car-velocity-model",
+    "units"
+  ],
+  "subjects": ["control-systems", "dynamics", "system-modeling"],
+  "prerequisites": [
+    "basic-physics",
+    "ordinary-differential-equations",
+    "SI-units"
+  ],
+  "tags": ["undergraduate", "introductory", "conceptual"],
+  "created_date": "2026-01-14",
+  "last_modified": "2026-01-14",
+  "estimated_time": 8,
+  "source": "Control Systems Textbook - Chapter 2",
+  "problem_type": "dimensional_analysis",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 2,
+    "problem_solving": 2
+  },
+  "bloom_taxonomy": ["understand", "apply"],
+  "learning_objectives": [
+    "Assign correct physical units to system variables",
+    "Verify dimensional consistency of dynamic equations",
+    "Interpret time constants in first-order systems",
+    "Relate mathematical parameters to physical quantities"
+  ]
+}

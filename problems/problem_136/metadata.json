@@ -1,0 +1,42 @@
+{
+  "id": "problem_136",
+  "title": "Equivalent Feedback Structures and Sensitivity Functions",
+  "difficulty": "medium",
+  "difficulty_score": 0.65,
+  "expert_rating": 4.4,
+  "expert_review": "Demonstrates how different block-diagram realizations can yield identical sensitivity behavior.",
+  "keywords": [
+    "block-diagram-equivalence",
+    "sensitivity-function",
+    "feedback-structure",
+    "controller-reparameterization"
+  ],
+  "subjects": ["control-systems"],
+  "prerequisites": [
+    "block-diagrams",
+    "transfer-functions",
+    "feedback-control"
+  ],
+  "tags": [
+    "system-architecture",
+    "robust-control",
+    "analysis"
+  ],
+  "created_date": "2026-01-14",
+  "last_modified": "2026-01-14",
+  "estimated_time": 12,
+  "source": "Control Systems Textbook - Chapter 4",
+  "problem_type": "structural_equivalence",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 4,
+    "problem_solving": 3
+  },
+  "bloom_taxonomy": ["understand", "analyze"],
+  "learning_objectives": [
+    "Recognize equivalent feedback realizations",
+    "Derive sensitivity functions from block-diagrams",
+    "Understand controller reparameterization",
+    "Apply algebraic feedback transformations"
+  ]
+}

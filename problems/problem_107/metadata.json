@@ -1,0 +1,53 @@
+{
+  "id": "problem_107",
+  "title": "Elevator System Transfer Functions with Motor and Gravitational Torque Inputs",
+  "difficulty": "medium",
+  "difficulty_score": 0.58,
+  "expert_rating": 4.3,
+  "expert_review": "Clear application of Laplace transforms to mechanical systems with multiple inputs and stability interpretation.",
+  "keywords": [
+    "elevator-model",
+    "transfer-function",
+    "laplace-transform",
+    "mechanical-systems",
+    "stability-analysis",
+    "disturbance-input"
+  ],
+  "subjects": [
+    "control-systems",
+    "mechanical-dynamics",
+    "systems-modeling"
+  ],
+  "prerequisites": [
+    "laplace-transform",
+    "ordinary-differential-equations",
+    "linear-systems",
+    "basic-mechanics"
+  ],
+  "tags": [
+    "undergraduate",
+    "modeling",
+    "first-order-systems"
+  ],
+  "created_date": "2026-01-17",
+  "last_modified": "2026-01-17",
+  "estimated_time": 14,
+  "source": "Control Systems Textbook - Chapter 2",
+  "problem_type": "transfer_function_derivation",
+  "skill_levels": {
+    "conceptual": 3,
+    "procedural": 4,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": [
+    "apply",
+    "analyze"
+  ],
+  "learning_objectives": [
+    "Derive transfer functions from mechanical system equations",
+    "Model gravity as a disturbance input",
+    "Relate rotational and translational motion",
+    "Assess asymptotic stability using system poles",
+    "Interpret physical meaning of first-order dynamics"
+  ]
+}

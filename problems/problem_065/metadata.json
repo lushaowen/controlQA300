@@ -1,0 +1,51 @@
+{
+  "id": "problem_065",
+  "title": "Laplace Transform of sin(at)/t",
+  "difficulty": "medium",
+  "difficulty_score": 0.62,
+  "expert_rating": 4.6,
+  "expert_review": "A classic and elegant application of parameter integration to evaluate a nonstandard Laplace transform.",
+  "keywords": [
+    "laplace-transform",
+    "sine-function",
+    "inverse-tangent",
+    "parameter-integration",
+    "integral-transform"
+  ],
+  "subjects": [
+    "signals-and-systems",
+    "control-systems",
+    "applied-mathematics"
+  ],
+  "prerequisites": [
+    "basic-laplace-transform",
+    "cosine-transform-pair",
+    "integration-techniques"
+  ],
+  "tags": [
+    "undergraduate",
+    "core-theory",
+    "derivation-based"
+  ],
+  "created_date": "2026-01-11",
+  "last_modified": "2026-01-11",
+  "estimated_time": 15,
+  "source": "Control Systems Textbook - Chapter 3",
+  "problem_type": "analytical_derivation",
+  "skill_levels": {
+    "conceptual": 3,
+    "procedural": 4,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": [
+    "understand",
+    "apply",
+    "analyze"
+  ],
+  "learning_objectives": [
+    "Apply parameter integration to Laplace transforms",
+    "Evaluate nonstandard Laplace transform expressions",
+    "Recognize inverse tangent forms in transform results",
+    "Strengthen understanding of transform-domain techniques"
+  ]
+}

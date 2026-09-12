@@ -1,0 +1,40 @@
+{
+  "id": "problem_003",
+  "title": "Galileo Inclined Plane and Projectile Motion Experiment",
+  "difficulty": "medium",
+  "difficulty_score": 0.62,
+  "expert_rating": 4.5,
+  "expert_review": "Excellent problem combining experimental data analysis with classical physics modeling.",
+  "keywords": [
+    "projectile-motion",
+    "inclined-plane",
+    "galileo-experiment",
+    "curve-fitting",
+    "matlab"
+  ],
+  "subjects": ["physics", "control-systems", "system-modeling"],
+  "prerequisites": [
+    "basic-kinematics",
+    "energy-conservation",
+    "numerical-plotting",
+    "matlab-basics"
+  ],
+  "tags": ["undergraduate", "experimental-data", "modeling", "physics-based"],
+  "created_date": "2026-01-14",
+  "last_modified": "2026-01-14",
+  "estimated_time": 25,
+  "source": "Control Systems and Modeling Textbook - Chapter 1",
+  "problem_type": "data_analysis_and_modeling",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 3,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": ["apply", "analyze", "evaluate"],
+  "learning_objectives": [
+    "Analyze projectile motion using experimental data",
+    "Apply curve fitting techniques to physical systems",
+    "Relate mathematical models to physical interpretations",
+    "Estimate system parameters from measured data"
+  ]
+}

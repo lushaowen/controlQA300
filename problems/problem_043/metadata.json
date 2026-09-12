@@ -1,0 +1,52 @@
+{
+  "id": "problem_043",
+  "title": "DC Motor Parameter Estimation Using Added Inertia",
+  "difficulty": "medium_to_hard",
+  "difficulty_score": 0.72,
+  "expert_rating": 4.7,
+  "expert_review": "An advanced identification problem demonstrating safe and practical DC motor parameter estimation using time-constant variation.",
+  "keywords": [
+    "dc-motor",
+    "parameter-estimation",
+    "added-inertia",
+    "time-constant",
+    "system-identification"
+  ],
+  "subjects": [
+    "control-systems",
+    "mechatronics",
+    "electromechanical-systems"
+  ],
+  "prerequisites": [
+    "dc-motor-dynamics",
+    "linear-systems",
+    "first-order-systems"
+  ],
+  "tags": [
+    "graduate",
+    "experimental-identification",
+    "modeling",
+    "practical-methods"
+  ],
+  "created_date": "2026-01-11",
+  "last_modified": "2026-01-11",
+  "estimated_time": 22,
+  "source": "Control Systems Textbook - DC Motor Identification",
+  "problem_type": "parameter_estimation",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 4,
+    "problem_solving": 5
+  },
+  "bloom_taxonomy": [
+    "analyze",
+    "apply",
+    "evaluate"
+  ],
+  "learning_objectives": [
+    "Understand how inertia affects motor time constants",
+    "Estimate DC motor parameters without stall testing",
+    "Apply system identification techniques to electromechanical systems",
+    "Interpret physical implications of estimated parameters"
+  ]
+}

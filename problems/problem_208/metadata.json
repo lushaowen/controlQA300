@@ -1,0 +1,40 @@
+{
+  "id": "problem_208",
+  "title": "Root-Locus Design for Mass-Spring-Damper System with Constant Disturbance",
+  "difficulty": "medium",
+  "difficulty_score": 0.68,
+  "expert_rating": 4.5,
+  "expert_review": "A solid intermediate-level problem combining mechanical modeling, disturbance rejection, and root-locus controller design.",
+  "keywords": [
+    "mass-spring-damper",
+    "root-locus",
+    "disturbance-rejection",
+    "integral-control",
+    "feedback-control"
+  ],
+  "subjects": ["control-systems", "mechanical-systems"],
+  "prerequisites": [
+    "differential-equations",
+    "laplace-transform",
+    "root-locus",
+    "feedback-control"
+  ],
+  "tags": ["undergraduate", "control-design", "dynamic-feedback"],
+  "created_date": "2026-01-19",
+  "last_modified": "2026-01-19",
+  "estimated_time": 25,
+  "source": "Control Systems Textbook - Chapter 2",
+  "problem_type": "controller_design",
+  "skill_levels": {
+    "conceptual": 3,
+    "procedural": 4,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": ["apply", "analyze", "design"],
+  "learning_objectives": [
+    "Model mechanical systems with external disturbances",
+    "Design integral controllers for constant disturbance rejection",
+    "Apply root-locus techniques to stability analysis",
+    "Understand the impact of controller poles on system dynamics"
+  ]
+}

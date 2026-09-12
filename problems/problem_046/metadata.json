@@ -1,0 +1,51 @@
+{
+  "id": "problem_046",
+  "title": "Closed-Loop Speed Control of a DC Motor Using Proportional Feedback",
+  "difficulty": "medium",
+  "difficulty_score": 0.7,
+  "expert_rating": 4.6,
+  "expert_review": "A classic control problem illustrating proportional feedback, steady-state error, and performance trade-offs in DC motor speed control.",
+  "keywords": [
+    "dc-motor",
+    "closed-loop-control",
+    "proportional-controller",
+    "steady-state-error",
+    "time-constant"
+  ],
+  "subjects": [
+    "control-systems",
+    "mechatronics"
+  ],
+  "prerequisites": [
+    "first-order-systems",
+    "dc-motor-modeling",
+    "feedback-control"
+  ],
+  "tags": [
+    "undergraduate",
+    "graduate",
+    "feedback",
+    "performance-analysis"
+  ],
+  "created_date": "2026-01-11",
+  "last_modified": "2026-01-11",
+  "estimated_time": 25,
+  "source": "Control Systems Textbook - DC Motor Control",
+  "problem_type": "closed_loop_analysis",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 4,
+    "problem_solving": 5
+  },
+  "bloom_taxonomy": [
+    "apply",
+    "analyze",
+    "evaluate"
+  ],
+  "learning_objectives": [
+    "Derive closed-loop equations for DC motor speed control",
+    "Analyze steady-state error under proportional feedback",
+    "Select controller gain based on performance specifications",
+    "Understand trade-offs between accuracy and control effort"
+  ]
+}

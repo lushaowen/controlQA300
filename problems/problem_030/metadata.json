@@ -1,0 +1,53 @@
+{
+  "id": "problem_030",
+  "title": "Equivalent Stiffness and Equilibrium in a Dual-Spring Mass-Damper System",
+  "difficulty": "medium_to_advanced",
+  "difficulty_score": 0.7,
+  "expert_rating": 4.7,
+  "expert_review": "Strong example illustrating equivalent stiffness, equilibrium selection, and geometry-independent dynamics",
+  "keywords": [
+    "mass-spring-damper",
+    "dual-spring",
+    "equivalent-stiffness",
+    "equilibrium-position",
+    "newton-second-law",
+    "mechanical-modeling"
+  ],
+  "subjects": [
+    "control-systems",
+    "mechanical-systems",
+    "dynamics"
+  ],
+  "prerequisites": [
+    "classical-mechanics",
+    "linear-systems",
+    "ordinary-differential-equations"
+  ],
+  "tags": [
+    "undergraduate",
+    "modeling",
+    "mechanical-systems"
+  ],
+  "created_date": "2026-01-10",
+  "last_modified": "2026-01-10",
+  "estimated_time": 20,
+  "source": "Control Systems Textbook - Mechanical Modeling Chapter",
+  "problem_type": "multi_spring_modeling_and_interpretation",
+  "skill_levels": {
+    "conceptual": 5,
+    "procedural": 4,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": [
+    "understand",
+    "apply",
+    "analyze",
+    "evaluate"
+  ],
+  "learning_objectives": [
+    "Derive equations of motion for multi-spring systems",
+    "Understand equivalent stiffness concepts",
+    "Explain why geometric parameters do not affect linear dynamics",
+    "Analyze the role of equilibrium positions in system modeling"
+  ]
+}

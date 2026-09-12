@@ -1,0 +1,52 @@
+{
+  "id": "problem_168",
+  "title": "State-Space Modeling of a Mass-Spring-Damper System with Gravitational Input",
+  "difficulty": "easy_to_medium",
+  "difficulty_score": 0.58,
+  "expert_rating": 4.3,
+  "expert_review": "A classic example illustrating state-space modeling of a second-order mechanical system under gravitational forcing.",
+  "keywords": [
+    "mass-spring-damper",
+    "state-space",
+    "block-diagram",
+    "gravitational-force",
+    "mechanical-systems"
+  ],
+  "subjects": [
+    "control-systems",
+    "mechanical-systems",
+    "systems-modeling"
+  ],
+  "prerequisites": [
+    "ordinary-differential-equations",
+    "basic-mechanics",
+    "state-space-representation"
+  ],
+  "tags": [
+    "undergraduate",
+    "physical-systems",
+    "second-order",
+    "linear-systems"
+  ],
+  "created_date": "2026-01-19",
+  "last_modified": "2026-01-19",
+  "estimated_time": 15,
+  "source": "Control Systems Textbook - Chapter 2",
+  "problem_type": "modeling_and_representation",
+  "skill_levels": {
+    "conceptual": 3,
+    "procedural": 3,
+    "problem_solving": 2
+  },
+  "bloom_taxonomy": [
+    "understand",
+    "apply",
+    "analyze"
+  ],
+  "learning_objectives": [
+    "Model mass-spring-damper dynamics using state variables",
+    "Rewrite second-order differential equations in state-space form",
+    "Construct integrator-based block-diagrams",
+    "Interpret gravitational forces within control-oriented models"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "problem_081",
+  "title": "Magnitude Estimation on Complex Semi-Circular Contours",
+  "difficulty": "medium_to_hard",
+  "difficulty_score": 0.72,
+  "expert_rating": 4.6,
+  "expert_review": "This problem is central to understanding the convergence of Bromwich integral approximations and is a standard exercise in complex analysis for engineering.",
+  "keywords": [
+    "complex-analysis",
+    "Laplace-transform",
+    "inequality-proof",
+    "contour-integration",
+    "reverse-triangle-inequality"
+  ],
+  "subjects": ["complex-variables", "signals-and-systems"],
+  "prerequisites": ["complex-numbers", "triangle-inequality", "Euler-formula"],
+  "tags": ["derivation", "mathematical-physics", "residue-theory"],
+  "created_date": "2026-01-11",
+  "last_modified": "2026-01-11",
+  "estimated_time": 30,
+  "source": "Complex Analysis for Control Theory",
+  "problem_type": "theoretical_derivation",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 5,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": ["apply", "analyze", "evaluate"],
+  "learning_objectives": [
+    "Parametrize a shifted circular arc in the complex plane",
+    "Calculate the magnitude of complex exponential functions",
+    "Utilize the reverse triangle inequality to establish function bounds",
+    "Prepare mathematical foundations for proving Jordan's Lemma"
+  ]
+}

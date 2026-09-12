@@ -1,0 +1,53 @@
+{
+  "id": "problem_060",
+  "title": "Higher-Order Time Differentiation Property of the Laplace Transform",
+  "difficulty": "medium_to_hard",
+  "difficulty_score": 0.65,
+  "expert_rating": 4.8,
+  "expert_review": "A critical theoretical result that generalizes the differentiation property and enables Laplace-based solution of high-order differential equations.",
+  "keywords": [
+    "laplace-transform",
+    "higher-order-derivatives",
+    "time-differentiation",
+    "initial-conditions",
+    "recursive-proof"
+  ],
+  "subjects": [
+    "control-systems",
+    "signals-and-systems",
+    "applied-mathematics"
+  ],
+  "prerequisites": [
+    "first-order-differentiation-property",
+    "derivatives",
+    "laplace-transform-basics",
+    "linear-differential-equations"
+  ],
+  "tags": [
+    "undergraduate",
+    "core-theory",
+    "proof-based"
+  ],
+  "created_date": "2026-01-11",
+  "last_modified": "2026-01-11",
+  "estimated_time": 18,
+  "source": "Control Systems Textbook - Chapter 3",
+  "problem_type": "analytical_proof",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 3,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": [
+    "understand",
+    "apply",
+    "analyze",
+    "generalize"
+  ],
+  "learning_objectives": [
+    "Generalize the differentiation property to higher-order derivatives",
+    "Understand the recursive structure of Laplace transform properties",
+    "Relate initial conditions to Laplace-domain expressions",
+    "Apply the result to high-order differential equations in system analysis"
+  ]
+}

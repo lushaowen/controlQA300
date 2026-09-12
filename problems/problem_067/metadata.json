@@ -1,0 +1,52 @@
+{
+  "id": "problem_067",
+  "title": "Unit Area Property of the Dirac Delta Function",
+  "difficulty": "medium",
+  "difficulty_score": 0.58,
+  "expert_rating": 4.6,
+  "expert_review": "A foundational proof connecting sine integrals and the defining properties of the Dirac delta function.",
+  "keywords": [
+    "dirac-delta",
+    "unit-area",
+    "sine-integral",
+    "distribution-representation",
+    "limits"
+  ],
+  "subjects": [
+    "signals-and-systems",
+    "control-systems",
+    "applied-mathematics"
+  ],
+  "prerequisites": [
+    "problem-3-10",
+    "laplace-transform-basics",
+    "improper-integrals",
+    "symmetry-properties"
+  ],
+  "tags": [
+    "undergraduate",
+    "core-theory",
+    "conceptual-proof"
+  ],
+  "created_date": "2026-01-11",
+  "last_modified": "2026-01-11",
+  "estimated_time": 12,
+  "source": "Control Systems Textbook - Chapter 3",
+  "problem_type": "theoretical_proof",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 3,
+    "problem_solving": 3
+  },
+  "bloom_taxonomy": [
+    "understand",
+    "analyze",
+    "justify"
+  ],
+  "learning_objectives": [
+    "Understand the integral definition of the Dirac delta function",
+    "Relate sine integrals to delta-function properties",
+    "Apply symmetry arguments to improper integrals",
+    "Build intuition for generalized functions in system analysis"
+  ]
+}

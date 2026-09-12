@@ -1,0 +1,43 @@
+{
+  "id": "problem_131",
+  "title": "Reference Tracking and Measurement Noise Sensitivity",
+  "difficulty": "medium-hard",
+  "difficulty_score": 0.72,
+  "expert_rating": 4.7,
+  "expert_review": "Illustrates how integral control enables tracking while exposing sensitivity to low-frequency measurement noise.",
+  "keywords": [
+    "measurement-noise",
+    "reference-tracking",
+    "sensitivity-function",
+    "steady-state-response",
+    "frequency-analysis"
+  ],
+  "subjects": ["control-systems", "linear-systems"],
+  "prerequisites": [
+    "feedback-control",
+    "laplace-transforms",
+    "frequency-response"
+  ],
+  "tags": [
+    "noise-sensitivity",
+    "tracking-performance",
+    "closed-loop-analysis"
+  ],
+  "created_date": "2026-01-14",
+  "last_modified": "2026-01-14",
+  "estimated_time": 15,
+  "source": "Control Systems Textbook - Chapter 4",
+  "problem_type": "tracking_and_noise_rejection",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 4,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": ["analyze", "evaluate"],
+  "learning_objectives": [
+    "Analyze the impact of measurement noise on closed-loop output",
+    "Evaluate steady-state tracking accuracy",
+    "Understand frequency-dependent noise rejection",
+    "Distinguish between bias and oscillatory noise effects"
+  ]
+}

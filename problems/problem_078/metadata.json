@@ -1,0 +1,39 @@
+{
+  "id": "problem_078",
+  "title": "Divergence of the Squared Derivative of a Regularized Impulse",
+  "difficulty": "medium",
+  "difficulty_score": 0.65,
+  "expert_rating": 4.4,
+  "expert_review": "Subtle and instructive example illustrating divergence in impulse regularization.",
+  "keywords": [
+    "impulse-approximation",
+    "distribution-theory",
+    "regularization",
+    "limit-analysis",
+    "infinite-energy"
+  ],
+  "subjects": ["signals-and-systems", "applied-mathematics"],
+  "prerequisites": [
+    "calculus",
+    "limits-and-integrals",
+    "signals-and-systems"
+  ],
+  "tags": ["advanced-undergraduate", "conceptual", "theoretical"],
+  "created_date": "2026-01-14",
+  "last_modified": "2026-01-14",
+  "estimated_time": 10,
+  "source": "Signals and Systems Textbook - Impulse Modeling",
+  "problem_type": "limit_evaluation",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 3,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": ["analyze", "evaluate"],
+  "learning_objectives": [
+    "Analyze limits involving regularized impulse functions",
+    "Understand divergence in squared impulse derivatives",
+    "Apply careful scaling arguments in limit computations",
+    "Recognize physical meaning of infinite-energy results"
+  ]
+}

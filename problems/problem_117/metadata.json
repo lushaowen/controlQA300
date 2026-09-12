@@ -1,0 +1,52 @@
+{
+  "id": "problem_117",
+  "title": "Response of an RC Circuit to a Sinusoidal Input Voltage",
+  "difficulty": "medium",
+  "difficulty_score": 0.6,
+  "expert_rating": 4.6,
+  "expert_review": "An instructive problem demonstrating sinusoidal steady-state analysis and transient decay in first-order circuits.",
+  "keywords": [
+    "RC-circuit",
+    "sinusoidal-input",
+    "steady-state-response",
+    "transient-response",
+    "frequency-response"
+  ],
+  "subjects": [
+    "control-systems",
+    "circuits",
+    "signals-and-systems"
+  ],
+  "prerequisites": [
+    "laplace-transform",
+    "partial-fractions",
+    "frequency-domain-analysis"
+  ],
+  "tags": [
+    "undergraduate",
+    "time-domain-analysis",
+    "sinusoidal-steady-state",
+    "first-order-systems"
+  ],
+  "created_date": "2026-01-18",
+  "last_modified": "2026-01-18",
+  "estimated_time": 15,
+  "source": "Control Systems Textbook - Chapter 3",
+  "problem_type": "sinusoidal_response_analysis",
+  "skill_levels": {
+    "conceptual": 4,
+    "procedural": 3,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": [
+    "apply",
+    "analyze",
+    "evaluate"
+  ],
+  "learning_objectives": [
+    "Compute the response of an RC circuit to sinusoidal excitation",
+    "Separate transient and steady-state components in time responses",
+    "Relate steady-state behavior to system frequency response",
+    "Interpret amplitude scaling and phase shift in first-order systems"
+  ]
+}

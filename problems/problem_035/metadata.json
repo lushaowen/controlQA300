@@ -1,0 +1,50 @@
+{
+  "id": "problem_035",
+  "title": "Step Response of an RC Circuit",
+  "difficulty": "medium",
+  "difficulty_score": 0.6,
+  "expert_rating": 4.7,
+  "expert_review": "Classic first-order step response illustrating time constant and transient behavior",
+  "keywords": [
+    "RC-circuit",
+    "step-response",
+    "time-constant",
+    "capacitor-charging",
+    "first-order-system"
+  ],
+  "subjects": [
+    "electric-circuits",
+    "control-systems",
+    "dynamical-systems"
+  ],
+  "prerequisites": [
+    "RC-circuit-modeling",
+    "first-order-ODEs",
+    "exponential-response"
+  ],
+  "tags": [
+    "undergraduate",
+    "signals-and-systems",
+    "control-introduction"
+  ],
+  "created_date": "2026-01-10",
+  "last_modified": "2026-01-10",
+  "estimated_time": 15,
+  "source": "Control Systems Textbook - Electrical Circuit Examples",
+  "problem_type": "step_response_analysis",
+  "skill_levels": {
+    "conceptual": 3,
+    "procedural": 4,
+    "problem_solving": 3
+  },
+  "bloom_taxonomy": [
+    "apply",
+    "analyze"
+  ],
+  "learning_objectives": [
+    "Solve first-order linear ODEs with step inputs",
+    "Understand time constant effects on transient response",
+    "Relate current decay to capacitor charging",
+    "Sketch voltage and current responses of RC circuits"
+  ]
+}

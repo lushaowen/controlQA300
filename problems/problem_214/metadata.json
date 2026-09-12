@@ -1,0 +1,53 @@
+{
+  "id": "problem_214",
+  "title": "Integral Control and Root-Locus Design for a DC Motor Speed System",
+  "difficulty": "medium",
+  "difficulty_score": 0.62,
+  "expert_rating": 4.4,
+  "expert_review": "Clear illustration of how integral action enables constant-reference tracking using classical root-locus methods.",
+  "keywords": [
+    "DC-motor",
+    "root-locus",
+    "integral-control",
+    "speed-control",
+    "dynamic-feedback"
+  ],
+  "subjects": [
+    "control-systems",
+    "electromechanical-systems"
+  ],
+  "prerequisites": [
+    "laplace-transform",
+    "transfer-functions",
+    "root-locus-method",
+    "steady-state-error"
+  ],
+  "tags": [
+    "undergraduate",
+    "classical-control",
+    "motor-control",
+    "feedback-systems"
+  ],
+  "created_date": "2026-01-19",
+  "last_modified": "2026-01-19",
+  "estimated_time": 25,
+  "source": "Control Systems Textbook - Chapter 2",
+  "problem_type": "controller_design",
+  "skill_levels": {
+    "conceptual": 3,
+    "procedural": 4,
+    "problem_solving": 4
+  },
+  "bloom_taxonomy": [
+    "understand",
+    "apply",
+    "analyze"
+  ],
+  "learning_objectives": [
+    "Derive DC motor transfer functions",
+    "Understand the need for integral action in tracking problems",
+    "Apply root-locus methods to dynamic controller design",
+    "Select controller gains based on pole locations",
+    "Relate system type to steady-state tracking performance"
+  ]
+}
