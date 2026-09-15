@@ -179,6 +179,19 @@ The dataset is released under the **Creative Commons Attribution 4.0 Internation
 
 Please add a `LICENSE` file to the repository with the full license text.
 
+## Citation
+If you use controlQA300 in your research, please cite:
+
+```bibtex
+@article{controlQA300,
+  title = {LoRA Fine-Tuned Models for Control Systems Course Q\&A: A Multidimensional Evaluation of Model Scale and Rank Effects},
+  author = {Shaowen Lu, Chengxu Liu, Ping Zhou and Tao Yang},
+  year = {2026},
+  howpublished = {\url{arXiv:2609.13918}},
+  note = {Dataset}
+}
+```
+
 ## Contributing
 
 Contributions are welcome. To add a new problem:
